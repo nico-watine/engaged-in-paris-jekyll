@@ -1,5 +1,6 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
+@import url("http://fonts.googleapis.com/css?family=Oxygen:400,700");
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
@@ -132,35 +133,37 @@ html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }
 
-body { color: #333; font-weight: 400; font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; line-height: 1.4; }
+body { color: #333; font-weight: 400; font-family: "Oxygen", sans-serif; line-height: 1.4; }
 
 p { margin-bottom: 1.4rem; }
 
 a, a:visited { color: #222; }
 a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: none; }
 
-h1, h2, h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 700; }
+h1, h2, h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 400; }
 
 h5, h6 { letter-spacing: 1.2; text-transform: uppercase; }
 
-h1 { font-size: 3.125em; }
+h1 { font-size: 3.9375em; }
 
-h2 { font-size: 2.3125em; }
+h2 { font-size: 2.8125em; }
 
-h3, p.large { font-size: 1.75em; }
+h3 { font-size: 1.9375em; }
 
-h4 { font-size: 1.3125em; }
+h4, p.large { font-size: 1.375em; }
 
 h5 { font-size: 1em; }
 
 h6 { font-size: 0.75em; }
 
-@media screen and (max-width: 46.875em) { h1 { font-size: 2.3125em; }
-  h2 { font-size: 1.75em; }
-  h3, p.large { font-size: 1.3125em; }
+@media screen and (max-width: 46.875em) { h1 { font-size: 2.8125em; }
+  h2 { font-size: 1.9375em; }
+  h3, p.large { font-size: 1.375em; }
   h4 { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
+.bold { font-weight: 700; }
+
 html, body { margin: 0; padding: 0; height: 100%; }
 
 audio, canvas, img, video { vertical-align: middle; }
@@ -177,7 +180,7 @@ img { width: 100%; height: auto; }
 
 button { border: none; }
 
-a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.3125em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
 a.button:hover, button:hover { color: #000; background-color: #ccc; }
 @media screen and (max-width: 46.875em) { a.button, button { font-size: 1em; padding: 0.8125rem 1.3125rem 1rem; } }
 
@@ -192,6 +195,13 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 span.inline { display: inline-block; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
+
+body#index { background: url("/img/index/splash-default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
+body#index ul { margin: 0; padding: 0; list-style-type: none; }
+body#index ul li { display: inline-block; width: 11.25rem; }
+body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; }
+body#index ul a:hover { font-weight: 700; }
+body#index img.wedding-crest { max-width: 33.75em; margin-bottom: 0.9375em; }
 
 @media screen and (max-width: 62.5em) { body { background: red; } }
 @media screen and (max-width: 46.875em) { body { background: blue; } }
