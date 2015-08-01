@@ -1,0 +1,85 @@
+@import "../../settings/_settings-ie.scss";
+
+body#wedding-details {
+	background: url('/img/wedding-details/bg.jpg') no-repeat;
+	background-attachment: fixed;
+	background-position: top center;
+	background-size: cover;
+
+	.height-wrapper	{
+	    min-height: 70%;
+	    position: relative;
+	    padding-bottom: em(200);
+	}
+
+	.push-down {
+    	position: absolute;
+    	bottom: 0px;
+	}
+}
+
+.page-header {
+	top: 0px;
+	margin-bottom: em(30);
+}
+
+.tab-container {
+	@include span-columns(8 of 16);
+
+	a.tab-button {
+		@include span-columns(4 of 8);
+		@include shift(2);
+		background-color: rgba(68,68,68,0.75);
+		border: rem(3) solid #fff;
+		box-shadow: 0px rem(1) rem(4) 0px rgba(0,0,0,0.65);
+		border-radius: rem(5);
+		text-decoration: none;
+		padding: rem(20) 0 rem(25);
+		font-size: rem(32);
+
+	    @include transition (background-color 200ms ease-out 0s);
+	    @include transition (color 200ms ease-out 0s);
+
+		&:hover {
+			background-color: rgba(255,255,255,0.75);
+			color: #000;
+			border-left: rem(1) solid #fff;
+			border-right: rem(1) solid #fff;
+			text-shadow: none;
+		}
+	}
+}
+
+#main-wrapper {
+	@include span-columns(14 of 16);
+	@include shift(1);
+	margin-bottom: em(30);
+	padding: em(20) em(16);;
+}
+
+#location-box {
+	max-width: em(600);
+	width: auto;
+	margin: 0 auto em(45);
+	padding: em(14) em(16) em(22);
+
+	span {
+		font-size: rem(22);
+	}
+}
+
+.content-container {
+	border: em(1) solid #d0d0d0;
+	background: #fff;
+	box-shadow: 0px em(2) em(2) 0px rgba(0,0,0,0.20), 0px em(6) em(10) 0px rgba(0,0,0,0.30);
+	border-radius: em(5);
+}
+
+h2.container-title {
+	margin-bottom: rem(18);
+}
+
+.map-container {
+	@include span-columns(7 of 14);
+	padding: em(16);
+}

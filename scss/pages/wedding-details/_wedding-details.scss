@@ -1,7 +1,7 @@
 @import "../../settings/_settings.scss";
 
 body#wedding-details {
-	background: url('/img/wedding-details/bg%40default.jpg') no-repeat;
+	background: url('/img/wedding-details/bg@default.jpg') no-repeat;
 	background-size: cover;
 	background-position: center top;
 
@@ -17,3 +17,28 @@ body#wedding-details {
 }
 
 
+#content-tabs {
+	.tab-container {
+		@include span-columns(8 of 16);
+
+		a {
+			width: rem(260);
+			height: rem(80);
+			text-decoration: none;
+			border: rem(3) solid #fff;
+			background: #444;
+			font-size: rem(28);
+			color: #fff;
+			border-radius: rem(5);
+			background: rgba(68,68,68,0.75);
+			text-shadow: 0 rem(2) rem(4) #000;
+			box-shadow: 0 rem(1) rem(4) 0 rgba(0,0,0,0.65);
+		}
+	}
+}
+
+/* Rectangle 2: */
+// background: rgba(68,68,68,0.75);
+// border: 3px solid #FFFFFF;
+// box-shadow: 0px 1px 4px 0px rgba(0,0,0,0.65);
+// border-radius: 5px;

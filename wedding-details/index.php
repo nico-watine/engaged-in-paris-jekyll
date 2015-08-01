@@ -26,6 +26,14 @@
 	<h1 class="bold">Wedding Details</h1>
 </header>
 
+<section id="content-tabs" class="outer-container">
+	<div class="tab-container">
+		<a href="#" class="tab">Ceremony</a>
+	</div>
+	<div class="tab-container">
+		<a href="#" class="tab">Reception</a>
+	</div>
+</section>
 
 
 

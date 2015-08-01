@@ -9,29 +9,27 @@ body#index {
 	text-align: center;
 	padding-top: em(80);
 
-	// nav {
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style-type: none;
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style-type: none;
 
-			li {
-				display: inline-block;
-				width: rem(180);
-			}
+		li {
+			display: inline-block;
+			width: rem(180);
+		}
 
-			a {
-				color: #fff;
-				text-decoration: none;
-				font-size: rem(22);
-				text-shadow: 0 rem(1) rem(3) #000;
+		a {
+			color: #fff;
+			text-decoration: none;
+			font-size: rem(22);
+			text-shadow: 0 rem(1) rem(3) #000;
 
-				&:hover {
-					font-weight: $header-font-weight;
-				}
+			&:hover {
+				font-weight: $header-font-weight;
 			}
 		}
-	// }
+	}
 
 	img.wedding-crest {
 		max-width: em(540);
@@ -39,5 +37,3 @@ body#index {
 	}
 }
 
-// 10,643
-// 10,627
