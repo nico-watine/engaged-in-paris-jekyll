@@ -1,0 +1,19 @@
+@import "../../settings/_settings.scss";
+
+body#wedding-details {
+	background: url('/img/wedding-details/bg%40default.jpg') no-repeat;
+	background-size: cover;
+	background-position: center top;
+
+	header {
+		text-align: center;
+		padding-top: em(460);
+
+		h1 {
+			color: #fff;
+			text-shadow: 0 rem(2) rem(4) #000;
+		}
+	}
+}
+
+

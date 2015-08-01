@@ -23,8 +23,9 @@
 
 // INDIVIDUAL PAGE STYLES
 @import "pages/index/_index.scss";
+@import "pages/wedding-details/_wedding-details.scss";
 
 
 // LASTLY IMPORT DEVELOPMENT STYLES, TO BE REMOVED UPON PRODUCTION
-@import "settings/_development-styles.scss";
+// @import "settings/_development-styles.scss";
 

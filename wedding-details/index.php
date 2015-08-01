@@ -8,7 +8,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<title>Nico &amp; Corinne Watine are Engaged!</title>
+	<title>Wedding Details</title>
 	<meta name="description" content="###">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
@@ -20,26 +20,17 @@
 	<![endif]-->
 
 </head>
-<body id="index">
+<body id="wedding-details">
+
+<header>
+	<h1 class="bold">Wedding Details</h1>
+</header>
 
 
-<img class="wedding-crest" src="/img/badge/badge@2x.png" alt="Nico &amp; Corinne Wedding Crest">
 
-<nav>
-	<ul>
-		<li>
-			<a href="wedding-details/">Wedding Details</a>
-		</li>
-		<li>
-			<a href="#">Proposal Story</a>
-		</li>
-	</ul>
-</nav>
+
 
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 </body>
 </html>
-
-
-

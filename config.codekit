@@ -676,13 +676,68 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/index\/splash-default.jpg": {
+	"\/img\/index\/bg@default.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 125415,
-		"inputAbbreviatedPath": "\/img\/index\/splash-default.jpg",
-		"outputAbbreviatedPath": "\/img\/index\/splash-default.jpg",
+		"initialSize": 451872,
+		"inputAbbreviatedPath": "\/img\/index\/bg@default.jpg",
+		"outputAbbreviatedPath": "\/img\/index\/bg@default.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/bg@default.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 415852,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/bg@default.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/bg@default.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/chapel-map@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 480505,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/chapel-map@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/chapel-map@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/chapel-street@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 852350,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/chapel-street@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/chapel-street@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/church-map@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 481838,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/church-map@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/church-map@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/church-street@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 692454,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -999,6 +1054,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 1
 		},
+	"\/scss\/pages\/wedding-details\/_wedding-details.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/wedding-details\/_wedding-details.scss",
+		"outputAbbreviatedPath": "\/css\/_wedding-details.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 0,
+		"useLibsass": 1
+		},
 	"\/scss\/settings\/_development-styles.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1062,6 +1133,15 @@
 		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0,
 		"useLibsass": 0
+		},
+	"\/wedding-details\/index.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/wedding-details\/index.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
