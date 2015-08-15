@@ -27,11 +27,17 @@
 </header>
 
 <section id="content-tabs" class="outer-container">
-	<div class="tab-container">
-		<a href="#" class="tab">Ceremony</a>
-	</div>
-	<div class="tab-container">
-		<a href="#" class="tab">Reception</a>
+	<div class="row">
+		<div class="tab-wrapper">
+			<a href="#">
+				<div class="tab">
+					<h4>Ceremony</h4>
+				</div>
+			</a>
+		</div>
+		<div class="tab-wrapper">
+			<div class="tab"></div>
+		</div>
 	</div>
 </section>
 
