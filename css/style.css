@@ -129,38 +129,13 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
 
 *, *::after, *::before { -moz-box-sizing: inherit; box-sizing: inherit; }
 
-@font-face { font-family: 'Museo 100'; src: url("/fonts/museo/100/MuseoSansCyrl-100.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/museo/100/MuseoSansCyrl-100.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/100/MuseoSansCyrl-100.woff") format("woff"), url("/fonts/museo/100/MuseoSansCyrl-100.ttf") format("truetype"), url("/fonts/museo/100/MuseoSansCyrl-100.svg#6eff97f49ef0d64b413b2622a3c841e0") format("svg");
-  /* Legacy iOS */
-  font-style: normal; font-weight: 400; }
-@font-face { font-family: 'Museo 300'; src: url("/fonts/museo/300/MuseoSansCyrl-300.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/museo/300/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/300/MuseoSansCyrl-300.woff") format("woff"), url("/fonts/museo/300/MuseoSansCyrl-300.ttf") format("truetype"), url("/fonts/museo/300/MuseoSansCyrl-300.svg#279d579f5361481259473477314c79fc") format("svg");
-  /* Legacy iOS */
-  font-style: normal; font-weight: 400; }
-@font-face { font-family: 'Museo 500'; src: url("/fonts/museo/500/MuseoSansCyrl-500.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/museo/500/MuseoSansCyrl-500.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/500/MuseoSansCyrl-500.woff") format("woff"), url("/fonts/museo/500/MuseoSansCyrl-500.ttf") format("truetype"), url("/fonts/museo/500/MuseoSansCyrl-500.svg#3de9e3e779dc83c8711e382dfdac696a") format("svg");
-  /* Legacy iOS */
-  font-style: normal; font-weight: 400; }
-@font-face { font-family: 'Museo 700'; src: url("/fonts/museo/700/MuseoSansCyrl-700.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/museo/700/MuseoSansCyrl-700.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/700/MuseoSansCyrl-700.woff") format("woff"), url("/fonts/museo/700/MuseoSansCyrl-700.ttf") format("truetype"), url("/fonts/museo/700/MuseoSansCyrl-700.svg#2c1901d297aa6a07b09d7e377159e784") format("svg");
-  /* Legacy iOS */
-  font-style: normal; font-weight: 400; }
-@font-face { font-family: 'Museo 900'; src: url("/fonts/museo/900/MuseoSansCyrl-900.eot");
-  /* IE9 Compat Modes */
-  src: url("/fonts/museo/900/MuseoSansCyrl-900.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/900/MuseoSansCyrl-900.woff") format("woff"), url("/fonts/museo/900/MuseoSansCyrl-900.ttf") format("truetype"), url("/fonts/museo/900/MuseoSansCyrl-900.svg#4d0367c9fc78e6ce24d414cf01484ec7") format("svg");
-  /* Legacy iOS */
-  font-style: normal; font-weight: 400; }
 html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
 body { color: #333; font-weight: 400; font-family: "Oxygen", sans-serif; line-height: 1.4rem; }
 
-p, p.large { margin-bottom: 1.4rem; font-famiy: 'Museo 300'; }
+p, p.large { margin-bottom: 1.4rem; }
 
 a { color: #222; }
 a:hover, a:focus { text-decoration: none; }
@@ -191,25 +166,23 @@ h6 { font-size: 0.75em; }
   h4, p.large { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
-.bold { font-family: 'Museo 700'; }
-
-.normal { font-family: 'Museo 500'; }
-
 .white { color: #fff; }
 
 .centered-text { text-align: center; }
 
 .white.text-shadow { text-shadow: 0px 0.125rem 0.25rem #000; }
 
-html, body { margin: 0; padding: 0; height: 100%; }
+html, body { margin: 0; padding: 0; }
 
 audio, canvas, img, video { vertical-align: middle; }
 
-fieldset { border: 0; margin: 0; padding: 0; }
+address { font-style: normal; }
+
+fieldset, figure { border: 0; margin: 0; padding: 0; }
 
 textarea { resize: vertical; }
 
-img { width: 100%; height: auto; }
+img { max-width: 100%; height: auto; }
 
 ::-moz-selection { background: #b3d4fc; text-shadow: none; }
 
@@ -233,6 +206,8 @@ span.inline { display: inline-block; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
+html, body { height: 100%; }
+
 header { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: 3.125em; position: fixed; top: 0; z-index: 55; }
 
 nav { text-align: center; }
@@ -240,9 +215,9 @@ nav #crest-wrapper { position: absolute; padding: 0.3125em 0 0 1.25em; }
 nav #crest-wrapper a img { max-width: 3.125em; height: auto; }
 nav ul { display: inline-block; padding: 0.8125em 0 0 0; margin: 0; list-style: none; }
 nav ul li { float: left; }
-nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; font-family: 'Museo 500'; }
-nav ul li a:hover { font-family: "Museo 700"; }
-nav ul li a.active { font-family: 'Museo 700'; }
+nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; }
+nav ul li a:hover { font-weight: 700; }
+nav ul li a.active { font-weight: 700; }
 nav ul li#wedding-details { width: 10em; }
 nav ul li#rsvp { width: 7.5em; }
 nav ul li#proposal-story { width: 10em; }

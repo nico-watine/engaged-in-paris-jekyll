@@ -29,15 +29,14 @@ nav {
 				color: #fff;
 				text-shadow: 0px rem(1) rem(3) #000;
 				text-decoration: none;
-				font-family: 'Museo 500';
 
 				&:hover {
-					font-family: 'Museo 700'
+					font-weight: $header-font-weight;
 				}
 			}
 
 			a.active {
-				font-family: 'Museo 700';
+				font-weight: $header-font-weight;
 			}
 		}
 
