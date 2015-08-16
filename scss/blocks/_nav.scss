@@ -1,1 +1,57 @@
 @import "../settings/_settings.scss";
+
+nav {
+	text-align: center;
+
+	#crest-wrapper {
+		position: absolute;
+		padding: em(5) 0 0 em(20);
+
+		a {
+			img {
+				max-width: em(50);
+				height: auto;
+			}
+		}
+	}
+
+	ul {
+		display: inline-block;
+		padding: em(13) 0 0 0;
+		margin: 0;
+		list-style: none;
+
+		li {
+			float: left;
+
+			a {
+				font-size: rem(18);
+				color: #fff;
+				text-shadow: 0px rem(1) rem(3) #000;
+				text-decoration: none;
+				font-family: 'Museo 500';
+
+				&:hover {
+					font-family: 'Museo 700'
+				}
+			}
+
+			a.active {
+				font-family: 'Museo 700';
+			}
+		}
+
+		li#wedding-details {
+			width: em(160);
+		}
+
+		li#rsvp {
+			width: em(120);
+		}
+
+		li#proposal-story {
+			width: em(160);
+		}
+	}
+
+}

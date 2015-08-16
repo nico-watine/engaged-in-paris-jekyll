@@ -11,22 +11,22 @@ button,
 textarea {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizeLegibility;
-	-moz-osx-font-smoothing: grayscale;
 }
 
 body {
 	color: $text-color;
 	font-weight: $body-font-weight;
 	font-family: $body-font-family;
-	line-height: 1.4;
+	line-height: $baseline;
 }
 
-p {
-	margin-bottom: $baseline;
+p,
+p.large {
+	margin-bottom: 1.4rem;
+	font-famiy: 'Museo 300';
 }
 
-a,
-a:visited {
+a {
 	color: $link-color;
 
 	&:hover,
@@ -35,21 +35,33 @@ a:visited {
 	}
 }
 
+hr {
+	border: 0;
+	background-color: $hr-color;
+	height: em(1);
+	margin: $baseline 0;
+}
 
 h1, 
-h2,
+h2, 
 h3, 
 h4,
 h5,
 h6 {
-	margin: 0 0 rem(8);
+	margin: .2rem auto .5rem; 
+	line-height: 1.2;
 	font-weight: $body-font-weight;
 }
 
 h5,
 h6 {
-	letter-spacing: $h5-h6-letter-spacing;
+	line-height: 1.5;
+	letter-spacing: rem(1);
 	text-transform: uppercase;
+}
+
+p.large {
+	line-height: 1.2;
 }
 
 h1 {
@@ -87,12 +99,12 @@ h6 {
 		font-size: $h3-size;
 	}
 
-	h3,
-	p.large {
+	h3 {
 		font-size: $h4-size;
 	}
 
-	h4 {
+	h4,
+	p.large {
 		font-size: $h5-size;
 	}
 
@@ -106,5 +118,21 @@ h6 {
 }
 
 .bold {
-	font-weight: $header-font-weight;
+	font-family: 'Museo 700';
+}
+
+.normal {
+	font-family: 'Museo 500';
+}
+
+.white {
+	color: #fff;
+}
+
+.centered-text {
+	text-align: center;
+}
+
+.white.text-shadow {
+	text-shadow: 0px rem(2) rem(4) #000;
 }

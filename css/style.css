@@ -129,20 +129,49 @@ html { -moz-box-sizing: border-box; box-sizing: border-box; }
 
 *, *::after, *::before { -moz-box-sizing: inherit; box-sizing: inherit; }
 
+@font-face { font-family: 'Museo 100'; src: url("/fonts/museo/100/MuseoSansCyrl-100.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/museo/100/MuseoSansCyrl-100.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/100/MuseoSansCyrl-100.woff") format("woff"), url("/fonts/museo/100/MuseoSansCyrl-100.ttf") format("truetype"), url("/fonts/museo/100/MuseoSansCyrl-100.svg#6eff97f49ef0d64b413b2622a3c841e0") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Museo 300'; src: url("/fonts/museo/300/MuseoSansCyrl-300.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/museo/300/MuseoSansCyrl-300.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/300/MuseoSansCyrl-300.woff") format("woff"), url("/fonts/museo/300/MuseoSansCyrl-300.ttf") format("truetype"), url("/fonts/museo/300/MuseoSansCyrl-300.svg#279d579f5361481259473477314c79fc") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Museo 500'; src: url("/fonts/museo/500/MuseoSansCyrl-500.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/museo/500/MuseoSansCyrl-500.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/500/MuseoSansCyrl-500.woff") format("woff"), url("/fonts/museo/500/MuseoSansCyrl-500.ttf") format("truetype"), url("/fonts/museo/500/MuseoSansCyrl-500.svg#3de9e3e779dc83c8711e382dfdac696a") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Museo 700'; src: url("/fonts/museo/700/MuseoSansCyrl-700.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/museo/700/MuseoSansCyrl-700.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/700/MuseoSansCyrl-700.woff") format("woff"), url("/fonts/museo/700/MuseoSansCyrl-700.ttf") format("truetype"), url("/fonts/museo/700/MuseoSansCyrl-700.svg#2c1901d297aa6a07b09d7e377159e784") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
+@font-face { font-family: 'Museo 900'; src: url("/fonts/museo/900/MuseoSansCyrl-900.eot");
+  /* IE9 Compat Modes */
+  src: url("/fonts/museo/900/MuseoSansCyrl-900.eot?#iefix") format("embedded-opentype"), url("/fonts/museo/900/MuseoSansCyrl-900.woff") format("woff"), url("/fonts/museo/900/MuseoSansCyrl-900.ttf") format("truetype"), url("/fonts/museo/900/MuseoSansCyrl-900.svg#4d0367c9fc78e6ce24d414cf01484ec7") format("svg");
+  /* Legacy iOS */
+  font-style: normal; font-weight: 400; }
 html { font-size: 1em; }
 
-html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; -moz-osx-font-smoothing: grayscale; }
+html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
-body { color: #333; font-weight: 400; font-family: "Oxygen", sans-serif; line-height: 1.4; }
+body { color: #333; font-weight: 400; font-family: "Oxygen", sans-serif; line-height: 1.4rem; }
 
-p { margin-bottom: 1.4rem; }
+p, p.large { margin-bottom: 1.4rem; font-famiy: 'Museo 300'; }
 
-a, a:visited { color: #222; }
-a:hover, a:focus, a:visited:hover, a:visited:focus { text-decoration: none; }
+a { color: #222; }
+a:hover, a:focus { text-decoration: none; }
 
-h1, h2, h3, h4, h5, h6 { margin: 0 0 0.5rem; font-weight: 400; }
+hr { border: 0; background-color: #ccc; height: 0.0625em; margin: 1.4rem 0; }
 
-h5, h6 { letter-spacing: 1.2; text-transform: uppercase; }
+h1, h2, h3, h4, h5, h6 { margin: .2rem auto .5rem; line-height: 1.2; font-weight: 400; }
+
+h5, h6 { line-height: 1.5; letter-spacing: 0.0625rem; text-transform: uppercase; }
+
+p.large { line-height: 1.2; }
 
 h1 { font-size: 3.9375em; }
 
@@ -158,11 +187,19 @@ h6 { font-size: 0.75em; }
 
 @media screen and (max-width: 46.875em) { h1 { font-size: 2.8125em; }
   h2 { font-size: 1.9375em; }
-  h3, p.large { font-size: 1.375em; }
-  h4 { font-size: 1em; }
+  h3 { font-size: 1.375em; }
+  h4, p.large { font-size: 1em; }
   h5 { font-size: 0.75em; }
   h6 { font-size: 0.75em; } }
-.bold { font-weight: 700; }
+.bold { font-family: 'Museo 700'; }
+
+.normal { font-family: 'Museo 500'; }
+
+.white { color: #fff; }
+
+.centered-text { text-align: center; }
+
+.white.text-shadow { text-shadow: 0px 0.125rem 0.25rem #000; }
 
 html, body { margin: 0; padding: 0; height: 100%; }
 
@@ -196,6 +233,20 @@ span.inline { display: inline-block; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
+header { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: 3.125em; position: fixed; top: 0; z-index: 55; }
+
+nav { text-align: center; }
+nav #crest-wrapper { position: absolute; padding: 0.3125em 0 0 1.25em; }
+nav #crest-wrapper a img { max-width: 3.125em; height: auto; }
+nav ul { display: inline-block; padding: 0.8125em 0 0 0; margin: 0; list-style: none; }
+nav ul li { float: left; }
+nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; font-family: 'Museo 500'; }
+nav ul li a:hover { font-family: "Museo 700"; }
+nav ul li a.active { font-family: 'Museo 700'; }
+nav ul li#wedding-details { width: 10em; }
+nav ul li#rsvp { width: 7.5em; }
+nav ul li#proposal-story { width: 10em; }
+
 body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
 body#index ul li { display: inline-block; width: 11.25rem; }
@@ -203,12 +254,27 @@ body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-
 body#index ul a:hover { font-weight: 700; }
 body#index img.wedding-crest { max-width: 33.75em; margin-bottom: 0.9375em; }
 
-body#wedding-details { background: url("/img/wedding-details/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; }
-body#wedding-details header { text-align: center; padding-top: 28.75em; }
-body#wedding-details header h1 { color: #fff; text-shadow: 0 0.125rem 0.25rem #000; }
+body#wedding-details { background: url("/img/wedding-details/bg@default.jpg") no-repeat; background-attachment: fixed; background-position: top center; background-size: cover; }
+body#wedding-details .height-wrapper { min-height: 70%; position: relative; padding-bottom: 12.5em; }
+body#wedding-details .push-down { position: absolute; bottom: 0px; }
 
-#content-tabs .tab-wrapper { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
-#content-tabs .tab-wrapper:last-child { margin-right: 0; }
-#content-tabs a { float: right; }
-#content-tabs a .tab { width: 16.25em; height: 5em; background: #444; background: rgba(68, 68, 68, 0.75); border: 0.1875em solid #fff; box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.65); border-radius: 0.3125em; }
-#content-tabs a .tab h4 { font-size: 28px; color: #FFFFFF; text-shadow: 0px 2px 4px #000000; }
+.page-header { top: 0px; margin-bottom: 1.875em; }
+
+.tab-container { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+.tab-container:last-child { margin-right: 0; }
+.tab-container a.tab-button { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: rgba(68, 68, 68, 0.75); border: 0.1875rem solid #fff; box-shadow: 0px 0.0625rem 0.25rem 0px rgba(0, 0, 0, 0.65); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 2rem; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+.tab-container a.tab-button:last-child { margin-right: 0; }
+.tab-container a.tab-button:hover { background-color: rgba(255, 255, 255, 0.75); color: #000; border-left: 0.0625rem solid #fff; border-right: 0.0625rem solid #fff; text-shadow: none; }
+
+#main-wrapper { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 1.875em; padding: 1.25em 1em; }
+#main-wrapper:last-child { margin-right: 0; }
+
+#location-box { max-width: 37.5em; width: auto; margin: 0 auto 2.8125em; padding: 0.875em 1em 1.375em; }
+#location-box span { font-size: 1.375rem; }
+
+.content-container { border: 0.0625em solid #d0d0d0; background: #fff; box-shadow: 0px 0.125em 0.125em 0px rgba(0, 0, 0, 0.2), 0px 0.375em 0.625em 0px rgba(0, 0, 0, 0.3); border-radius: 0.3125em; }
+
+h2.container-title { margin-bottom: 1.125rem; }
+
+.map-container { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; padding: 1em; }
+.map-container:last-child { margin-right: 0; }

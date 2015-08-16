@@ -28,7 +28,7 @@
 <nav>
 	<ul>
 		<li>
-			<a href="wedding-details/">Wedding Details</a>
+			<a href="/wedding-details">Wedding Details</a>
 		</li>
 		<li>
 			<a href="#">Proposal Story</a>

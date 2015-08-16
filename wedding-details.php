@@ -1,3 +1,6 @@
+<?php 
+	include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
+?>
 <!DOCTYPE html>
 <html class="no-js" lang="en">
 <head>
@@ -5,25 +8,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
-	<title></title>
-	<meta name="description" content="">
+	<title>Nico &amp; Corinne Watine are Engaged!</title>
+	<meta name="description" content="###">
 	<link type="text/plain" rel="author" href="/humans.txt">
-
-	<link rel="apple-touch-icon" href="/apple-touch-icon.png">
-	<link rel="icon" sizes="192x192" href="/touch-icon-192x192.png">
-	<link rel="shortcut icon" href="/favicon.ico">
 	
-	<!-- <link rel="stylesheet" href="/css/style.css"> -->
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
-	<?php 
-		include($_SERVER['DOCUMENT_ROOT'].'/php/autoVer.php');
-	?>
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" type="text/css" />
-	
 	<!--[if lt IE 9]>
-		<link rel="stylesheet" href="/css/ie.css">
+		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
 		<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	<![endif]-->
+
 </head>
 
 <body id="wedding-details">
@@ -33,7 +28,7 @@
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
-					<img src="/img/badges/nav-badge.png" alt="Mini Crest">
+					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
 				</a>
 			</div>
 			<ul>
@@ -110,6 +105,6 @@
 	</section>
 </main>
 
-<script src="/js/scripts.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 </body>
 </html>
