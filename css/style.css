@@ -218,9 +218,7 @@ nav ul li { float: left; }
 nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; }
 nav ul li a:hover { font-weight: 700; }
 nav ul li a.active { font-weight: 700; }
-nav ul li#wedding-details { width: 10em; }
-nav ul li#rsvp { width: 7.5em; }
-nav ul li#proposal-story { width: 10em; }
+nav ul li#wedding-details, nav ul li#proposal-story { width: 10em; }
 
 body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }

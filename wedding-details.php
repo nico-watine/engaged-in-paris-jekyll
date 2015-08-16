@@ -35,9 +35,9 @@
 				<li id="wedding-details">
 					<a href="/wedding-details/" class="active">Wedding Details</a>
 				</li>
-				<li id="rsvp">
+				<!-- <li id="rsvp">
 					<a href="#">RSVP</a>
-				</li>
+				</li> -->
 				<li id="proposal-story">
 					<a href="#">Proposal Story</a>
 				</li>
