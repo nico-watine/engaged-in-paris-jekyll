@@ -240,6 +240,7 @@ body#wedding-details .push-down { position: absolute; bottom: 0px; }
 .tab-container a.tab-button { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: rgba(68, 68, 68, 0.75); border: 0.1875rem solid #fff; box-shadow: 0px 0.0625rem 0.25rem 0px rgba(0, 0, 0, 0.65); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 2rem; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
 .tab-container a.tab-button:last-child { margin-right: 0; }
 .tab-container a.tab-button:hover { background-color: rgba(255, 255, 255, 0.75); color: #000; border-left: 0.0625rem solid #fff; border-right: 0.0625rem solid #fff; text-shadow: none; }
+.tab-container a.tab-button.active { background-color: rgba(255, 255, 255, 0.75); color: #000; border-left: 0.0625rem solid #fff; border-right: 0.0625rem solid #fff; text-shadow: none; }
 
 #main-wrapper { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 1.875em; padding: 1.25em 1em; }
 #main-wrapper:last-child { margin-right: 0; }

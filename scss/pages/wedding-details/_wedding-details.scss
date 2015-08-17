@@ -48,6 +48,14 @@ body#wedding-details {
 			text-shadow: none;
 		}
 	}
+
+	a.tab-button.active {
+		background-color: rgba(255,255,255,0.75);
+		color: #000;
+		border-left: rem(1) solid #fff;
+		border-right: rem(1) solid #fff;
+		text-shadow: none;
+	}
 }
 
 #main-wrapper {
