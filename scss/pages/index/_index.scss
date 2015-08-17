@@ -1,5 +1,6 @@
 @import "../../settings/_settings.scss";
 
+$max-400: "only screen and (max-width : 400px)";
 
 body#index {
 	background: url('/img/index/bg@default.jpg') no-repeat;
@@ -33,7 +34,23 @@ body#index {
 
 	img.wedding-crest {
 		max-width: em(540);
+		width: 100%;
+		padding: 0 em(24);
 		margin-bottom: em(15);
+	}
+
+	@media #{$max-400} {
+		ul {
+			li {
+				width: 100%;
+				margin-bottom: rem(14);
+			}
+		}
 	}
 }
 
+@media #{$max-400} {
+	body#index {
+
+	}
+}

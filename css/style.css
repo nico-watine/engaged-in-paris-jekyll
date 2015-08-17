@@ -286,7 +286,8 @@ body#index ul { margin: 0; padding: 0; list-style-type: none; }
 body#index ul li { display: inline-block; width: 11.25rem; }
 body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; }
 body#index ul a:hover { font-weight: 600; }
-body#index img.wedding-crest { max-width: 33.75em; margin-bottom: 0.9375em; }
+body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
+@media only screen and (max-width: 400px) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
 
 body#wedding-details { background: url("/img/wedding-details/bg@default.jpg") no-repeat; background-attachment: fixed; background-position: top center; background-size: cover; }
 body#wedding-details .height-wrapper { min-height: 70%; position: relative; padding-bottom: 12.5em; }
