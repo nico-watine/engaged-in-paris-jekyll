@@ -40,6 +40,16 @@ hr {
 	margin: $baseline 0;
 }
 
+.header {
+	font-family: $header-font-family;
+	font-weight: $header-font-weight;
+}
+
+.title {
+	font-family: $header-font-family;
+	font-weight: $title-font-weight;
+}
+
 h1, 
 h2, 
 h3, 

@@ -49,14 +49,14 @@
 
 
 <section class="page-header outer-container centered-text">
-	<h1 class="bold white text-shadow">Wedding Details</h1>
+	<h1 class="title white text-shadow">Wedding Details</h1>
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
-				<a data-toggle="tab" href="#ceremony" class="normal tab-button white text-shadow ceremony">Ceremony</a>
+				<a data-toggle="tab" href="#ceremony" class="header normal tab-button white text-shadow ceremony">Ceremony</a>
 			</li>
 			<li>
-				<a data-toggle="tab" href="#reception" class="normal tab-button white text-shadow reception">Reception</a>
+				<a data-toggle="tab" href="#reception" class="header normal tab-button white text-shadow reception">Reception</a>
 			</li>
 		</ul>
 	</div>
@@ -65,7 +65,7 @@
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
 		<article id="ceremony" class="tab-pane fade in active">
-			<h2 class="normal container-title">Ceremony Location</h2>
+			<h2 class="header normal container-title">Ceremony Location</h2>
 			<address class="content-container" id="location-box">
 				<h3>The Chapel of Divine Mercy <br>
 				<span>located on the</span> <br>
@@ -76,10 +76,10 @@
 			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St Laurence Catholic Church grounds.</p>
 			<p class="large">The Chapel is attached to the School Building along Austing Parkway. <br>It is separate from the actual church.</p>
 			<hr>
-			<h2 id="more-info">More info will be provided as the wedding date approaches.</h2>
+			<h2 id="more-info" class="header">More info will be provided as the wedding date approaches.</h2>
 		</article>
 		<article id="reception" class="tab-pane fade">
-			<h2>Reception Details</h2>
+			<h2 class="header">Reception Details</h2>
 			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank" class="inline">Brennan’s of Houston</a> <br>
 			Festivities begin at 7PM</p>
 			<p style="margin-bottom: 8px;">Reception Info</p>
@@ -88,7 +88,7 @@
 				3300 Smith St <br>
 				Houston, Texas 77006</h3>
 			</address>
-			<h2>Venue Info</h2>
+			<h2 class="header">Venue Info</h2>
 			<div id="parking">
 				<h3>Parking</h3>
 				<p class="large"><strong>Street Parking</strong> is available on a first come first serve basis. Because Brennan’s of Houston is located in Midtown, street parking can sometimes be scarce. <br><strong>Valet Parking</strong> is available for $5. </p>
@@ -98,7 +98,7 @@
 				<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. There is an elevator.</p>
 			</div>
 			<hr>
-			<h2 id="more-info">More info will be provided as the wedding date approaches.</h2>
+			<h2 id="more-info" class="header">More info will be provided as the wedding date approaches.</h2>
 		</article>
 	</section>
 </main>
