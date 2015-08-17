@@ -36,7 +36,6 @@
 	</ul>
 </nav>
 
-<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 </body>
 </html>
