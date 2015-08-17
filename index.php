@@ -23,7 +23,7 @@
 <body id="index">
 
 
-<img class="wedding-crest" src="/img/badge/badge@2x.png" alt="Nico &amp; Corinne Wedding Crest">
+<img class="wedding-crest" src="/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
 
 <nav>
 	<ul>
