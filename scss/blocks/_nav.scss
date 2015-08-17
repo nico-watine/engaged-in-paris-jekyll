@@ -1,5 +1,7 @@
 @import "../settings/_settings.scss";
 
+$max-400: "only screen and (max-width : 400px)";
+
 nav {
 	text-align: center;
 
@@ -29,20 +31,32 @@ nav {
 				color: #fff;
 				text-shadow: 0px rem(1) rem(3) #000;
 				text-decoration: none;
+				font-family: $header-font-family;
 
 				&:hover {
-					font-weight: $header-font-weight;
+					font-weight: $title-font-weight;
 				}
 			}
 
 			a.active {
-				font-weight: $header-font-weight;
+				font-weight: $title-font-weight;
 			}
 		}
 
 		li#wedding-details,
 		li#proposal-story {
-			width: em(160);
+			width: em(180);
+		}
+
+		@media #{$max-400} {
+			li#wedding-details,
+			li#proposal-story {
+				width: em(150);
+
+				a {
+					font-size: rem(16);
+				}
+			}
 		}
 	}
 }
@@ -57,4 +71,8 @@ nav {
 			padding: 0 0 em(5);
 		}
 	}	
+}
+
+@media #{$max-400} {
+	
 }

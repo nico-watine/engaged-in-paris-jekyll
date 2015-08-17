@@ -48,8 +48,8 @@
 </header>
 
 <main>
-	<h2 class="white text-shadow bold">Awesome story coming soon!</h2>
-	<h3 class="white text-shadow">(It’s pulling a ‘French’ and is running late)</h3>
+	<h2 class="title white text-shadow">Awesome story coming soon!</h2>
+	<h3 class="header white text-shadow">(It’s pulling a ‘French’ and is running late)</h3>
 </main>
 
 
