@@ -22,11 +22,14 @@
 </head>
 <body>
 
+<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
+	<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
+	<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
+</video>
 
 
 
 
-<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 </body>
 </html>

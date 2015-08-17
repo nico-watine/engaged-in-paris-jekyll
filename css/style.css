@@ -251,3 +251,5 @@ h2.container-title { margin-bottom: 1.125rem; }
 
 .map-container { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; padding: 1em; }
 .map-container:last-child { margin-right: 0; }
+
+video#bgvid { position: fixed; left: 0; top: 0; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }
