@@ -17,7 +17,7 @@ nav {
 
 	ul {
 		display: inline-block;
-		padding: em(13) 0 0 0;
+		padding: em(13) 0 em(8);
 		margin: 0;
 		list-style: none;
 
@@ -45,5 +45,16 @@ nav {
 			width: em(160);
 		}
 	}
+}
 
+@include media($small) {
+	nav {
+		#crest-wrapper {
+			position: initial; 
+		}
+
+		ul {
+			padding: 0 0 em(5);
+		}
+	}	
 }
