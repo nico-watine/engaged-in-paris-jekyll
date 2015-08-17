@@ -53,14 +53,10 @@
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
-				<!-- <div class="tab-container" id="ceremony"> -->
-					<a data-toggle="tab" href="#ceremony" class="normal tab-button white text-shadow">Ceremony</a>
-				<!-- </div> -->
+				<a data-toggle="tab" href="#ceremony" class="normal tab-button white text-shadow">Ceremony</a>
 			</li>
 			<li>
-				<!-- <div class="tab-container" id="reception"> -->
-					<a data-toggle="tab" href="#reception" class="normal tab-button white text-shadow">Reception</a>
-				<!-- </div> -->
+				<a data-toggle="tab" href="#reception" class="normal tab-button white text-shadow">Reception</a>
 			</li>
 		</ul>
 	</div>
@@ -68,7 +64,7 @@
 
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
-		<article id="ceremony" class="tab-pane active fade in">
+		<article id="ceremony" class="tab-pane fade in active">
 			<h2 class="normal container-title">Ceremony Location</h2>
 
 			<address class="content-container" id="location-box">
@@ -109,6 +105,25 @@
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2>Reception Details</h2>
+			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank">Brennan’s of Houston</a> <br>
+			Festivities begin at 7PM</p>
+			<p style="margin-bottom: 8px;">Reception Info</p>
+			<address class="content-container" id="location-box">
+				<h3>7PM at Brennan's of Houston <br>
+				3300 Smith St <br>
+				Houston, Texas 77006</h3>
+			</address>
+			<h2>Venue Info</h2>
+			<div id="parking">
+				<h3>Parking</h3>
+				<p class="large"><strong>Street Parking</strong> is available on a first come first serve basis. Because Brennan’s of Houston is located in Midtown, street parking can sometimes be scarce. <br><strong>Valet Parking</strong> is available for $5. </p>
+			</div>
+			<div id="event-details">
+				<h3>Event Details</h3>
+				<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. There is an elevator.</p>
+			</div>
+			<hr>
+			<h2 id="more-info">More info will be provided as the wedding date approaches.</h2>
 		</article>
 	</section>
 </main>

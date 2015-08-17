@@ -23,40 +23,44 @@ body#wedding-details {
 	margin-bottom: em(30);
 }
 
-.tab-container {
-	@include span-columns(8 of 16);
+.nav-tabs {
+	border-bottom: 0;
 
-	a.tab-button {
-		@include span-columns(4 of 8);
-		@include shift(2);
-		background-color: rgba(68,68,68,0.75);
-		border: rem(3) solid #fff;
-		box-shadow: 0px rem(1) rem(4) 0px rgba(0,0,0,0.65);
-		border-radius: rem(5);
-		text-decoration: none;
-		padding: rem(20) 0 rem(25);
-		font-size: rem(32);
+	li {
+		@include span-columns(8 of 16);
 
-	    @include transition (background-color 200ms ease-out 0s);
-	    @include transition (color 200ms ease-out 0s);
+		a {
+			@include span-columns(4 of 8);
+			@include shift(2);
+			background-color: rgba(68,68,68,0.75);
+			border: rem(3) solid #fff;
+			box-shadow: 0px rem(1) rem(4) 0px rgba(0,0,0,0.65);
+			border-radius: rem(5);
+			text-decoration: none;
+			padding: rem(20) 0 rem(25);
+			font-size: rem(32);
 
-		&:hover {
-			background-color: rgba(255,255,255,0.75);
-			color: #000;
-			border-left: rem(1) solid #fff;
-			border-right: rem(1) solid #fff;
-			text-shadow: none;
+		    @include transition (background-color 200ms ease-out 0s);
+		    @include transition (color 200ms ease-out 0s);
+
+			&:hover {
+				background-color: rgba(255,255,255,0.75);
+				color: #000;
+				text-shadow: none;
+			}
 		}
 	}
 
-	a.tab-button.active {
-		background-color: rgba(255,255,255,0.75);
-		color: #000;
-		border-left: rem(1) solid #fff;
-		border-right: rem(1) solid #fff;
-		text-shadow: none;
+	li.active {
+		a {
+			border: rem(3) solid #fff !important;
+			text-decoration: none;
+			text-shadow: none;
+			color: #000 !important;
+		}
 	}
 }
+
 
 #main-wrapper {
 	@include span-columns(14 of 16);
@@ -90,4 +94,18 @@ h2.container-title {
 .map-container {
 	@include span-columns(7 of 14);
 	padding: em(16);
+}
+
+h2#more-info {
+	padding: 0 rem(24);
+	margin-bottom: rem(55);
+}
+
+article#reception {
+	#parking {
+		margin-bottom: em(60);
+	}
+	#event-details {
+		margin-bottom: em(70);
+	}
 }

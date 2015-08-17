@@ -28,8 +28,7 @@ p.large {
 a {
 	color: $link-color;
 
-	&:hover,
-	&:focus {
+	&:hover {
 		text-decoration: none;
 	}
 }
