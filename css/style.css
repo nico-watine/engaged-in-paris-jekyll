@@ -204,9 +204,9 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 
 .padding { padding: 0 1em; }
 
-span.inline { display: inline-block; }
+.inline { display: inline-block; }
 
-span.underline { text-decoration: underline; }
+.underline { text-decoration: underline; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
@@ -315,7 +315,17 @@ h2.container-title { margin-bottom: 1.125rem; }
 
 h2#more-info { padding: 0 1.5rem; margin-bottom: 3.4375rem; }
 
+article#ceremony p.large { margin-bottom: 3.75rem; }
+
 article#reception #parking { margin-bottom: 3.75em; }
 article#reception #event-details { margin-bottom: 4.375em; }
 
+@media screen and (max-width: 46.875em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
+@media screen and (max-width: 31.25em) { body#wedding-details .height-wrapper { min-height: 55%; }
+  .nav-tabs li { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  .nav-tabs li:last-child { margin-right: 0; }
+  .nav-tabs li a.ceremony { margin-top: 1.875rem; margin-bottom: 1.875rem; }
+  h2#more-info { padding: 0; } }
+@media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
+  .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
 video#bgvid { position: fixed; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }

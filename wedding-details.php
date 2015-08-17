@@ -53,10 +53,10 @@
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
-				<a data-toggle="tab" href="#ceremony" class="normal tab-button white text-shadow">Ceremony</a>
+				<a data-toggle="tab" href="#ceremony" class="normal tab-button white text-shadow ceremony">Ceremony</a>
 			</li>
 			<li>
-				<a data-toggle="tab" href="#reception" class="normal tab-button white text-shadow">Reception</a>
+				<a data-toggle="tab" href="#reception" class="normal tab-button white text-shadow reception">Reception</a>
 			</li>
 		</ul>
 	</div>
@@ -66,7 +66,6 @@
 	<section class="content-container centered-text tab-content" id="main-wrapper">
 		<article id="ceremony" class="tab-pane fade in active">
 			<h2 class="normal container-title">Ceremony Location</h2>
-
 			<address class="content-container" id="location-box">
 				<h3>The Chapel of Divine Mercy <br>
 				<span>located on the</span> <br>
@@ -74,38 +73,14 @@
 				3100 Sweetwater Blvd <br>
 				Sugar Land, Texas 77479</h3>
 			</address>
-
-			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St Laurence Catholic Church grounds. The Chapel is attached to the school building, and not in the actual church.</p>
-
-			<div class="row">
-				<div class="map-container">
-					<img src="/img/wedding-details/chapel-map@2x.png" alt="Chapel Map">
-				</div>
-
-				<div class="map-container">
-					<img src="/img/wedding-details/chapel-street@2x.png" alt="Chapel Street View">
-				</div>
-			</div>
-			
-			<p class="large">The Chapel attached to the School Building is along Austing Parkway. <br>The ceremony is held in this building.</p>
-
+			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St Laurence Catholic Church grounds.</p>
+			<p class="large">The Chapel is attached to the School Building along Austing Parkway. <br>It is separate from the actual church.</p>
 			<hr>
-
-			<p class="large">The main Church building is located at the corner of Austing Pkwy and Sweetwater Blvd. <br>The wedding ceremony is not in this building.</p>
-
-			<div class="row">
-				<div class="map-container">
-					<img src="/img/wedding-details/church-map@2x.png" alt="Church Map">
-				</div>
-
-				<div class="map-container">
-					<img src="/img/wedding-details/church-street@2x.png" alt="Church Street View">
-				</div>
-			</div>
+			<h2 id="more-info">More info will be provided as the wedding date approaches.</h2>
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2>Reception Details</h2>
-			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank">Brennan’s of Houston</a> <br>
+			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank" class="inline">Brennan’s of Houston</a> <br>
 			Festivities begin at 7PM</p>
 			<p style="margin-bottom: 8px;">Reception Info</p>
 			<address class="content-container" id="location-box">
