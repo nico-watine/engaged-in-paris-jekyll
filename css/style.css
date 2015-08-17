@@ -1,6 +1,6 @@
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 /** 1. Set default font family to sans-serif. 2. Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
-@import url("http://fonts.googleapis.com/css?family=Oxygen:400,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,600");
 html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
 
 /** Remove default margin. */
@@ -133,7 +133,7 @@ html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
-body { color: #333; font-weight: 400; font-family: "Oxygen", sans-serif; line-height: 1.4rem; }
+body { color: #333; font-weight: 400; font-family: "Open Sans", sans-serif; line-height: 1.4rem; }
 
 p, p.large { margin-bottom: 1.4rem; }
 
@@ -216,15 +216,15 @@ nav #crest-wrapper a img { max-width: 3.125em; height: auto; }
 nav ul { display: inline-block; padding: 0.8125em 0 0 0; margin: 0; list-style: none; }
 nav ul li { float: left; }
 nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; }
-nav ul li a:hover { font-weight: 700; }
-nav ul li a.active { font-weight: 700; }
+nav ul li a:hover { font-weight: 600; }
+nav ul li a.active { font-weight: 600; }
 nav ul li#wedding-details, nav ul li#proposal-story { width: 10em; }
 
 body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
 body#index ul li { display: inline-block; width: 11.25rem; }
 body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; }
-body#index ul a:hover { font-weight: 700; }
+body#index ul a:hover { font-weight: 600; }
 body#index img.wedding-crest { max-width: 33.75em; margin-bottom: 0.9375em; }
 
 body#wedding-details { background: url("/img/wedding-details/bg@default.jpg") no-repeat; background-attachment: fixed; background-position: top center; background-size: cover; }
