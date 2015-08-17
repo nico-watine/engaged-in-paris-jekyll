@@ -11,6 +11,10 @@
 @import "components/_resets.scss";
 @import "components/_buttons.scss";
 @import "components/_utility-classes.scss";
+@import "boostrap-sass/assets/stylesheets/bootstrap/_variables.scss";
+@import "boostrap-sass/assets/stylesheets/bootstrap/_component-animations.scss";
+@import "boostrap-sass/assets/stylesheets/bootstrap/mixins/_nav-divider.scss";
+@import "boostrap-sass/assets/stylesheets/bootstrap/_navs.scss";
 @import "components/_extras.scss"; // IMPORT 'EXTRAS' PARTIALS AS NEEDED
 
 

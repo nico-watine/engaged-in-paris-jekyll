@@ -14,7 +14,6 @@
 	
 	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>"/>
 
-	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 
 	<!--[if lt IE 9]>
 		<link rel="stylesheet" href="<?php autoVer('/css/ie.css'); ?>"/>
@@ -117,7 +116,6 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 </body>
