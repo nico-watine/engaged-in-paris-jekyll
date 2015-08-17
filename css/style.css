@@ -331,4 +331,10 @@ article#reception #event-details { margin-bottom: 4.375em; }
   h2#more-info { padding: 0; } }
 @media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
   .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
-video#bgvid { position: fixed; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: -100; -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }
+video#bgvid { position: fixed; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: 0; -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }
+
+body#proposal-story main { text-align: center; }
+body#proposal-story main h2, body#proposal-story main h3 { z-index: 1; width: 100%; position: absolute; }
+body#proposal-story main h2 { top: 5.625rem; }
+body#proposal-story main h3 { top: 12.5rem; }
+@media screen and (max-width: 31.25em) { body#proposal-story main h3 { top: initial; bottom: 5.625rem; } }

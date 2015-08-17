@@ -20,15 +20,37 @@
 	<![endif]-->
 
 </head>
-<body>
+<body id="proposal-story">
 
 <video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
 	<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
 	<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
 </video>
 
+<header>
+	<nav class="outer-container">
+		<div class="row">
+			<div id="crest-wrapper">
+				<a href="/">
+					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
+				</a>
+			</div>
+			<ul>
+				<li id="wedding-details">
+					<a href="/wedding-details">Wedding Details</a>
+				</li>
+				<li id="proposal-story">
+					<a href="/proposal-story" class="active">Proposal Story</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</header>
 
-
+<main>
+	<h2 class="white text-shadow bold">Awesome story coming soon!</h2>
+	<h3 class="white text-shadow">(It’s pulling a ‘French’ and is running late)</h3>
+</main>
 
 
 </body>
