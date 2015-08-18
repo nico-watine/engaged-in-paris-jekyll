@@ -20,7 +20,7 @@
 	<![endif]-->
 
 </head>
-<body id="proposal-story">
+<body id="proposal-story" style="height: 2000px;">
 
 <video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
 	<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
@@ -47,10 +47,14 @@
 	</nav>
 </header>
 
-<main>
-	<h2 class="title white text-shadow">Awesome story coming soon!</h2>
-	<h3 class="header white text-shadow">(It’s pulling a ‘French’ and is running late)</h3>
-</main>
+<div class="relative-wrapper">
+	<section id="intro">
+		<h1 class="title white text-shadow">The Proposal</h1>
+		<h2 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h2>
+		<h3 class="header white text-shadow">Little did Corinne know that Nico had a surprise planned…</h3>
+		<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
+	</section>
+</div>
 
 
 </body>

@@ -2,46 +2,44 @@
 
 
 video#bgvid {
-	position: fixed;
-	top: 50%;
+	position: absolute;
+	top: 0;
 	left: 50%;
-	min-width: 100%;
-	min-height: 100%;
-	width: auto;
+	width: 100%;
 	height: auto;
-	z-index: 0;
-	-webkit-transform: translateX(-50%) translateY(-50%);
-	transform: translateX(-50%) translateY(-50%);
+	-webkit-transform: translateX(-50%) translateY(0);
+	transform: translateX(-50%) translateY(0);
 	background: url('/img/proposal-story/video/splash/poster.jpg') no-repeat;
 	background-size: cover;
 }
 
 body#proposal-story {
-	main {
-		text-align: center;
-
-		h2,
-		h3 {
-			z-index: 1;
-			width: 100%;
-			position: absolute;
-		}
-
-		h2 {
-			top: rem(90);
-		}
-
-		h3 {
-			top: rem(200);
-		}
+	.relative-wrapper {
+		height: 100%;
 	}
 
-	@include media($small) {
-		main {
-			h3 {
-				top: initial;
-				bottom: rem(90);
-			}
+	#intro {
+		position: absolute;
+		width: 80%;
+		left: 10%;
+		height: 100%;
+		text-align: center;
+		z-index: 1;
+		top: 0;
+		padding-top: em(130);
+
+		h1,
+		h2 {
+			margin-bottom: rem(60);
+		}
+
+		h3 {
+			margin-bottom: rem(100);
+		}
+
+		img {
+			// bottom: em(100);
+			max-width: em(55);
 		}
 	}
 }
