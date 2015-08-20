@@ -22,11 +22,6 @@
 </head>
 <body id="proposal-story">
 
-<!-- <video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
-	<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
-	<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
-</video> -->
-
 <header>
 	<nav class="outer-container">
 		<div class="row">

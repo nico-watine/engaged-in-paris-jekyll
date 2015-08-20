@@ -1,17 +1,6 @@
 @import "../../settings/_settings.scss";
 
 
-// video#bgvid {
-// 	position: absolute;
-// 	top: 0;
-// 	left: 50%;
-// 	width: 100%;
-// 	height: auto;
-// 	-webkit-transform: translateX(-50%) translateY(0);
-// 	transform: translateX(-50%) translateY(0);
-// 	background: url('/img/proposal-story/video/splash/poster.jpg') no-repeat;
-// 	background-size: cover;
-// }
 
 .bgvid-container {
 	position: relative;
@@ -63,7 +52,6 @@ body#proposal-story {
 		}
 
 		img {
-			// bottom: em(100);
 			max-width: em(55);
 		}
 	}
