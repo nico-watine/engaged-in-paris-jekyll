@@ -20,12 +20,12 @@
 	<![endif]-->
 
 </head>
-<body id="proposal-story" style="height: 2000px;">
+<body id="proposal-story">
 
-<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
+<!-- <video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
 	<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
 	<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
-</video>
+</video> -->
 
 <header>
 	<nav class="outer-container">
@@ -47,14 +47,23 @@
 	</nav>
 </header>
 
-<div class="relative-wrapper">
+<div class="bgvid-container">
+	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" id="bgvid">
+		<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
+		<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
+	</video>
+</div>
+
+<main style="height: 2000px;">
 	<section id="intro">
 		<h1 class="title white text-shadow">The Proposal</h1>
 		<h2 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h2>
 		<h3 class="header white text-shadow">Little did Corinne know that Nico had a surprise planned…</h3>
 		<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 	</section>
-</div>
+</main>
+
+
 
 
 </body>

@@ -1,16 +1,41 @@
 @import "../../settings/_settings.scss";
 
 
-video#bgvid {
-	position: absolute;
+// video#bgvid {
+// 	position: absolute;
+// 	top: 0;
+// 	left: 50%;
+// 	width: 100%;
+// 	height: auto;
+// 	-webkit-transform: translateX(-50%) translateY(0);
+// 	transform: translateX(-50%) translateY(0);
+// 	background: url('/img/proposal-story/video/splash/poster.jpg') no-repeat;
+// 	background-size: cover;
+// }
+
+.bgvid-container {
+	position: relative;
 	top: 0;
-	left: 50%;
-	width: 100%;
-	height: auto;
-	-webkit-transform: translateX(-50%) translateY(0);
-	transform: translateX(-50%) translateY(0);
-	background: url('/img/proposal-story/video/splash/poster.jpg') no-repeat;
-	background-size: cover;
+	left: 0;
+	padding-bottom: em(120);
+	text-align: center;
+	min-height: 100%;
+	overflow: hidden;
+}
+
+#bgvid {
+    position: absolute;
+    z-index: -5;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+
+    // UNSURE ::
+	// width: auto;
+    // height: auto;
 }
 
 body#proposal-story {

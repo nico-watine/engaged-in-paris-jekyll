@@ -340,7 +340,9 @@ article#reception #event-details { margin-bottom: 4.375em; }
   h2#more-info { padding: 0; } }
 @media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
   .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
-video#bgvid { position: absolute; top: 0; left: 50%; width: 100%; height: auto; -webkit-transform: translateX(-50%) translateY(0); transform: translateX(-50%) translateY(0); background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }
+.bgvid-container { position: relative; top: 0; left: 0; padding-bottom: 7.5em; text-align: center; min-height: 100%; overflow: hidden; }
+
+#bgvid { position: absolute; z-index: -5; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }
 
 body#proposal-story .relative-wrapper { height: 100%; }
 body#proposal-story #intro { position: absolute; width: 80%; left: 10%; height: 100%; text-align: center; z-index: 1; top: 0; padding-top: 8.125em; }
