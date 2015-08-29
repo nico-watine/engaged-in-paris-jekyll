@@ -22,22 +22,6 @@
 </head>
 <body id="proposal-story">
 
-<div
-	class="parallax-image-wrapper parallax-image-wrapper-100"
-	data-anchor-target="#ring + .gap"
-	data-bottom-top="transform:translate3d(0px, 200%, 0px)"
-	data-top-bottom="transform:translate3d(0px, 0%, 0px)">
-
-	<div
-		class="parallax-image parallax-image-100"
-		style="background-image:url(/img/proposal-story/ring/ring-parallax.jpg)"
-		data-anchor-target="#ring + .gap"
-		data-bottom-top="transform: translate3d(0px, -80%, 0px);"
-		data-top-bottom="transform: translate3d(0px, 80%, 0px);"
-	></div>
-</div>
-
-<div id="skrollr-body">
 <header>
 	<nav class="outer-container">
 		<div class="row">
@@ -65,30 +49,17 @@
 	</video>
 </div>
 
-<main>
+<main style="height: 2000px;">
 	<section id="intro">
 		<h1 class="title white text-shadow">The Proposal</h1>
 		<h2 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h2>
 		<h3 class="header white text-shadow">Little did Corinne know that Nico had a surprise planned…</h3>
-		<!-- <img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow"> -->
+		<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 	</section>
-
-	<div class="content content-full" id="ring">
-		Here be kittens
-	</div>
-
-	<div class="gap gap-100" style="background-image:url(/img/proposal-story/ring/ring-parallax.jpg);"></div>
 </main>
-</div>
 
 
 
-<script src="/assets/bower_components/skrollr/dist/skrollr.min.js"></script>
-<script type="text/javascript">
-	skrollr.init({
-		smoothScrolling: false,
-		mobileDeceleration: 0.004
-	});
-</script>
+
 </body>
 </html>
