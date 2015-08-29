@@ -20,25 +20,13 @@
     min-height: 100%;
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
-
-    // UNSURE ::
-	// width: auto;
- //    height: auto;
 }
 
 body#proposal-story {
-	main {
-		// position: absolute;
-		// width: 100%;
-	}
 
 	#intro {
-		// position: absolute;
-		// height: 100%;
 		text-align: center;
-		// z-index: 1;
-		// top: 0;
-		padding-top: em(130);
+		padding: em(130) em(40) em(100);
 
 		h1,
 		h2 {
