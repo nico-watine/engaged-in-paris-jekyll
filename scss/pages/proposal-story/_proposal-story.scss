@@ -1,6 +1,9 @@
 @import "../../settings/_settings.scss";
 @import "_parallax-ring.scss";
 
+#skrollr-body {
+	height: 100%;
+}
 
 .bgvid-container {
 	position: relative;
