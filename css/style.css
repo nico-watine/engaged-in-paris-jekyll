@@ -342,8 +342,6 @@ article#reception #event-details { margin-bottom: 4.375em; }
   .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
 section#parallax-ring { background-image: url("/img/proposal-story/ring/ring-parallax.jpg"); height: 800px; position: relative; top: 0; width: 100%; left: 0; }
 
-section#ring { position: relative; }
-
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
 
 #bgvid { position: absolute; z-index: -5; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }

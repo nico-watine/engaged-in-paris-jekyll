@@ -21,7 +21,7 @@
 
 </head>
 <body id="proposal-story">
-
+<div id="skrollr-body">
 <header>
 	<nav class="outer-container">
 		<div class="row">
@@ -55,9 +55,18 @@
 	</video>
 </section>
 
-<section id="ring">
-	<img src="/img/proposal-story/ring/ring-parallax.jpg" alt="">
-</section>
+<section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;"></section>
+
+</div>
+<script src="/assets/bower_components/skrollr/dist/skrollr.min.js"></script>
+
+	<script type="text/javascript">
+	skrollr.init({
+		smoothScrolling: false,
+		forceHeight: false,
+		mobileDeceleration: 0.004
+	});
+	</script>
 
 </body>
 </html>
