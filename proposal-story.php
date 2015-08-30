@@ -55,16 +55,21 @@
 	</video>
 </section>
 
-<section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;"></section>
+<section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
+	<section id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data--200-top="background:rgba(0,0,0,1);"></section>
+</section>
+
+
+<section id="fade-in" data-center-top="background:rgba(0,0,0,1);" data-top="background:rgba(0, 0, 0, 0);"></section>	
+
+
 
 </div>
 <script src="/assets/bower_components/skrollr/dist/skrollr.min.js"></script>
 
 	<script type="text/javascript">
 	skrollr.init({
-		smoothScrolling: false,
-		forceHeight: false,
-		mobileDeceleration: 0.004
+		forceHeight: false
 	});
 	</script>
 
