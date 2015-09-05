@@ -57,27 +57,25 @@
 
 
 <section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
-	<div id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data--420-top="background:rgba(0,0,0,1);"></div>
+	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
 </section>
 
 
-<section id="lock-bridge-intro">
-	<div id="fade-in" data-bottom-top="background:rgba(0,0,0,1);" data-center-top="background:rgba(0, 0, 0, 0);">
-		<div class="map-bg">
-			<div class="verbiage-container">
-				<h3 class="header">1st Proposal Opportunity</h3>
-				<h2 class="title">The Lock Bridge</h2>
-				<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
-				<br><br>
-				The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
-				<br><br>
-				Proposing here would have been way too predictable…</p>
-			</div>
-		</div>
+<section id="lock-bridge">
+	<div class="map-header">
+		<article>
+			<h3 class="header">1st Proposal Opportunity</h3>
+			<h2 class="title">The Lock Bridge</h2>
+			<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
+			<br><br>
+			The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
+			<br><br>
+			Proposing here would have been way too predictable…</p>
+		</article>
 	</div>
 </section>
 
-<section id="lock-bridge-photos">
+<!-- <section id="lock-bridge-photos">
 	<h3 class="header">Nico decided that since he wasn’t proposing here that they should instead just take a selfie</h3>
 	<div class="photo-row double-photo">
 		<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge" id="first">
@@ -86,7 +84,7 @@
 	<div class="photo-row single-photo">
 		<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 	</div>
-</section>
+</section> -->
 
 	
 		
