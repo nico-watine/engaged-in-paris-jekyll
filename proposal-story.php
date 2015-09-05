@@ -55,27 +55,26 @@
 	</video>
 </section>
 
+
 <section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
 	<div id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data--420-top="background:rgba(0,0,0,1);"></div>
 </section>
 
 
 <section id="lock-bridge">
-
-<div id="fade-in" data-bottom-top="background:rgba(0,0,0,1);" data-center-top="background:rgba(0, 0, 0, 0);">
-	<div class="map-bg">
-		<div class="verbiage-container">
-			<h3 class="header">1st Proposal Opportunity</h3>
-			<h2 class="title">The Lock Bridge</h2>
-			<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
-			<br><br>
-			The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
-			<br><br>
-			Proposing here would have been way too predictable…</p>
+	<div id="fade-in" data-bottom-top="background:rgba(0,0,0,1);" data-center-top="background:rgba(0, 0, 0, 0);">
+		<div class="map-bg">
+			<div class="verbiage-container">
+				<h3 class="header">1st Proposal Opportunity</h3>
+				<h2 class="title">The Lock Bridge</h2>
+				<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
+				<br><br>
+				The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
+				<br><br>
+				Proposing here would have been way too predictable…</p>
+			</div>
 		</div>
 	</div>
-</div>
-
 </section>
 
 	
@@ -85,14 +84,11 @@
 
 
 
-</div>
-<script src="/assets/bower_components/skrollr/dist/skrollr.min.js"></script>
+</div><!-- /#skrollr-body -->
 
-	<script type="text/javascript">
-	skrollr.init({
-		forceHeight: false
-	});
-	</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
+
 
 </body>
 </html>
