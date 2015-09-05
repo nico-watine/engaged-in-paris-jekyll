@@ -1,7 +1,6 @@
 @import "../../settings/_settings.scss";
 
 section#lock-bridge {
-	background-image: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg");
 	height: 100%;
 	width: 100%;
 	left: 0;
@@ -10,14 +9,35 @@ section#lock-bridge {
 		height: 100%;
 		width: 100%;
 		position: relative;
-		text-align: center;
 
-		h1 {
-			margin: 0;
+		.map-bg {
+			background-image: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg");
+			background-position: right top;
 			position: absolute;
-			width: 100%;
+			background-size: contain;
 			top: 50%;
-			z-index: 10;
+			width: 100%;
+			height: em(600);
+		}
+
+		.verbiage-container {
+			height: 100%;
+			position: absolute;
+			text-align: left;
+			top: 0;
+			left: 0;
+			width: em(540);
+			background: #fff;
+			box-shadow: $z-2;
+			padding: em(50) em(32);
+
+			h3 {
+				margin-bottom: 0;
+			}
+
+			h2 {
+				margin-top: 0;
+			}
 		}
 	}
 }
