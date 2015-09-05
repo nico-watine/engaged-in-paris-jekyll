@@ -3639,6 +3639,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 126096,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3646,6 +3657,28 @@
 		"initialSize": 186620,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 88349,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 208273,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

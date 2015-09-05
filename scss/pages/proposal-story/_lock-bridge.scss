@@ -1,6 +1,6 @@
 @import "../../settings/_settings.scss";
 
-section#lock-bridge {
+#lock-bridge-intro {
 	height: 100%;
 	width: 100%;
 	left: 0;
@@ -18,6 +18,7 @@ section#lock-bridge {
 			top: 50%;
 			width: 100%;
 			height: em(600);
+			margin-bottom: em(70);
 		}
 
 		.verbiage-container {
@@ -39,6 +40,45 @@ section#lock-bridge {
 				margin-top: 0;
 			}
 		}
-	}
+	}		
 }
 
+#lock-bridge-photos {
+	position: relative;
+	top: em(200);
+	padding-top: em(70);
+
+	h3 {
+		width: rem(920);
+		text-align: center;
+		margin-bottom: rem(60);
+	}
+
+	.photo-row {
+		img {
+			box-shadow: $z-3;
+			margin-bottom: em(64);
+		}
+	}
+
+	.double-photo {
+		img {
+			max-height: em(525);
+			max-width: 45%;
+		}
+		img#first {
+			float: left;
+		}
+		img#second {
+			float: right;
+		}
+	}
+
+	.single-photo {
+		text-align: center;
+		
+		img {
+			max-height: em(700);
+		}
+	}
+}
