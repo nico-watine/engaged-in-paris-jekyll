@@ -1,0 +1,24 @@
+@import "../../settings/_settings.scss";
+
+section#lock-bridge {
+	background-image: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg");
+	height: 100%;
+	width: 100%;
+	left: 0;
+
+	#fade-in {
+		height: 100%;
+		width: 100%;
+		position: relative;
+		text-align: center;
+
+		h1 {
+			margin: 0;
+			position: absolute;
+			width: 100%;
+			top: 50%;
+			z-index: 10;
+		}
+	}
+}
+

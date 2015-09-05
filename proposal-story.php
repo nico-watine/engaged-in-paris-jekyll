@@ -56,11 +56,22 @@
 </section>
 
 <section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
-	<section id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data--200-top="background:rgba(0,0,0,1);"></section>
+	<div id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data--420-top="background:rgba(0,0,0,1);"></div>
 </section>
 
 
-<section id="fade-in" data-center-top="background:rgba(0,0,0,1);" data-top="background:rgba(0, 0, 0, 0);"></section>	
+<section id="lock-bridge">
+
+<div id="fade-in" data-bottom-top="background:rgba(0,0,0,1);" data-top="background:rgba(0, 0, 0, 0);">
+	<h1>Opportunity 1</h1>
+</div>
+
+</section>
+
+	
+		
+
+
 
 
 
