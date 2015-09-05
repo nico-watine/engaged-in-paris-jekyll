@@ -1,5 +1,12 @@
 @import "../../settings/_settings.scss";
 
+$min-1700: "only screen and (min-width : 1700px)";
+$max-1200: "only screen and (max-width : 1200px)";
+$max-1100: "only screen and (max-width : 1100px)";
+$max-1024: "only screen and (max-width : 1024px)";
+$max-960: "only screen and (max-width : 960px)";
+$max-860: "only screen and (max-width : 860px)";
+
 #lock-bridge-intro {
 	height: 100%;
 	width: 100%;
@@ -11,13 +18,43 @@
 
 		.map-bg {
 			background-image: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg");
-			background-position: right top;
+			background-position: right;
+			background-repeat: no-repeat;
 			position: absolute;
-			background-size: contain;
+			background-size: auto 100%;
 			top: 50%;
 			width: 100%;
 			height: em(600);
-			margin-bottom: em(70);
+
+			@media #{$min-1700} {
+				background-size: cover;
+			}
+
+			@media #{$max-1200} {
+				height: em(550);
+			}
+
+			@media #{$max-1100} {
+				background-position: inherit;
+			}
+
+			@media #{$max-1024} {
+				background-position: 50% top;
+				height: em(500);
+			}
+
+			@media #{$max-960} {
+				height: em(460);
+				background-position: right top;
+			}
+
+			@media #{$max-860} {
+				height: em(430);
+			}
+
+			@include media($max-770) {
+				height: em(380);
+			}
 		}
 
 		.verbiage-container {
@@ -37,6 +74,37 @@
 
 			h2 {
 				margin-top: 0;
+			}
+
+			@media #{$max-1024} {
+				width: em(480);
+				padding: em(36) em(20);
+
+				p {
+					font-size: rem(20);
+				}
+			}
+
+			@media #{$max-960} {
+				width: em(380);
+
+				h3 {
+					font-size: $h4-size;
+				}
+
+				h2 {
+					font-size: $h3-size;
+				}
+
+				p {
+					font-size: rem(18);
+				}
+			}
+
+			@include media($max-770) {
+				p {
+					font-size: rem(16);
+				}
 			}
 		}
 	}		
@@ -82,4 +150,5 @@
 		}
 	}
 }
+
 
