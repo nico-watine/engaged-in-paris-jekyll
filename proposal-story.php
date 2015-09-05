@@ -63,17 +63,15 @@
 
 <section id="lock-bridge-intro">
 	<div id="fade-in" data-bottom-top="background:rgba(0,0,0,1);" data-center-top="background:rgba(0, 0, 0, 0);">
-		<div class="section-content">
-			<div class="map-bg">
-				<div class="verbiage-container">
-					<h3 class="header">1st Proposal Opportunity</h3>
-					<h2 class="title">The Lock Bridge</h2>
-					<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
-					<br><br>
-					The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
-					<br><br>
-					Proposing here would have been way too predictable…</p>
-				</div>
+		<div class="map-bg">
+			<div class="verbiage-container">
+				<h3 class="header">1st Proposal Opportunity</h3>
+				<h2 class="title">The Lock Bridge</h2>
+				<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
+				<br><br>
+				The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
+				<br><br>
+				Proposing here would have been way too predictable…</p>
 			</div>
 		</div>
 	</div>
