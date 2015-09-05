@@ -57,12 +57,12 @@
 
 
 <section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
-	<div id="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
+	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
 </section>
 
 
 <section id="lock-bridge">
-	<div class="section-story">
+	<div class="map-header">
 		<article>
 			<h3 class="header">1st Proposal Opportunity</h3>
 			<h2 class="title">The Lock Bridge</h2>

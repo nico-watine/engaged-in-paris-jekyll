@@ -1,2 +1,24 @@
 @import "../../settings/_settings.scss";
 
+#lock-bridge {
+
+	.map-header {
+		position: relative;
+		width: 100%;
+		height: em(550);
+
+		background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right;
+		background-size: auto 100%;
+
+		article {
+			position: absolute;
+			top: 0;
+			left: 0;
+			height: 100%;
+			background: #fff;
+			box-shadow: $z-3;
+			width: em(540);
+			padding: em(50) em(34);
+		}
+	}
+}
