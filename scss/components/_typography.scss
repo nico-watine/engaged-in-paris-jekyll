@@ -17,7 +17,6 @@ body {
 	color: $text-color;
 	font-weight: $body-font-weight;
 	font-family: $body-font-family;
-	// line-height: $baseline;
 	line-height: 1.2;
 }
 
@@ -98,7 +97,7 @@ h6 {
 	font-size: $h6-size;
 }
 
-@include media($medium) {
+@include media($max-770) {
 	
 	h1 {
 		font-size: $h2-size;
