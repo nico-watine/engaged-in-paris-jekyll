@@ -1,10 +1,9 @@
 @import "../../settings/_settings.scss";
 
-section#parallax-ring {
+#parallax-ring {
 	background-image: url("/img/proposal-story/ring/ring-parallax.jpg");
 	height: 140%;
 	width: 100%;
-	left: 0;
 
 	#fade-out {
 		height: 100%;

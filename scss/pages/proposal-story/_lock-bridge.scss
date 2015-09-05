@@ -3,7 +3,6 @@
 #lock-bridge-intro {
 	height: 100%;
 	width: 100%;
-	left: 0;
 
 	#fade-in {
 		height: 100%;
@@ -76,7 +75,7 @@
 
 	.single-photo {
 		text-align: center;
-		
+
 		img {
 			max-height: em(700);
 		}
