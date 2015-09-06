@@ -1,14 +1,14 @@
 @import "../../settings/_settings.scss";
 
-$min-1700: "only screen and (min-width : 1700px)";
-$max-1200: "only screen and (max-width : 1200px)";
-$max-1100: "only screen and (max-width : 1100px)";
-$max-1024: "only screen and (max-width : 1024px)";
-$max-960: "only screen and (max-width : 960px)";
-$max-860: "only screen and (max-width : 860px)";
-$max-740: "only screen and (max-width : 740px)";
-$max-650: "only screen and (max-width : 650px)";
-$max-400: "only screen and (max-width : 400px)";
+$min-1700: "only screen and (min-width : 106.25em)";
+$max-1200: "only screen and (max-width : 75em)";
+$max-1100: "only screen and (max-width : 68.75em)";
+$max-1024: "only screen and (max-width : 64em)";
+$max-960: "only screen and (max-width : 60em)";
+$max-860: "only screen and (max-width : 53.75em)";
+$max-740: "only screen and (max-width : 46.25em)";
+$max-650: "only screen and (max-width : 40.625em)";
+$max-400: "only screen and (max-width : 25em)";
 
 #lock-bridge {
 
@@ -16,6 +16,7 @@ $max-400: "only screen and (max-width : 400px)";
 		position: relative;
 		width: 100%;
 		height: em(550);
+		margin-bottom: em(60);
 
 		background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right;
 		background-size: auto 100%;
@@ -40,6 +41,7 @@ $max-400: "only screen and (max-width : 400px)";
 
 		@media #{$max-860} {
 			height: em(430);
+			margin-bottom: em(30);
 		}
 
 		@include media($max-770) {
@@ -121,6 +123,65 @@ $max-400: "only screen and (max-width : 400px)";
 					font-size: rem(26);
 				}
 			}
+		}
+	}
+
+	h3#selfie {
+		max-width: rem(920);
+		padding: 0 rem(20);
+		text-align: center;
+		margin-bottom: rem(60);
+
+		@media #{$max-860} {
+			font-size: $h4-size;
+			max-width: rem(670);
+			margin-bottom: rem(40);
+		}
+
+		@include media($max-480) {
+			font-size: rem(20);
+		}
+	}
+
+	.photo-row {
+		img {
+			box-shadow: $z-3;
+			margin-bottom: em(64);
+		}
+
+		@media #{$max-860} {
+			img {
+				margin-bottom: em(46);
+			}
+		}
+	}
+
+	.double-photo {
+		img {
+			max-height: em(525);
+			max-width: 48%;
+		}
+		img#first {
+			float: left;
+		}
+		img#second {
+			float: right;
+		}
+
+		@media #{$max-400} {
+			img#first,
+			img#second {
+				float: none;
+				max-width: 100%;
+			}
+		}
+	}
+
+	.single-photo {
+		text-align: center;
+
+		img {
+			max-height: em(700);
 		}
 	}
 }

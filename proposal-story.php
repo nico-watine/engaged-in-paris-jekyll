@@ -73,18 +73,21 @@
 			Proposing here would have been way too predictable…</p>
 		</article>
 	</div>
+	
+	<h3 class="header" id="selfie">Nico decided that since he wasn’t proposing here that they should instead just take a selfie</h3>
+
+	<div class="section-photos">
+		<div class="photo-row double-photo">
+			<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge" id="first">
+			<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge" id="second">
+		</div>
+		<div class="photo-row single-photo">
+			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
+		</div>
+	</div>
 </section>
 
-<!-- <section id="lock-bridge-photos">
-	<h3 class="header">Nico decided that since he wasn’t proposing here that they should instead just take a selfie</h3>
-	<div class="photo-row double-photo">
-		<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge" id="first">
-		<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge" id="second">
-	</div>
-	<div class="photo-row single-photo">
-		<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
-	</div>
-</section> -->
+
 
 	
 		
