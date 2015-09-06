@@ -3628,17 +3628,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/fade-in\/plane.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 122478,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/fade-in\/plane.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/fade-in\/plane.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
