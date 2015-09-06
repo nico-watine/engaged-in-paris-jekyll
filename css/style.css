@@ -65,7 +65,7 @@ svg:not(:root) { overflow: hidden; }
 figure { margin: 1em 40px; }
 
 /** Address differences between Firefox and other browsers. */
-hr { -moz-box-sizing: content-box; box-sizing: content-box; height: 0; }
+hr { box-sizing: content-box; height: 0; }
 
 /** Contain overflow in all browsers. */
 pre { overflow: auto; }
@@ -97,13 +97,13 @@ button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
 input { line-height: normal; }
 
 /** It's recommended that you don't attempt to style these elements. Firefox's implementation doesn't respect box-sizing, padding, or width.  1. Address box sizing set to `content-box` in IE 8/9/10. 2. Remove excess padding in IE 8/9/10. */
-input[type="checkbox"], input[type="radio"] { -moz-box-sizing: border-box; box-sizing: border-box; /* 1 */ padding: 0; /* 2 */ }
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; /* 1 */ padding: 0; /* 2 */ }
 
 /** Fix the cursor style for Chrome's increment/decrement buttons. For certain `font-size` values of the `input`, it causes the cursor style of the decrement button to change from `default` to `text`. */
 input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
 
 /** 1. Address `appearance` set to `searchfield` in Safari and Chrome. 2. Address `box-sizing` set to `border-box` in Safari and Chrome. */
-input[type="search"] { -webkit-appearance: textfield; /* 1 */ -moz-box-sizing: content-box; box-sizing: content-box; /* 2 */ }
+input[type="search"] { -webkit-appearance: textfield; /* 1 */ box-sizing: content-box; /* 2 */ }
 
 /** Remove inner padding and search cancel button in Safari and Chrome on OS X. Safari (but not Chrome) clips the cancel button when the search input has padding (and `textfield` appearance). */
 input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
@@ -126,15 +126,15 @@ table { border-collapse: collapse; border-spacing: 0; }
 
 td, th { padding: 0; }
 
-html { -moz-box-sizing: border-box; box-sizing: border-box; }
+html { box-sizing: border-box; }
 
-*, *::after, *::before { -moz-box-sizing: inherit; box-sizing: inherit; }
+*, *::after, *::before { box-sizing: inherit; }
 
 html { font-size: 1em; }
 
 html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 
-body { color: #333; font-weight: 400; font-family: "Open Sans", sans-serif; line-height: 1.4rem; }
+body { color: #333; font-weight: 400; font-family: "Open Sans", sans-serif; line-height: 1.2; }
 
 p, p.large { margin-bottom: 1.4rem; }
 
@@ -165,7 +165,7 @@ h5 { font-size: 1em; }
 
 h6 { font-size: 0.75em; }
 
-@media screen and (max-width: 46.875em) { h1 { font-size: 2.8125em; }
+@media screen and (max-width: 48.125em) { h1 { font-size: 2.8125em; }
   h2 { font-size: 1.9375em; }
   h3 { font-size: 1.375em; }
   h4, p.large { font-size: 1em; }
@@ -197,9 +197,9 @@ img { max-width: 100%; height: auto; }
 
 button { border: none; }
 
-a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
 a.button:hover, button:hover { color: #000; background-color: #ccc; }
-@media screen and (max-width: 46.875em) { a.button, button { font-size: 1em; padding: 0.8125rem 1.3125rem 1rem; } }
+@media screen and (max-width: 48.125em) { a.button, button { font-size: 1em; padding: 0.8125rem 1.3125rem 1rem; } }
 
 .outer-container { max-width: 75em; margin-left: auto; margin-right: auto; }
 .outer-container::after { clear: both; content: ""; display: table; }
@@ -215,7 +215,9 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 
 .margin-bottom { margin-bottom: 1.25rem; }
 
-.fade { opacity: 0; transition: opacity 0.15s linear; }
+.relative-wrapper { position: relative; }
+
+.fade { opacity: 0; -webkit-transition: opacity 0.15s linear; transition: opacity 0.15s linear; }
 .fade.in { opacity: 1; }
 
 .collapse { display: none; }
@@ -225,7 +227,7 @@ tr.collapse.in { display: table-row; }
 
 tbody.collapse.in { display: table-row-group; }
 
-.collapsing { position: relative; height: 0; overflow: hidden; transition-property: height, visibility; transition-duration: 0.35s; transition-timing-function: ease; }
+.collapsing { position: relative; height: 0; overflow: hidden; -webkit-transition-property: height, visibility; transition-property: height, visibility; -webkit-transition-duration: 0.35s; transition-duration: 0.35s; -webkit-transition-timing-function: ease; transition-timing-function: ease; }
 
 .nav { margin-bottom: 0; padding-left: 0; list-style: none; }
 .nav::after { clear: both; content: ""; display: table; }
@@ -274,6 +276,8 @@ html, body { height: 100%; }
 
 header { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
 
+html.skrollr-mobile header { position: absolute; }
+
 nav { text-align: center; }
 nav #crest-wrapper { position: absolute; padding: 0.3125em 0 0 1.25em; }
 nav #crest-wrapper a img { max-width: 3.125em; height: auto; }
@@ -286,7 +290,7 @@ nav ul li#wedding-details, nav ul li#proposal-story { width: 11.25em; }
 @media only screen and (max-width: 400px) { nav ul li#wedding-details, nav ul li#proposal-story { width: 9.375em; }
   nav ul li#wedding-details a, nav ul li#proposal-story a { font-size: 1rem; } }
 
-@media screen and (max-width: 33.125em) { nav #crest-wrapper { position: initial; }
+@media only screen and (max-width: 530px) { nav #crest-wrapper { position: initial; }
   nav ul { padding: 0 0 0.3125em; } }
 body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
@@ -305,7 +309,7 @@ body#wedding-details .push-down { position: absolute; bottom: 0px; }
 .nav-tabs { border-bottom: 0; }
 .nav-tabs li { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
 .nav-tabs li:last-child { margin-right: 0; }
-.nav-tabs li a { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: rgba(68, 68, 68, 0.75); border: 0.1875rem solid #fff; box-shadow: 0px 0.0625rem 0.25rem 0px rgba(0, 0, 0, 0.65); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 1.875rem; transition: background-color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+.nav-tabs li a { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: rgba(68, 68, 68, 0.75); border: 0.1875rem solid #fff; box-shadow: 0px 0.0625rem 0.25rem 0px rgba(0, 0, 0, 0.65); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 1.875rem; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
 .nav-tabs li a:last-child { margin-right: 0; }
 .nav-tabs li a:hover { background-color: rgba(255, 255, 255, 0.75); color: #000; text-shadow: none; }
 .nav-tabs li.active a { border: 0.1875rem solid #fff !important; text-decoration: none; text-shadow: none; color: #000 !important; }
@@ -330,18 +334,62 @@ article#ceremony p.large { margin-bottom: 3.75rem; }
 article#reception #parking { margin-bottom: 3.75em; }
 article#reception #event-details { margin-bottom: 4.375em; }
 
-@media screen and (max-width: 46.875em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
-@media screen and (max-width: 33.125em) { body#wedding-details .height-wrapper { min-height: 55%; }
+@media screen and (max-width: 48.125em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
+@media only screen and (max-width: 530px) { body#wedding-details .height-wrapper { min-height: 55%; }
   .nav-tabs li { float: left; display: block; margin-right: 3.57866%; width: 100%; }
   .nav-tabs li:last-child { margin-right: 0; }
   .nav-tabs li a.ceremony { margin-top: 1.875rem; margin-bottom: 1.875rem; }
   h2#more-info { padding: 0; } }
 @media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
   .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
-video#bgvid { position: fixed; top: 50%; left: 50%; min-width: 100%; min-height: 100%; width: auto; height: auto; z-index: 0; -webkit-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); background: url("/img/proposal-story/video/splash/poster.jpg") no-repeat; background-size: cover; }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; }
 
-body#proposal-story main { text-align: center; }
-body#proposal-story main h2, body#proposal-story main h3 { z-index: 1; width: 100%; position: absolute; }
-body#proposal-story main h2 { top: 5.625rem; }
-body#proposal-story main h3 { top: 12.5rem; }
-@media screen and (max-width: 33.125em) { body#proposal-story main h3 { top: initial; bottom: 5.625rem; } }
+#bgvid { position: absolute; z-index: -5; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }
+
+#parallax-ring { background: url("/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
+#parallax-ring .fade-out { height: 100%; width: 100%; }
+@media only screen and (max-width: 64em) { #parallax-ring { height: 100%; } }
+@media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
+@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
+
+#lock-bridge .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
+@media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
+@media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
+@media only screen and (max-width: 64em) { #lock-bridge .map-header { background-position: 50% top; height: 31.25em; } }
+@media only screen and (max-width: 60em) { #lock-bridge .map-header { height: 28.75em; background-position: right top; } }
+@media only screen and (max-width: 53.75em) { #lock-bridge .map-header { height: 26.875em; margin-bottom: 1.875em; } }
+@media screen and (max-width: 48.125em) { #lock-bridge .map-header { height: 23.75em; } }
+@media only screen and (max-width: 46.25em) { #lock-bridge .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 40.625em) { #lock-bridge .map-header { padding-top: 12.5em; } }
+@media screen and (max-width: 30em) { #lock-bridge .map-header { padding-top: 8.125em; } }
+#lock-bridge .map-header article { position: absolute; top: 0; left: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
+@media only screen and (max-width: 64em) { #lock-bridge .map-header article { width: 30em; padding: 1.25em; }
+  #lock-bridge .map-header article p { font-size: 1.25rem; } }
+@media only screen and (max-width: 60em) { #lock-bridge .map-header article { width: 23.75em; }
+  #lock-bridge .map-header article h3 { font-size: 1.375em; }
+  #lock-bridge .map-header article h2 { font-size: 1.9375em; }
+  #lock-bridge .map-header article p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { #lock-bridge .map-header article p { font-size: 1rem; } }
+@media only screen and (max-width: 46.25em) { #lock-bridge .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
+@media only screen and (max-width: 25em) { #lock-bridge .map-header article h3 { font-size: 1.25rem; }
+  #lock-bridge .map-header article h2 { font-size: 1.625rem; } }
+#lock-bridge h3#selfie { max-width: 57.5rem; padding: 0 1.25rem; text-align: center; margin-bottom: 3.75rem; }
+@media only screen and (max-width: 53.75em) { #lock-bridge h3#selfie { font-size: 1.375em; max-width: 41.875rem; margin-bottom: 2.5rem; } }
+@media screen and (max-width: 30em) { #lock-bridge h3#selfie { font-size: 1.25rem; } }
+#lock-bridge .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+@media only screen and (max-width: 53.75em) { #lock-bridge .photo-row img { margin-bottom: 2.875em; } }
+#lock-bridge .double-photo img { max-height: 32.8125em; max-width: 48%; }
+#lock-bridge .double-photo img#first { float: left; }
+#lock-bridge .double-photo img#second { float: right; }
+@media only screen and (max-width: 25em) { #lock-bridge .double-photo img#first, #lock-bridge .double-photo img#second { float: none; max-width: 100%; } }
+#lock-bridge .single-photo { text-align: center; }
+#lock-bridge .single-photo img { max-height: 43.75em; }
+
+#skrollr-body { height: 100%; }
+
+body#proposal-story #intro { text-align: center; padding: 8.125em 2.5em 6.25em; }
+body#proposal-story #intro h1, body#proposal-story #intro h2 { margin-bottom: 3.75rem; }
+body#proposal-story #intro h3 { margin-bottom: 6.25rem; }
+body#proposal-story #intro img { max-width: 3.4375em; }
+
+h3.header#coming-soon { text-align: center; }

@@ -4,20 +4,20 @@
 		"selected_items":
 		[
 			[
-				"inlu",
-				"include	@include"
+				"re",
+				"reclaimed-gas-station"
 			],
 			[
-				"margin",
-				"margin-bottom"
+				"blue",
+				"_blue-trees-on-waugh.scss"
 			],
 			[
-				"ne",
-				"neat/"
+				"sta",
+				"_standard-article.scss"
 			],
 			[
-				"pro",
-				"_proposal-story.scss"
+				"blu",
+				"_blue-trees-on-waugh.scss"
 			],
 			[
 				"me",
@@ -152,66 +152,26 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
-			"settings":
-			{
-				"buffer_size": 3911,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/index.php",
-			"settings":
-			{
-				"buffer_size": 971,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_wedding-details.scss",
-			"settings":
-			{
-				"buffer_size": 2625,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/neat/_grid-settings.scss",
-			"settings":
-			{
-				"buffer_size": 305,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
 			"settings":
 			{
-				"buffer_size": 1583,
+				"buffer_size": 3608,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
+			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/scripts.js",
 			"settings":
 			{
-				"buffer_size": 857,
+				"buffer_size": 228,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_typography.scss",
+			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/README.md",
 			"settings":
 			{
-				"buffer_size": 1508,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_fonts.scss",
-			"settings":
-			{
-				"buffer_size": 189,
+				"buffer_size": 31416,
 				"line_ending": "Unix"
 			}
 		},
@@ -219,23 +179,15 @@
 			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
 			"settings":
 			{
-				"buffer_size": 664,
+				"buffer_size": 447,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_header.scss",
+			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
 			"settings":
 			{
-				"buffer_size": 207,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_nav.scss",
-			"settings":
-			{
-				"buffer_size": 1008,
+				"buffer_size": 522,
 				"line_ending": "Unix"
 			}
 		}
@@ -254,14 +206,6 @@
 			[
 				"html",
 				"Set Syntax: HTML"
-			],
-			[
-				"syhtml",
-				"Set Syntax: HTML"
-			],
-			[
-				"Snippet: ",
-				"Snippet: CDATA"
 			],
 			[
 				"fetch",
@@ -346,35 +290,83 @@
 	"expanded_folders":
 	[
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story"
 	],
 	"file_history":
 	[
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/index/_index.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/index.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/style.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_utility-classes.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_lock-bridge.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_lock-bridge2.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/index.php",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story/lock-bridge/lock-bridge-map.jpg",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_nav.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_development-styles.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/style.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_wedding-details.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_buttons.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/config.rb",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/scripts.js",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_fonts.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_videos.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_nav.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/extras/_sticky-footer.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_resets.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_extras.scss",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Snippets/HTML/ltie9.sublime-snippet",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Snippets/HTML/css-php.sublime-snippet",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Snippets/HTML/scripts-php.sublime-snippet",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/.htaccess",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/scripts.js",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/proposal.js",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/guide/anchor-position-guide.pdf",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_standard-article.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/washington-ave/blue-trees-on-waugh.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/_washington-ave.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/reclaimed-gas-station.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/_the-city.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_nav.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/_midtown.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_hero.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss",
+		"/Users/nico/Downloads/importbuddy.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_header.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_main.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_buttons.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_gallery.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/picturefill.js",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_index.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/settings/_grid.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/bower_components/picturefill/index.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/scripts.js",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/media/picturefill.js",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/index.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-east-end-warehouse.php",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/.htaccess",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/403.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/404.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/robots.txt",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/index.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-east-end-warehouse.html",
+		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/htaccess.txt",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/index.html",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/.htaccess",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/index.php",
 		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/ie.css",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/.htaccess",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/_ignores/lisa.sublime-workspace",
@@ -433,57 +425,14 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/style-scoped.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/test/basic.html",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/battery-api.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/css/app.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events-ie8.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/404.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/rem.min.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/README.md",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/rem.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_menu2.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/script-async.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/elem-ruby.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/403(new).html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/error.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/config.codekit",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/media/Modernizr 2 Logo.ai",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/var/slice.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/skrollr/examples/bg_constant_speed_less.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/menu-app.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/window-framed.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/audio-webaudio-api.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/dom-createElement-attrs.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-regions.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_sports-section.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_side-nav.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/selector-native.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_map.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-mediaqueries.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/network-eventsource.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/contextmenu.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_slogan.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_location-gmap.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/offset.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_dropdown-buttons.scss",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/notification.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/app.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/quota-management-api.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/modernizr.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/location/_gmap.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/404.html",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/script.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/services/what-we-do.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/thanks.html",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/css/app.css"
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/events-ie8.html"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 37.0
 	},
 	"find_in_files":
 	{
@@ -498,13 +447,41 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"more-info",
-			" class=\"header",
-			"span",
-			"min-",
-			"eiffel-tower",
-			"index",
-			"proposal",
+			"mobile",
+			"0px",
+			"top",
+			"940",
+			"1000",
+			"960",
+			"contain",
+			"32",
+			".row",
+			"h1",
+			"section",
+			"div",
+			"section",
+			"blue-trees",
+			"body",
+			"//",
+			".standard",
+			"h3",
+			"action",
+			".button",
+			" class=\"active\"",
+			"//",
+			"absolute",
+			"100",
+			"1",
+			"1px",
+			"dark",
+			"index-link",
+			"none",
+			"div",
+			"270px",
+			"%40",
+			"small",
+			"/img",
+			"font",
 			"map",
 			"eee",
 			"crawfish",
@@ -597,35 +574,7 @@
 			"h3",
 			"h2",
 			"p",
-			"h2",
-			"lime-green",
-			"h3",
-			"section",
-			"div",
-			"h3",
-			"section",
-			"div",
-			"p",
-			"2px",
-			"3px",
-			"1px",
-			"2px",
-			"h2",
-			"padding",
-			"h1",
-			" featured-service",
-			"section",
-			"apluspermit",
-			"services",
-			"#",
-			".apluspermit-hover",
-			"=\"#\"><",
-			"img/",
-			"nav-squares/",
-			"p",
-			"dark",
-			"button",
-			"h4"
+			"h2"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -633,6 +582,8 @@
 		"regex": false,
 		"replace_history":
 		[
+			"#call-to-action",
+			"http://cdn.houstonuncovered.com/houstonuncovered.com/img",
 			"thedeckonfountainview",
 			"posts/video-bg/",
 			"",
@@ -663,24 +614,29 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
+					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3911,
+						"buffer_size": 3608,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
+<<<<<<< HEAD
 								2470,
 								2470
+=======
+								3148,
+								3148
+>>>>>>> temp-lock-bridge-ending
 							]
 						],
 						"settings":
@@ -708,11 +664,25 @@
 								"bh_default_open",
 								"bh_default_close",
 								"bh_default_content",
+<<<<<<< HEAD
+=======
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+>>>>>>> temp-lock-bridge-ending
 								"bh_curly",
 								"bh_curly_center",
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
+<<<<<<< HEAD
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
@@ -728,6 +698,8 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
+=======
+>>>>>>> temp-lock-bridge-ending
 								"bh_square",
 								"bh_square_center",
 								"bh_square_open",
@@ -749,205 +721,31 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
+<<<<<<< HEAD
 						"translation.y": 1348.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 971,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								272,
-								272
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_wedding-details.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2625,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								855,
-								855
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 445.0,
+=======
+						"translation.y": 1684.0,
+>>>>>>> temp-lock-bridge-ending
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/neat/_grid-settings.scss",
+					"buffer": 1,
+					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/scripts.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 305,
+						"buffer_size": 228,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								234,
-								234
+								222,
+								222
 							]
 						],
 						"settings":
@@ -955,64 +753,331 @@
 							"BracketHighlighterBusy": false,
 							"bh_regions":
 							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 31416,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22173,
+								22149
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
-								"bh_single_quote_content"
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 10643.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 522,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1020,633 +1085,13 @@
 					},
 					"stack_index": 4,
 					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1583,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1435,
-								1435
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 346.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 857,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_typography.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1508,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								626,
-								626
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 642.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_fonts.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 189,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								183,
-								183
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 664,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								440,
-								440
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_header.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 207,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								206,
-								206
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/blocks/_nav.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1008,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								487,
-								487
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 366.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -1683,7 +1128,7 @@
 	"project": "engaged.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1693,12 +1138,20 @@
 		"selected_items":
 		[
 			[
-				"wed",
-				"wedding-details.php"
+				"sc",
+				"js/src/scripts.js"
 			],
 			[
-				"in",
-				"index.php"
+				"para",
+				"scss/pages/proposal-story/_parallax-ring.scss"
+			],
+			[
+				"scr",
+				"js/src/scripts.js"
+			],
+			[
+				"pros",
+				"scss/pages/proposal-story/_proposal-story.scss"
 			],
 			[
 				"pro",
@@ -1709,6 +1162,26 @@
 				"assets/neat/_grid-settings.scss"
 			],
 			[
+				"lo",
+				"scss/pages/proposal-story/_lock-bridge.scss"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"gris",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"proslock",
+				"scss/pages/proposal-story/_lock-bridge.scss"
+			],
+			[
 				"weds",
 				"scss/pages/wedding-details/_wedding-details.scss"
 			],
@@ -1717,104 +1190,224 @@
 				"scss/pages/index/_index.scss"
 			],
 			[
-				"navs",
-				"scss/blocks/_nav.scss"
+				"stys",
+				"scss/style.scss"
 			],
 			[
 				"nav",
 				"scss/blocks/_nav.scss"
 			],
 			[
-				"typ",
-				"scss/components/_typography.scss"
-			],
-			[
-				"sett",
-				"scss/settings/_settings.scss"
-			],
-			[
-				"fonts",
-				"scss/components/_fonts.scss"
-			],
-			[
-				"hea",
-				"scss/blocks/_header.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
-			],
-			[
-				"ut",
-				"scss/components/_utility-classes.scss"
-			],
-			[
 				"but",
 				"scss/components/_buttons.scss"
 			],
 			[
-				"we",
-				"wedding-details.php"
-			],
-			[
-				"confi",
-				"config.rb"
-			],
-			[
-				"sc",
-				"js/src/scripts.js"
-			],
-			[
-				"scrp",
-				"js/src/scripts.js"
-			],
-			[
-				"wedd",
-				"wedding-details.php"
-			],
-			[
-				"ty",
-				"scss/components/_typography.scss"
-			],
-			[
-				"set",
-				"scss/settings/_settings.scss"
-			],
-			[
-				"font",
-				"scss/components/_fonts.scss"
-			],
-			[
-				"porsc",
-				"scss/pages/proposal-story/_proposal-story.scss"
-			],
-			[
-				"wedp",
-				"wedding-details.php"
-			],
-			[
-				"reset",
-				"scss/components/_resets.scss"
-			],
-			[
-				"wedsc",
-				"scss/pages/wedding-details/_wedding-details.scss"
+				"dev",
+				"scss/settings/_development-styles.scss"
 			],
 			[
 				"typo",
 				"scss/components/_typography.scss"
 			],
 			[
+				"proparla",
+				"scss/pages/proposal-story/_parallax-ring.scss"
+			],
+			[
+				"prosc",
+				"scss/pages/proposal-story/_proposal-story.scss"
+			],
+			[
+				"loc",
+				"scss/pages/proposal-story/_lock-bridge.scss"
+			],
+			[
+				"proj",
+				"js/src/proposal.js"
+			],
+			[
+				"projs",
+				"js/src/proposal.js"
+			],
+			[
+				"wed",
+				"wedding-details.php"
+			],
+			[
+				"scrij",
+				"js/src/scripts.js"
+			],
+			[
+				"typ",
+				"scss/components/_typography.scss"
+			],
+			[
+				"blu",
+				"the-city/washington-ave/blue-trees-on-waugh.php"
+			],
+			[
+				"wash",
+				"scss/pages/the-city/washington-ave/_washington-ave.scss"
+			],
+			[
+				"reclsc",
+				"scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss"
+			],
+			[
+				"rec",
+				"the-city/midtown/reclaimed-gas-station.php"
+			],
+			[
+				"bluep",
+				"the-city/washington-ave/blue-trees-on-waugh.php"
+			],
+			[
+				"blus",
+				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
+			],
+			[
+				"inhe",
+				"scss/pages/index/_hero.scss"
+			],
+			[
+				"sta",
+				"scss/pages/article/standard/_standard-article.scss"
+			],
+			[
+				"blue",
+				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
+			],
+			[
+				"na",
+				"scss/blocks/_nav.scss"
+			],
+			[
 				"sty",
+				"scss/style.scss"
+			],
+			[
+				"hea",
+				"scss/blocks/_header.scss"
+			],
+			[
+				"inma",
+				"scss/pages/index/_main.scss"
+			],
+			[
+				"inher",
+				"scss/pages/index/_hero.scss"
+			],
+			[
+				"blues",
+				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
+			],
+			[
+				"gal",
+				"scss/pages/article/standard/_gallery.scss"
+			],
+			[
+				"her",
+				"scss/pages/index/_hero.scss"
+			],
+			[
+				"arti",
+				"scss/pages/article/standard/_standard-article.scss"
+			],
+			[
+				"gals",
+				"scss/pages/article/standard/_gallery.scss"
+			],
+			[
+				"bl",
+				"the-city/washington-ave/blue-trees-on-waugh.php"
+			],
+			[
+				"hero",
+				"scss/pages/index/_hero.scss"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
+				"mai",
+				"scss/pages/index/_main.scss"
+			],
+			[
+				"sett",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"grid",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"scip",
+				"js/src/scripts.js"
+			],
+			[
+				"scri",
+				"js/src/scripts.js"
+			],
+			[
+				"scj",
+				"js/src/scripts.js"
+			],
+			[
+				"scrips",
+				"js/src/scripts.js"
+			],
+			[
+				"inhea",
+				"scss/pages/index/_header.scss"
+			],
+			[
+				"set",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"scrj",
+				"js/src/scripts.js"
+			],
+			[
+				"gridse",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"eas",
+				"the-city/east-end/abandoned-east-end-warehouse.php"
+			],
+			[
+				".ht",
+				".htaccess"
+			],
+			[
+				"404",
+				"404.html"
+			],
+			[
+				"403",
+				"403.html"
+			],
+			[
+				"inh",
+				"index.html"
+			],
+			[
+				"hta",
+				".htaccess"
+			],
+			[
+				"stc",
+				"css/style.css"
+			],
+			[
+				"sts",
 				"scss/style.scss"
 			],
 			[
 				".h",
 				".htaccess"
-			],
-			[
-				"loc",
-				"location.php"
 			],
 			[
 				"menj",
@@ -1925,12 +1518,12 @@
 				"scss/_footer.scss"
 			],
 			[
-				"app",
-				"scss/app.scss"
+				"ty",
+				"_ignores/typography.html"
 			],
 			[
-				"lo",
-				"scss/_location.scss"
+				"app",
+				"scss/app.scss"
 			],
 			[
 				"foo",
@@ -2029,14 +1622,6 @@
 				"scss/_menu.scss"
 			],
 			[
-				"404",
-				"404.html"
-			],
-			[
-				"403",
-				"403.html"
-			],
-			[
 				"er",
 				"scss/error.scss"
 			],
@@ -2063,144 +1648,54 @@
 			[
 				"evs",
 				"scss/_events.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "d",
+		"selected_items":
+		[
+			[
+				"d",
+				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
 			],
 			[
-				"menh",
-				"menu.html"
+				"z",
+				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/_ignores/zaraza.sublime-project"
 			],
 			[
-				"mena",
-				"js/src/menu-app.js"
+				"hof",
+				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-workspace"
 			],
 			[
-				"sport",
-				"scss/_sports-section.scss"
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
-				"slog",
-				"scss/_slogan.scss"
+				"bl",
+				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.static/_ignores/blog-snc.sublime-workspace"
 			],
 			[
-				"map",
-				"scss/_map.scss"
+				"ho",
+				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-project"
 			],
 			[
-				"ascs",
-				"scss/app.scss"
+				"h",
+				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
 			],
 			[
-				"po",
-				"portfolio.html"
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
-				"than",
-				"thanks.html"
+				"ni",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
 			],
 			[
-				"found",
-				"js/foundation.js"
-			],
-			[
-				"wha",
-				"services/what-we-do.html"
-			],
-			[
-				"con",
-				"contact.html"
-			],
-			[
-				"abou",
-				"about-us.html"
-			],
-			[
-				"por",
-				"portfolio.html"
-			],
-			[
-				"how",
-				"services/how-we-do-it.html"
-			],
-			[
-				"what",
-				"services/what-we-do.html"
-			],
-			[
-				"apc",
-				"css/app.css"
-			],
-			[
-				"head",
-				"_includes/head.html"
-			],
-			[
-				"inde",
-				"_layouts/index/default.html"
-			],
-			[
-				"panor",
-				"_site/blog/cool-stuff/downtown-panorama-video.html"
-			],
-			[
-				"conf",
-				"_config.yml"
-			],
-			[
-				"footrs",
-				"scss/_footer.scss"
-			],
-			[
-				"foos",
-				"scss/_footer.scss"
-			],
-			[
-				"layoutpo",
-				"_layouts/posts/default.html"
-			],
-			[
-				"def",
-				"_layouts/index/default.html"
-			],
-			[
-				"red",
-				"_includes/head/redirect.html"
-			],
-			[
-				"posb",
-				"_includes/posts/post-banner.html"
-			],
-			[
-				"head/r",
-				"_includes/head/redirect.html"
-			],
-			[
-				"1s",
-				"_posts/2014-09-04-1st-post-ever.md"
-			],
-			[
-				"codi",
-				"_layouts/categories/coding.html"
-			],
-			[
-				"layout",
-				"_layouts/index/default.html"
-			],
-			[
-				"indef",
-				"_layouts/index/default.html"
-			],
-			[
-				"psts/po",
-				"_includes/posts/post-banner.html"
-			],
-			[
-				"post/d",
-				"_layouts/posts/default.html"
-			],
-			[
-				"post/m",
-				"_layouts/posts/mobile.html"
-			],
-			[
+<<<<<<< HEAD
 				"1st(m",
 				"_posts/2014-09-04-1st-post-ever(m).md"
 			]
@@ -2220,22 +1715,29 @@
 			[
 				"ne",
 				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+=======
+				"j",
+				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
+>>>>>>> temp-lock-bridge-ending
 			],
 			[
-				"gc",
-				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/gctx.sublime-project"
+				"N",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
 			],
 			[
+<<<<<<< HEAD
+=======
+				"n",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+			],
+			[
+>>>>>>> temp-lock-bridge-ending
 				"li",
 				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.static/_ignores/lisa.static.sublime-project"
 			],
 			[
 				"list",
 				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.static/_ignores/lisa.static.sublime-project"
-			],
-			[
-				"s",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
 				"g",
@@ -2250,10 +1752,6 @@
 				"~/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/engaged-paris.sublime-project"
 			],
 			[
-				"j",
-				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdf.sublime-project"
-			],
-			[
 				"l",
 				"~/SNC Projects/Lisa Esposito/Site Folder/lisaesposito.com/_ignores/lisa.sublime-project"
 			],
@@ -2262,19 +1760,11 @@
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
-				"h",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/houstonuncovered.com/Site Folder/houstonuncovered.com/_ignores/houston-u.sublime-workspace"
-			],
-			[
-				"z",
-				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/development/htdocs/_ignores/zaraza.sublime-project"
-			],
-			[
-				"n",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
-			],
-			[
 				"",
+				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
+			],
+			[
+				"gc",
 				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
 			]
 		],
@@ -2296,8 +1786,13 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
+<<<<<<< HEAD
 	"side_bar_visible": false,
 	"side_bar_width": 365.0,
+=======
+	"side_bar_visible": true,
+	"side_bar_width": 328.0,
+>>>>>>> temp-lock-bridge-ending
 	"status_bar_visible": true,
 	"template_settings":
 	{

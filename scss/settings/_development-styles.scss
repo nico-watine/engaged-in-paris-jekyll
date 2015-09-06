@@ -3,29 +3,33 @@
 // MISC STYLING NOTES
 
 
-
-
 body {
 	
-	@include media($large) {
+	@include media($max-1070) {
 		background: red; 
 	}
 
-	@include media($medium) {
+	@include media($max-970) {
+		background: purple;
+	}
+
+	@include media($max-770) {
 		background: blue; 
 	}
 
-	@include media($android) {
+	@include media($max-610) {
 		background: yellow; 
 	}
 
-	@include media($small) {
+	@include media($max-480) {
 		background: green; 
 	}
 
-	@include media($tiny) {
+	@include media($max-320) {
 		background: purple;
 	}
 }
+
+
 
 

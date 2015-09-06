@@ -1,0 +1,33 @@
+@import "../../settings/_settings.scss";
+
+$max-1024: "only screen and (max-width : 64em)";
+$max-650: "only screen and (max-width : 40.625em)";
+
+#parallax-ring {
+	background: url("/img/proposal-story/ring/ring.jpg");
+	height: 140%;
+	width: 100%;
+
+	.fade-out {
+		height: 100%;
+		width: 100%;
+	}
+
+	@media #{$max-1024} {
+		height: 100%;
+	}
+
+	@include media($max-970) {
+		background: url("/img/proposal-story/ring/ring@970.jpg");
+	}
+
+	@media #{$max-650} {
+		background: url("/img/proposal-story/ring/ring@650.jpg");
+	}
+
+}
+
+
+
+
+

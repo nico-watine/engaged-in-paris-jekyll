@@ -1,6 +1,10 @@
 @import "../settings/_settings.scss";
 
+$max-530: "only screen and (max-width : 530px)";
+
 $max-400: "only screen and (max-width : 400px)";
+
+
 
 nav {
 	text-align: center;
@@ -61,7 +65,7 @@ nav {
 	}
 }
 
-@include media($small) {
+@media #{$max-530} {
 	nav {
 		#crest-wrapper {
 			position: initial; 
@@ -70,9 +74,8 @@ nav {
 		ul {
 			padding: 0 0 em(5);
 		}
-	}	
+	}
 }
-
-@media #{$max-400} {
 	
-}
+
+
