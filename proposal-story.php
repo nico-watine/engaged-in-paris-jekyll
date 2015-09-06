@@ -85,6 +85,8 @@
 			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
+
+	<h3 class="header" id="coming-soon" style="padding-bottom: 50px;">2nd Proposal Opportunity On Its Way!</h3>
 </section>
 
 

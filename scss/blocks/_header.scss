@@ -10,4 +10,8 @@ header {
 	z-index: 55;
 }
 
-
+html.skrollr-mobile {
+	header {
+		position: absolute;
+	}
+}
