@@ -3683,13 +3683,35 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/ring\/ring-parallax.jpg": {
+	"\/img\/proposal-story\/ring\/ring.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143484,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring-parallax.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring-parallax.jpg",
+		"initialSize": 151089,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/ring\/ring@650.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53091,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring@650.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring@650.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/ring\/ring@970.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 94732,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring@970.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring@970.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

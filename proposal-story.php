@@ -56,7 +56,7 @@
 </section>
 
 
-<section id="parallax-ring" data-bottom-top="background-position:0px 100%;" data-top-bottom="background-position:0px 0px;">
+<section id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
 	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
 </section>
 
