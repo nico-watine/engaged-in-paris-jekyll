@@ -61,12 +61,12 @@
 </section>
 
 
-<section id="lock-bridge">
+<section id="lock-bridge" class="proposal-opportunity">
 	<div class="map-header">
 		<article>
 			<h3 class="header">1st Proposal Opportunity</h3>
 			<h2 class="title">The Lock Bridge</h2>
-			<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
+			<p class="large">The Lock Bridge is famous for the thousands of padlocks that lovers have attached to the railings after signing their names on one and throwing the key into The Seine river below.
 			<br><br>
 			The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
 			<br><br>
@@ -85,15 +85,39 @@
 			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
-
-	<h3 class="header" id="coming-soon" style="padding-bottom: 50px;">2nd Proposal Opportunity On Its Way!</h3>
 </section>
 
+<section id="notre-dame" class="proposal-opportunity">
+	<div class="map-header">
+		<article>
+			<h3 class="header">2nd Proposal Opportunity</h3>
+			<h2 class="title">Notre Dame Cathedral</h2>
+			<p class="large">Widely considered to be the most famous of all the cathedrals in Paris, Notre Dame is a beautiful site to behold.
+			<br><br>
+			Given that every tourist in Paris goes to the Cathedral, there were a few too many people for a proposal to be both memorable and intimate at this location.</p>
+		</article>
+	</div>
 
+	<div class="section-photos">
+		<div class="photo-row single-photo">
+			<figure>
+				<img src="/img/proposal-story/notre-dame/notre-dame-facade.jpg" alt="Front Facade of Notre Dame">
+				<h3 class="header">The front facade of Notre Dame</h3>
+			</figure>
+		</div>
+		<div class="photo-row full-photo">
+			<figure class="in-caption" id="notre-dame-back">
+				<img src="/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
+				<div class="verbiage-container">
+					<h3 class="header">The back side of <span class="inline-block">Notre Dame</span> at dusk</h3>
+					<h4>This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
+				</div>
+			</figure>
+		</div>
+	</div>
+</section>
 
-	
-		
-
+<h3 class="header" id="coming-soon" style="padding-bottom: 50px;">3nd Proposal Opportunity On Its Way!</h3>
 
 
 

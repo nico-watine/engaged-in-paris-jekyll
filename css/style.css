@@ -209,7 +209,7 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 
 .padding { padding: 0 1em; }
 
-.inline { display: inline-block; }
+.inline, .inline-block { display: inline-block; }
 
 .underline { text-decoration: underline; }
 
@@ -352,38 +352,71 @@ article#reception #event-details { margin-bottom: 4.375em; }
 @media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
 @media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
 
-#lock-bridge .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
+#lock-bridge .map-header { background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
 @media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
 @media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
 @media only screen and (max-width: 64em) { #lock-bridge .map-header { background-position: 50% top; height: 31.25em; } }
 @media only screen and (max-width: 60em) { #lock-bridge .map-header { height: 28.75em; background-position: right top; } }
 @media only screen and (max-width: 53.75em) { #lock-bridge .map-header { height: 26.875em; margin-bottom: 1.875em; } }
 @media screen and (max-width: 48.125em) { #lock-bridge .map-header { height: 23.75em; } }
-@media only screen and (max-width: 46.25em) { #lock-bridge .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 46.25em) { #lock-bridge .map-header { height: auto; background-size: contain; background-position: center top; } }
 @media only screen and (max-width: 40.625em) { #lock-bridge .map-header { padding-top: 12.5em; } }
 @media screen and (max-width: 30em) { #lock-bridge .map-header { padding-top: 8.125em; } }
-#lock-bridge .map-header article { position: absolute; top: 0; left: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
-@media only screen and (max-width: 64em) { #lock-bridge .map-header article { width: 30em; padding: 1.25em; }
-  #lock-bridge .map-header article p { font-size: 1.25rem; } }
-@media only screen and (max-width: 60em) { #lock-bridge .map-header article { width: 23.75em; }
-  #lock-bridge .map-header article h3 { font-size: 1.375em; }
-  #lock-bridge .map-header article h2 { font-size: 1.9375em; }
-  #lock-bridge .map-header article p { font-size: 1.125rem; } }
-@media screen and (max-width: 48.125em) { #lock-bridge .map-header article p { font-size: 1rem; } }
-@media only screen and (max-width: 46.25em) { #lock-bridge .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
-@media only screen and (max-width: 25em) { #lock-bridge .map-header article h3 { font-size: 1.25rem; }
-  #lock-bridge .map-header article h2 { font-size: 1.625rem; } }
+#lock-bridge .map-header article { left: 0; }
 #lock-bridge h3#selfie { max-width: 57.5rem; padding: 0 1.25rem; text-align: center; margin-bottom: 3.75rem; }
 @media only screen and (max-width: 53.75em) { #lock-bridge h3#selfie { font-size: 1.375em; max-width: 41.875rem; margin-bottom: 2.5rem; } }
 @media screen and (max-width: 30em) { #lock-bridge h3#selfie { font-size: 1.25rem; } }
-#lock-bridge .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
-@media only screen and (max-width: 53.75em) { #lock-bridge .photo-row img { margin-bottom: 2.875em; } }
-#lock-bridge .double-photo img { max-height: 32.8125em; max-width: 48%; }
-#lock-bridge .double-photo img#first { float: left; }
-#lock-bridge .double-photo img#second { float: right; }
-@media only screen and (max-width: 25em) { #lock-bridge .double-photo img#first, #lock-bridge .double-photo img#second { float: none; max-width: 100%; } }
-#lock-bridge .single-photo { text-align: center; }
-#lock-bridge .single-photo img { max-height: 43.75em; }
+
+#notre-dame .map-header { background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
+@media only screen and (min-width: 93.813em) { #notre-dame .map-header { background-size: cover; background-position: 50%; } }
+@media only screen and (max-width: 93.75em) { #notre-dame .map-header { background-position: left; } }
+@media only screen and (max-width: 83.75em) { #notre-dame .map-header { background-position: -100px; } }
+@media only screen and (max-width: 75em) { #notre-dame .map-header { background-position: -220px; height: 31.25em; } }
+@media only screen and (max-width: 64em) { #notre-dame .map-header { background-position: -200px; } }
+@media only screen and (max-width: 60em) { #notre-dame .map-header { height: 27.5em; } }
+@media only screen and (max-width: 53.75em) { #notre-dame .map-header { height: 25em; margin-bottom: 1.875em; } }
+@media screen and (max-width: 48.125em) { #notre-dame .map-header { height: 23.75em; } }
+@media only screen and (max-width: 46.25em) { #notre-dame .map-header { height: auto; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 40.625em) { #notre-dame .map-header { padding-top: 12.5em; } }
+@media screen and (max-width: 30em) { #notre-dame .map-header { padding-top: 8.125em; background-position: center -50px; } }
+@media only screen and (max-width: 25em) { #notre-dame .map-header { background-position: center top; } }
+#notre-dame .map-header article { right: 0; }
+
+figure.in-caption#notre-dame-back .verbiage-container { left: 10%; top: 10%; width: 28.125em; text-align: left; }
+figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+@media only screen and (max-width: 64em) { figure.in-caption#notre-dame-back .verbiage-container { top: 5%; left: 5%; } }
+@media screen and (max-width: 48.125em) { figure.in-caption#notre-dame-back .verbiage-container { width: 100%; right: 5%; left: initial; text-align: right; top: 70%; } }
+@media only screen and (max-width: 560px) { figure.in-caption#notre-dame-back .verbiage-container { text-align: center; top: 5%; right: initial; padding: 0 1.875em; } }
+@media only screen and (max-width: 530px) { figure.in-caption#notre-dame-back img { margin-bottom: 1.25em; }
+  figure.in-caption#notre-dame-back .verbiage-container { position: relative; top: 0; }
+  figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
+
+section.proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
+@media only screen and (max-width: 46.25em) { section.proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+section.proposal-opportunity .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
+@media only screen and (max-width: 64em) { section.proposal-opportunity .map-header article { width: 30em; padding: 1.25em; }
+  section.proposal-opportunity .map-header article p { font-size: 1.25rem; } }
+@media only screen and (max-width: 60em) { section.proposal-opportunity .map-header article { width: 23.75em; }
+  section.proposal-opportunity .map-header article h3 { font-size: 1.375em; }
+  section.proposal-opportunity .map-header article h2 { font-size: 1.9375em; }
+  section.proposal-opportunity .map-header article p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { section.proposal-opportunity .map-header article p { font-size: 1rem; } }
+@media only screen and (max-width: 46.25em) { section.proposal-opportunity .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
+@media only screen and (max-width: 25em) { section.proposal-opportunity .map-header article h3 { font-size: 1.25rem; }
+  section.proposal-opportunity .map-header article h2 { font-size: 1.625rem; } }
+section.proposal-opportunity .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+section.proposal-opportunity .photo-row figure { margin-bottom: 4em; }
+section.proposal-opportunity .photo-row figure img { margin-bottom: 2.125em; }
+section.proposal-opportunity .photo-row figure.in-caption { position: relative; }
+section.proposal-opportunity .photo-row figure.in-caption .verbiage-container { position: absolute; }
+@media only screen and (max-width: 53.75em) { section.proposal-opportunity .photo-row img { margin-bottom: 2.875em; } }
+section.proposal-opportunity .double-photo img { max-height: 32.8125em; max-width: 48%; }
+section.proposal-opportunity .double-photo img#first { float: left; }
+section.proposal-opportunity .double-photo img#second { float: right; }
+@media only screen and (max-width: 25em) { section.proposal-opportunity .double-photo img#first, section.proposal-opportunity .double-photo img#second { float: none; max-width: 100%; } }
+section.proposal-opportunity .single-photo { text-align: center; }
+section.proposal-opportunity .single-photo img { max-height: 43.75em; }
+section.proposal-opportunity .full-photo { text-align: center; }
 
 #skrollr-body { height: 100%; }
 

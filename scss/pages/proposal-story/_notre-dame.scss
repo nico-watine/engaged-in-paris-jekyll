@@ -1,0 +1,137 @@
+@import "../../settings/_settings.scss";
+
+$min-1501: "only screen and (min-width : 93.813em)";
+$max-1500: "only screen and (max-width : 93.75em)";
+$max-1340: "only screen and (max-width : 83.75em)";
+$max-1200: "only screen and (max-width : 75em)";
+$max-1024: "only screen and (max-width : 64em)";
+$max-960: "only screen and (max-width : 60em)";
+$max-860: "only screen and (max-width : 53.75em)";
+$max-740: "only screen and (max-width : 46.25em)";
+$max-650: "only screen and (max-width : 40.625em)";
+$max-560: "only screen and (max-width : 560px)";
+$max-530: "only screen and (max-width : 530px)";
+$max-400: "only screen and (max-width : 25em)";
+
+
+#notre-dame {
+	.map-header {
+		background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left;
+		background-size: auto 100%;
+
+		@media #{$min-1501} {
+			background-size: cover;
+			background-position: 50%;
+		}
+
+		@media #{$max-1500} {
+			background-position: left;
+		}
+
+		@media #{$max-1340} {
+			background-position: -100px;
+		}
+
+		@media #{$max-1200} {
+			background-position: -220px;
+			height: em(500);
+		}
+
+		@media #{$max-1024} {
+			background-position: -200px;
+		}
+
+		@media #{$max-960} {
+			height: em(440);
+		}
+
+		@media #{$max-860} {
+			height: em(400);
+			margin-bottom: em(30);
+		}
+
+		@include media($max-770) {
+			height: em(380);
+		}
+
+		@media #{$max-740} {
+			height: auto;
+			background-size: contain;
+			background-position: center top;
+		}
+
+		@media #{$max-650} {
+			padding-top: em(200);
+		}
+
+		@include media($max-480) {
+			padding-top: em(130);
+			background-position: center -50px;
+		}
+
+		@media #{$max-400} {
+			background-position: center top;
+		}
+
+		article {
+			right: 0;
+		}
+	}
+}
+
+figure.in-caption#notre-dame-back {
+	.verbiage-container {
+		left: 10%;
+		top: 10%;
+		width: em(450);
+		text-align: left;
+
+		h3,
+		h4 {
+			color: #fff;
+			text-shadow: 0 rem(2) rem(3) #000;
+		}
+	}
+
+	@media #{$max-1024} {
+		.verbiage-container {
+			top: 5%;
+			left: 5%;
+		}
+	}
+
+	@include media($max-770) {
+		.verbiage-container {
+			width: 100%;
+			right: 5%;
+			left: initial;
+			text-align: right;
+			top: 70%;
+		}
+	}
+
+	@media #{$max-560} {
+		.verbiage-container {
+			text-align: center;
+			top: 5%;
+			right: initial;
+			padding: 0 em(30);
+		}
+	}
+
+	@media #{$max-530} {
+		img {
+			margin-bottom: em(20);
+		}
+		.verbiage-container {
+			position: relative;
+			top: 0;
+
+			h3,
+			h4 {
+				color: $text-color;
+				text-shadow: none;
+			}
+		}
+	}
+}
