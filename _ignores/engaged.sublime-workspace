@@ -4,22 +4,6 @@
 		"selected_items":
 		[
 			[
-				"re",
-				"reclaimed-gas-station"
-			],
-			[
-				"blue",
-				"_blue-trees-on-waugh.scss"
-			],
-			[
-				"sta",
-				"_standard-article.scss"
-			],
-			[
-				"blu",
-				"_blue-trees-on-waugh.scss"
-			],
-			[
 				"me",
 				"_menu.scss"
 			],
@@ -159,10 +143,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 287.0,
-		"last_filter": "html",
+		"height": 392.0,
+		"last_filter": "sass",
 		"selected_items":
 		[
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
 			[
 				"html",
 				"Set Syntax: HTML"
@@ -253,57 +241,37 @@
 	],
 	"file_history":
 	[
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_standard-article.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/washington-ave/blue-trees-on-waugh.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/_washington-ave.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/midtown/reclaimed-gas-station.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/_the-city.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_nav.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/style.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/midtown/_midtown.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_hero.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss",
-		"/Users/nico/Downloads/importbuddy.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_header.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/_grid-settings.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_main.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_buttons.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/article/standard/_gallery.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_typography.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/settings/_settings.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/picturefill.js",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/components/_fonts.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_index.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/neat/settings/_grid.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/assets/bower_components/picturefill/index.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/scripts.js",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/js/src/media/picturefill.js",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/pages/index/_header.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/scss/blocks/_body.scss",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/index.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-east-end-warehouse.php",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/.htaccess",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/403.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/404.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/robots.txt",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/index.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/index.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/index.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/the-city/east-end/abandoned-east-end-warehouse.html",
-		"/Users/nico/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/htaccess.txt",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/index.html",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/.htaccess",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/index.php",
-		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/ie.css",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/.htaccess",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/assets/neat/settings/_grid.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/components/_buttons.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/assets/neat/_grid-settings.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/.htaccess",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/_ignores/css-references.css",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/index.php",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/robots.txt",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/config.rb",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/_ignores/type-scales.txt",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/settings/_settings.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/style.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/components/_utility-classes.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/components/_typography.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/settings/_development-styles.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/_ignores/html-references.html",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/404.html",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/403.html",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/components/extras/_sticky-footer.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/js/ie-min.js",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/js/src/ie.js",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/humans.txt",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/scss/components/_resets.scss",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/_ignores/browser-upgrade-snippet.html",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/css/style.css",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/_ignores/htaccess.txt",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/js/src/scripts.js",
+		"/Users/nico/Web Development/New Project/Site Folder/new-project.com/js/src/test/yo/test.js",
+		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa.static/front-page.php",
 		"/Users/nico/SNC Projects/Lisa Esposito/Site Folder/lisa-2.local/_ignores/lisa.sublime-workspace",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/pages/_location.scss",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/index(old).html",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/app-m.scss",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/src/menu.js",
@@ -357,6 +325,7 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/style-scoped.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/custom-protocol-handler.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-objectfit.js",
+		"/Users/nico/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/css/style.css",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/test/basic.html",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/battery-api.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/css/app.css",
@@ -380,11 +349,30 @@
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/audio-webaudio-api.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/dom-createElement-attrs.js",
 		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-regions.js",
-		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_sports-section.scss"
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_sports-section.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_side-nav.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/selector-native.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_map.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/css-mediaqueries.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/network-eventsource.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/contextmenu.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_slogan.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/_location-gmap.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/offset.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/foundation/scss/foundation/components/_dropdown-buttons.scss",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/notification.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/js/app.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/feature-detects/quota-management-api.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/modernizr/modernizr.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/scss/location/_gmap.scss",
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/404.html",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/ajax/script.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower_components/jquery/src/effects/animatedSelector.js",
+		"/Users/nico/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/bower.json"
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"find_in_files":
 	{
@@ -399,28 +387,19 @@
 		"case_sensitive": false,
 		"find_history":
 		[
-			"blue-trees",
-			"body",
-			"//",
-			".standard",
-			"h3",
-			"action",
-			".button",
-			" class=\"active\"",
-			"//",
-			"absolute",
-			"100",
-			"1",
-			"1px",
-			"dark",
-			"index-link",
-			"none",
-			"div",
-			"270px",
-			"%40",
-			"small",
-			"/img",
-			"font",
+			"width",
+			"span",
+			"17px",
+			"0px",
+			"2px",
+			"0px",
+			"free-intuitive-spontaneous",
+			"Free, Intuitive, Spontaneous",
+			"lyri",
+			"new",
+			"new-artworks",
+			"free-intuitive-spontaneous",
+			"new-artworks",
 			"map",
 			"eee",
 			"crawfish",
@@ -526,7 +505,16 @@
 			"3px",
 			"1px",
 			"2px",
-			"h2"
+			"h2",
+			"padding",
+			"h1",
+			" featured-service",
+			"section",
+			"apluspermit",
+			"services",
+			"#",
+			".apluspermit-hover",
+			"=\"#\"><"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -534,8 +522,6 @@
 		"regex": false,
 		"replace_history":
 		[
-			"#call-to-action",
-			"http://cdn.houstonuncovered.com/houstonuncovered.com/img",
 			"thedeckonfountainview",
 			"posts/video-bg/",
 			"",
@@ -573,7 +559,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -610,7 +596,7 @@
 	"project": "engaged.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -620,188 +606,64 @@
 		"selected_items":
 		[
 			[
-				"in",
-				"index.php"
-			],
-			[
-				"blu",
-				"the-city/washington-ave/blue-trees-on-waugh.php"
-			],
-			[
-				"wash",
-				"scss/pages/the-city/washington-ave/_washington-ave.scss"
-			],
-			[
-				"reclsc",
-				"scss/pages/the-city/midtown/reclaimed-gas-station/_reclaimed-gas-station.scss"
-			],
-			[
-				"st",
-				"scss/style.scss"
-			],
-			[
-				"rec",
-				"the-city/midtown/reclaimed-gas-station.php"
-			],
-			[
-				"bluep",
-				"the-city/washington-ave/blue-trees-on-waugh.php"
-			],
-			[
-				"blus",
-				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
-			],
-			[
-				"inhe",
-				"scss/pages/index/_hero.scss"
-			],
-			[
-				"sta",
-				"scss/pages/article/standard/_standard-article.scss"
-			],
-			[
-				"blue",
-				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
-			],
-			[
-				"na",
-				"scss/blocks/_nav.scss"
-			],
-			[
-				"sty",
-				"scss/style.scss"
-			],
-			[
-				"hea",
-				"scss/blocks/_header.scss"
-			],
-			[
-				"gri",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"inma",
-				"scss/pages/index/_main.scss"
-			],
-			[
-				"inher",
-				"scss/pages/index/_hero.scss"
-			],
-			[
 				"but",
 				"scss/components/_buttons.scss"
 			],
 			[
-				"blues",
-				"scss/pages/the-city/washington-ave/blue-trees-on-waugh/_blue-trees-on-waugh.scss"
-			],
-			[
-				"gal",
-				"scss/pages/article/standard/_gallery.scss"
-			],
-			[
-				"her",
-				"scss/pages/index/_hero.scss"
-			],
-			[
-				"arti",
-				"scss/pages/article/standard/_standard-article.scss"
-			],
-			[
-				"gris",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"nav",
-				"scss/blocks/_nav.scss"
-			],
-			[
-				"gals",
-				"scss/pages/article/standard/_gallery.scss"
-			],
-			[
-				"bl",
-				"the-city/washington-ave/blue-trees-on-waugh.php"
-			],
-			[
-				"typ",
-				"scss/components/_typography.scss"
-			],
-			[
-				"hero",
-				"scss/pages/index/_hero.scss"
-			],
-			[
-				"fonts",
-				"scss/components/_fonts.scss"
+				"dev",
+				"scss/settings/_development-styles.scss"
 			],
 			[
 				"typo",
 				"scss/components/_typography.scss"
 			],
 			[
-				"mai",
-				"scss/pages/index/_main.scss"
+				"gridse",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"st",
+				"scss/style.scss"
+			],
+			[
+				"gris",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"gri",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"stdev",
+				"scss/settings/_development-styles.scss"
+			],
+			[
+				"grise",
+				"assets/neat/_grid-settings.scss"
 			],
 			[
 				"sett",
 				"scss/settings/_settings.scss"
 			],
 			[
-				"grid",
-				"assets/neat/settings/_grid.scss"
-			],
-			[
-				"ins",
-				"scss/pages/index/_index.scss"
-			],
-			[
-				"scip",
-				"js/src/scripts.js"
-			],
-			[
-				"scri",
-				"js/src/scripts.js"
-			],
-			[
-				"scj",
-				"js/src/scripts.js"
-			],
-			[
-				"scrips",
-				"js/src/scripts.js"
-			],
-			[
-				"scrij",
-				"js/src/scripts.js"
-			],
-			[
-				"inhea",
-				"scss/pages/index/_header.scss"
-			],
-			[
-				"set",
-				"scss/settings/_settings.scss"
-			],
-			[
-				"scrj",
-				"js/src/scripts.js"
-			],
-			[
-				"stys",
-				"scss/style.scss"
-			],
-			[
-				"gridse",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"eas",
-				"the-city/east-end/abandoned-east-end-warehouse.php"
+				"in",
+				"index.php"
 			],
 			[
 				".ht",
 				".htaccess"
+			],
+			[
+				"type",
+				"_ignores/type-scales.txt"
+			],
+			[
+				"grid",
+				"assets/neat/settings/_grid.scss"
+			],
+			[
+				"typ",
+				"_ignores/type-scales.txt"
 			],
 			[
 				"404",
@@ -812,28 +674,76 @@
 				"403.html"
 			],
 			[
-				"sc",
-				"js/src/scripts.js"
+				"confr",
+				"config.rb"
 			],
 			[
-				"inh",
-				"index.html"
+				"robo",
+				"robots.txt"
 			],
 			[
-				"hta",
-				".htaccess"
+				"ut",
+				"scss/components/_utility-classes.scss"
 			],
 			[
-				"scr",
-				"js/src/scripts.js"
+				"butt",
+				"scss/components/_buttons.scss"
 			],
 			[
-				"stc",
-				"css/style.css"
+				"stys",
+				"scss/style.scss"
+			],
+			[
+				"s",
+				"scss/style.scss"
+			],
+			[
+				"sti",
+				"scss/components/extras/_sticky-footer.scss"
+			],
+			[
+				"ty",
+				"_ignores/type-scales.txt"
+			],
+			[
+				"set",
+				"scss/settings/_settings.scss"
+			],
+			[
+				"hum",
+				"humans.txt"
+			],
+			[
+				"reset",
+				"scss/components/_resets.scss"
+			],
+			[
+				"tpo",
+				"scss/components/_typography.scss"
+			],
+			[
+				"rob",
+				"robots.txt"
 			],
 			[
 				"sts",
 				"scss/style.scss"
+			],
+			[
+				"res",
+				"scss/components/_resets.scss"
+			],
+			[
+				"rese",
+				"scss/components/_resets.scss"
+			],
+			[
+				"scri",
+				"js/src/scripts.js"
+			],
+			[
+				"inla",
+				"scss/pages/index/_landing.scss"
 			],
 			[
 				".h",
@@ -920,10 +830,6 @@
 				"scss/_index/_map.scss"
 			],
 			[
-				"hum",
-				"humans.txt"
-			],
-			[
 				"fo",
 				"scss/_footer.scss"
 			],
@@ -950,10 +856,6 @@
 			[
 				"footers",
 				"scss/_footer.scss"
-			],
-			[
-				"ty",
-				"_ignores/typography.html"
 			],
 			[
 				"app",
@@ -1018,6 +920,10 @@
 			[
 				"even",
 				"events.html"
+			],
+			[
+				"hea",
+				"scss/_header.scss"
 			],
 			[
 				"locas",
@@ -1130,6 +1036,86 @@
 			[
 				"con",
 				"contact.html"
+			],
+			[
+				"abou",
+				"about-us.html"
+			],
+			[
+				"por",
+				"portfolio.html"
+			],
+			[
+				"how",
+				"services/how-we-do-it.html"
+			],
+			[
+				"what",
+				"services/what-we-do.html"
+			],
+			[
+				"apc",
+				"css/app.css"
+			],
+			[
+				"head",
+				"_includes/head.html"
+			],
+			[
+				"inde",
+				"_layouts/index/default.html"
+			],
+			[
+				"panor",
+				"_site/blog/cool-stuff/downtown-panorama-video.html"
+			],
+			[
+				"conf",
+				"_config.yml"
+			],
+			[
+				"footrs",
+				"scss/_footer.scss"
+			],
+			[
+				"foos",
+				"scss/_footer.scss"
+			],
+			[
+				"layoutpo",
+				"_layouts/posts/default.html"
+			],
+			[
+				"def",
+				"_layouts/index/default.html"
+			],
+			[
+				"red",
+				"_includes/head/redirect.html"
+			],
+			[
+				"posb",
+				"_includes/posts/post-banner.html"
+			],
+			[
+				"head/r",
+				"_includes/head/redirect.html"
+			],
+			[
+				"1s",
+				"_posts/2014-09-04-1st-post-ever.md"
+			],
+			[
+				"codi",
+				"_layouts/categories/coding.html"
+			],
+			[
+				"layout",
+				"_layouts/index/default.html"
+			],
+			[
+				"nav",
+				"_includes/nav/nav-standard.html"
 			]
 		],
 		"width": 0.0
@@ -1137,64 +1123,48 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "z",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"z",
-				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/_ignores/zaraza.sublime-project"
-			],
-			[
-				"hof",
-				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-workspace"
-			],
-			[
-				"sn",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"bl",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.static/_ignores/blog-snc.sublime-workspace"
-			],
-			[
-				"ho",
-				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof.sublime-project"
+				"d",
+				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
 			],
 			[
 				"h",
 				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
 			],
 			[
-				"s",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"ni",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+				"jd",
+				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 			],
 			[
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 			],
 			[
-				"N",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+				"jdf",
+				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 			],
 			[
-				"n",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
+				"sn",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
-				"li",
-				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.static/_ignores/lisa.static.sublime-project"
-			],
-			[
-				"list",
-				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.static/_ignores/lisa.static.sublime-project"
+				"liwp",
+				"~/SNC Projects/Lisa Esposito/Site Folder/lisa.wp/_ignores/lisa.wp.sublime-project"
 			],
 			[
 				"g",
 				"~/SNC Projects/GreencareTX/Site Folder/greencaretx.com/_ignores/gctx.sublime-project"
+			],
+			[
+				"",
+				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
+			],
+			[
+				"s",
+				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
 				"snb",
@@ -1213,8 +1183,12 @@
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
 			],
 			[
-				"",
-				"~/SNC Projects/GreencareTX/Site Folder/gctx2/_ignores/gctx2.sublime-project"
+				"z",
+				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/development/htdocs/_ignores/zaraza.sublime-project"
+			],
+			[
+				"n",
+				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
 			],
 			[
 				"gc",
@@ -1240,7 +1214,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 328.0,
+	"side_bar_width": 255.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
