@@ -3628,17 +3628,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/fade-in\/plane.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 122478,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/fade-in\/plane.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/fade-in\/plane.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/proposal-story\/lock-bridge\/corinne-posing.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3679,6 +3668,17 @@
 		"initialSize": 208273,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 183154,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -4112,6 +4112,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_lock-bridge.scss",
 		"outputAbbreviatedPath": "\/css\/_lock-bridge.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/pages\/proposal-story\/_notre-dame.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_notre-dame.scss",
+		"outputAbbreviatedPath": "\/css\/_notre-dame.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

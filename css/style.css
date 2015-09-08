@@ -385,6 +385,39 @@ article#reception #event-details { margin-bottom: 4.375em; }
 #lock-bridge .single-photo { text-align: center; }
 #lock-bridge .single-photo img { max-height: 43.75em; }
 
+#notre-dame .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
+@media only screen and (min-width: 93.813em) { #notre-dame .map-header { background-size: cover; background-position: 50%; } }
+@media only screen and (max-width: 93.75em) { #notre-dame .map-header { background-position: left; } }
+@media only screen and (max-width: 83.75em) { #notre-dame .map-header { background-position: -100px; } }
+@media only screen and (max-width: 75em) { #notre-dame .map-header { background-position: -220px; height: 31.25em; } }
+@media only screen and (max-width: 64em) { #notre-dame .map-header { background-position: -200px; } }
+@media only screen and (max-width: 60em) { #notre-dame .map-header { height: 27.5em; } }
+@media only screen and (max-width: 53.75em) { #notre-dame .map-header { height: 25em; margin-bottom: 1.875em; } }
+@media screen and (max-width: 48.125em) { #notre-dame .map-header { height: 23.75em; } }
+@media only screen and (max-width: 46.25em) { #notre-dame .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 40.625em) { #notre-dame .map-header { padding-top: 12.5em; } }
+@media screen and (max-width: 30em) { #notre-dame .map-header { padding-top: 8.125em; background-position: center -50px; } }
+@media only screen and (max-width: 25em) { #notre-dame .map-header { background-position: center top; } }
+#notre-dame .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
+@media only screen and (max-width: 64em) { #notre-dame .map-header article { width: 30em; padding: 1.25em; }
+  #notre-dame .map-header article p { font-size: 1.25rem; } }
+@media only screen and (max-width: 60em) { #notre-dame .map-header article { width: 23.75em; }
+  #notre-dame .map-header article h3 { font-size: 1.375em; }
+  #notre-dame .map-header article h2 { font-size: 1.9375em; }
+  #notre-dame .map-header article p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { #notre-dame .map-header article p { font-size: 1rem; } }
+@media only screen and (max-width: 46.25em) { #notre-dame .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
+@media only screen and (max-width: 25em) { #notre-dame .map-header article h3 { font-size: 1.25rem; }
+  #notre-dame .map-header article h2 { font-size: 1.625rem; } }
+#notre-dame .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+@media only screen and (max-width: 53.75em) { #notre-dame .photo-row img { margin-bottom: 2.875em; } }
+#notre-dame .double-photo img { max-height: 32.8125em; max-width: 48%; }
+#notre-dame .double-photo img#first { float: left; }
+#notre-dame .double-photo img#second { float: right; }
+@media only screen and (max-width: 25em) { #notre-dame .double-photo img#first, #notre-dame .double-photo img#second { float: none; max-width: 100%; } }
+#notre-dame .single-photo { text-align: center; }
+#notre-dame .single-photo img { max-height: 43.75em; }
+
 #skrollr-body { height: 100%; }
 
 body#proposal-story #intro { text-align: center; padding: 8.125em 2.5em 6.25em; }

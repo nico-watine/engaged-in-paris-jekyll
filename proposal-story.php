@@ -87,11 +87,17 @@
 	</div>
 </section>
 
-
-
-	
-		
-
+<section id="notre-dame">
+	<div class="map-header">
+		<article>
+			<h3 class="header">2nd Proposal Opportunity</h3>
+			<h2 class="title">Notre Dame Cathedral</h2>
+			<p class="large">Widely considered to be the most famous of all the cathedrals in Paris, Notre Dame is a beautiful site to behold.
+			<br><br>
+			Given that every tourist in Paris goes to the Cathedral, there were a few too many people for a proposal to be both memorable and intimate at this location.</p>
+		</article>
+	</div>
+</section>
 
 
 
