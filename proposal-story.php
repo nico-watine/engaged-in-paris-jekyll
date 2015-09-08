@@ -66,7 +66,7 @@
 		<article>
 			<h3 class="header">1st Proposal Opportunity</h3>
 			<h2 class="title">The Lock Bridge</h2>
-			<p class="large">Famous for the thousands of padlocks that lovers have attached to the bridge after signing their names on it and throwing the key into The Seine river below.
+			<p class="large">The Lock Bridge is famous for the thousands of padlocks that lovers have attached to the railings after signing their names on one and throwing the key into The Seine river below.
 			<br><br>
 			The bridge has so many locks on it that it cannot handle the weight, and attaching new padlocks is now forbidden.
 			<br><br>
