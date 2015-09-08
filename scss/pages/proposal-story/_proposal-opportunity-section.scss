@@ -92,6 +92,22 @@ section.proposal-opportunity {
 			margin-bottom: em(64);
 		}
 
+		figure {
+			margin-bottom: em(64);
+
+			img {
+				margin-bottom: em(34);
+			}
+		}
+
+		figure.in-caption {
+			position: relative;
+
+			.verbiage-container {
+				position: absolute;
+			}
+		}
+
 		@media #{$max-860} {
 			img {
 				margin-bottom: em(46);
@@ -126,6 +142,10 @@ section.proposal-opportunity {
 		img {
 			max-height: em(700);
 		}
+	}
+
+	.full-photo {
+		text-align: center;
 	}
 }
 

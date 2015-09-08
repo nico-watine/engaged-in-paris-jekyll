@@ -3672,6 +3672,39 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.17576e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.52458e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226686,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3679,6 +3712,17 @@
 		"initialSize": 183154,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-map.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 277909,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

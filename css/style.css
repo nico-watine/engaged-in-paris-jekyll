@@ -209,7 +209,7 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 
 .padding { padding: 0 1em; }
 
-.inline { display: inline-block; }
+.inline, .inline-block { display: inline-block; }
 
 .underline { text-decoration: underline; }
 
@@ -382,6 +382,15 @@ article#reception #event-details { margin-bottom: 4.375em; }
 @media only screen and (max-width: 25em) { #notre-dame .map-header { background-position: center top; } }
 #notre-dame .map-header article { right: 0; }
 
+figure.in-caption#notre-dame-back .verbiage-container { left: 10%; top: 10%; width: 28.125em; text-align: left; }
+figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+@media only screen and (max-width: 64em) { figure.in-caption#notre-dame-back .verbiage-container { top: 5%; left: 5%; } }
+@media screen and (max-width: 48.125em) { figure.in-caption#notre-dame-back .verbiage-container { width: 100%; right: 5%; left: initial; text-align: right; top: 70%; } }
+@media only screen and (max-width: 560px) { figure.in-caption#notre-dame-back .verbiage-container { text-align: center; top: 5%; right: initial; padding: 0 1.875em; } }
+@media only screen and (max-width: 530px) { figure.in-caption#notre-dame-back img { margin-bottom: 1.25em; }
+  figure.in-caption#notre-dame-back .verbiage-container { position: relative; top: 0; }
+  figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
+
 section.proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
 @media only screen and (max-width: 46.25em) { section.proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
 section.proposal-opportunity .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
@@ -396,6 +405,10 @@ section.proposal-opportunity .map-header article { position: absolute; top: 0; r
 @media only screen and (max-width: 25em) { section.proposal-opportunity .map-header article h3 { font-size: 1.25rem; }
   section.proposal-opportunity .map-header article h2 { font-size: 1.625rem; } }
 section.proposal-opportunity .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+section.proposal-opportunity .photo-row figure { margin-bottom: 4em; }
+section.proposal-opportunity .photo-row figure img { margin-bottom: 2.125em; }
+section.proposal-opportunity .photo-row figure.in-caption { position: relative; }
+section.proposal-opportunity .photo-row figure.in-caption .verbiage-container { position: absolute; }
 @media only screen and (max-width: 53.75em) { section.proposal-opportunity .photo-row img { margin-bottom: 2.875em; } }
 section.proposal-opportunity .double-photo img { max-height: 32.8125em; max-width: 48%; }
 section.proposal-opportunity .double-photo img#first { float: left; }
@@ -403,6 +416,7 @@ section.proposal-opportunity .double-photo img#second { float: right; }
 @media only screen and (max-width: 25em) { section.proposal-opportunity .double-photo img#first, section.proposal-opportunity .double-photo img#second { float: none; max-width: 100%; } }
 section.proposal-opportunity .single-photo { text-align: center; }
 section.proposal-opportunity .single-photo img { max-height: 43.75em; }
+section.proposal-opportunity .full-photo { text-align: center; }
 
 #skrollr-body { height: 100%; }
 

@@ -9,7 +9,10 @@ $max-960: "only screen and (max-width : 60em)";
 $max-860: "only screen and (max-width : 53.75em)";
 $max-740: "only screen and (max-width : 46.25em)";
 $max-650: "only screen and (max-width : 40.625em)";
+$max-560: "only screen and (max-width : 560px)";
+$max-530: "only screen and (max-width : 530px)";
 $max-400: "only screen and (max-width : 25em)";
+
 
 #notre-dame {
 	.map-header {
@@ -72,6 +75,63 @@ $max-400: "only screen and (max-width : 25em)";
 
 		article {
 			right: 0;
+		}
+	}
+}
+
+figure.in-caption#notre-dame-back {
+	.verbiage-container {
+		left: 10%;
+		top: 10%;
+		width: em(450);
+		text-align: left;
+
+		h3,
+		h4 {
+			color: #fff;
+			text-shadow: 0 rem(2) rem(3) #000;
+		}
+	}
+
+	@media #{$max-1024} {
+		.verbiage-container {
+			top: 5%;
+			left: 5%;
+		}
+	}
+
+	@include media($max-770) {
+		.verbiage-container {
+			width: 100%;
+			right: 5%;
+			left: initial;
+			text-align: right;
+			top: 70%;
+		}
+	}
+
+	@media #{$max-560} {
+		.verbiage-container {
+			text-align: center;
+			top: 5%;
+			right: initial;
+			padding: 0 em(30);
+		}
+	}
+
+	@media #{$max-530} {
+		img {
+			margin-bottom: em(20);
+		}
+		.verbiage-container {
+			position: relative;
+			top: 0;
+
+			h3,
+			h4 {
+				color: $text-color;
+				text-shadow: none;
+			}
 		}
 	}
 }
