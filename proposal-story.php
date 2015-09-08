@@ -61,7 +61,7 @@
 </section>
 
 
-<section id="lock-bridge">
+<section id="lock-bridge" class="proposal-opportunity">
 	<div class="map-header">
 		<article>
 			<h3 class="header">1st Proposal Opportunity</h3>
@@ -87,7 +87,7 @@
 	</div>
 </section>
 
-<section id="notre-dame">
+<section id="notre-dame" class="proposal-opportunity">
 	<div class="map-header">
 		<article>
 			<h3 class="header">2nd Proposal Opportunity</h3>
