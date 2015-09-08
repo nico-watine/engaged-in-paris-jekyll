@@ -85,7 +85,6 @@
 			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
-
 </section>
 
 
