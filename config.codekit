@@ -3672,6 +3672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/louvre-gardens\/louvre-parallax.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 269973,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre-gardens\/louvre-parallax.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre-gardens\/louvre-parallax.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -4156,6 +4167,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_lock-bridge.scss",
 		"outputAbbreviatedPath": "\/css\/_lock-bridge.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/pages\/proposal-story\/_louvre-gardens.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_louvre-gardens.scss",
+		"outputAbbreviatedPath": "\/css\/_louvre-gardens.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

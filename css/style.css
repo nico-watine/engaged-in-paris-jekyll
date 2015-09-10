@@ -418,6 +418,10 @@ section.proposal-opportunity .single-photo { text-align: center; }
 section.proposal-opportunity .single-photo img { max-height: 43.75em; }
 section.proposal-opportunity .full-photo { text-align: center; }
 
+section#louvre-gardens { text-align: center; }
+section#louvre-gardens #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre-gardens/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; }
+section#louvre-gardens #panorama-banner h2 { font-size: 3.9375em; }
+
 #skrollr-body { height: 100%; }
 
 body#proposal-story #intro { text-align: center; padding: 8.125em 2.5em 6.25em; }

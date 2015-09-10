@@ -117,8 +117,12 @@
 	</div>
 </section>
 
-
-
+<section id="louvre-gardens" class="proposal-opportunity">
+	<h3 class="header">3rd Proposal Opportunity</h3>
+	<div id="panorama-banner">
+		<h2 class="title white text-shadow">The Louvre Gardens</h2>
+	</div>
+</section>
 
 </div><!-- /#skrollr-body -->
 

@@ -1,0 +1,16 @@
+@import "../../settings/_settings.scss";
+
+section#louvre-gardens {
+	text-align: center;
+
+	#panorama-banner {
+		height: em(500);
+		background: url('/img/proposal-story/louvre-gardens/louvre-parallax.jpg') no-repeat center top;
+		background-size: cover;
+		padding-top: em(50);
+
+		h2 {
+			font-size: $h1-size;
+		}
+	}
+}
