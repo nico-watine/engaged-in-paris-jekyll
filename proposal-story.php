@@ -122,6 +122,13 @@
 	<div id="panorama-banner">
 		<h2 class="title white text-shadow">The Louvre Gardens</h2>
 	</div>
+	<figure id="louvre-pyramid" class="outer-container padding">
+		<img src="/img/proposal-story/louvre-gardens/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
+		<div class="verbiage-container">
+			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
+		</div>
+	</figure>
+
 </section>
 
 </div><!-- /#skrollr-body -->

@@ -3672,6 +3672,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/louvre-gardens\/louve-pyramid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 249465,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre-gardens\/louve-pyramid.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre-gardens\/louve-pyramid.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/louvre-gardens\/louvre-parallax.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
