@@ -78,8 +78,12 @@
 
 	<div class="section-photos">
 		<div class="row photo-row double-photo">
-			<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge" id="first">
-			<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge" id="second">
+			<div class="photo-wrapper" id="first">
+				<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
+			</div>
+			<div class="photo-wrapper" id="second">
+				<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
+			</div>
 		</div>
 		<div class="row photo-row single-photo">
 			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
@@ -131,8 +135,12 @@
 	<div id="louvre-gardens">
 		<h4>The Louvre Gardens were calmer and offered a nice break from walking all over Paris.</h4>
 		<div class="row photo-row double-photo">
-			<img src="/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico" id="first">
-			<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne" id="second">
+			<div class="photo-wrapper" id="first">
+				<img src="/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico">
+			</div>
+			<div class="photo-wrapper" id="second">
+				<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
+			</div>
 		</div>
 		<h3 class="header">Still, there was no proposal-mojo to be found here.</h3>
 	</div>

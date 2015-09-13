@@ -7,6 +7,7 @@ $max-1024: "only screen and (max-width : 64em)";
 $max-960: "only screen and (max-width : 60em)";
 $max-860: "only screen and (max-width : 53.75em)";
 $max-740: "only screen and (max-width : 46.25em)";
+$max-560: "only screen and (max-width : 560px)";
 $max-400: "only screen and (max-width : 25em)";
 
 section.proposal-opportunity {
@@ -116,22 +117,40 @@ section.proposal-opportunity {
 	}
 
 	.double-photo {
-		img {
-			max-height: em(525);
-			max-width: 48%;
+		.photo-wrapper {
+			width: 50%;
+			text-align: center;
+			
+			img {
+				max-width: em(700);
+				width: 100%;
+			}
 		}
-		img#first {
+		.photo-wrapper#first {
 			float: left;
+			padding-right: em(16);
 		}
-		img#second {
+		.photo-wrapper#second {
 			float: right;
+			padding-left: em(16);
+		}
+
+		@media #{$max-560} {
+			.photo-wrapper#first {
+				padding-right: em(10);
+			}
+
+			.photo-wrapper#second {
+				padding-left: em(10);
+			}
 		}
 
 		@media #{$max-400} {
-			img#first,
-			img#second {
+			.photo-wrapper#first,
+			.photo-wrapper#second {
+				padding: 0;
 				float: none;
-				max-width: 100%;
+				width: 100%;
 			}
 		}
 	}
