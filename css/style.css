@@ -418,19 +418,20 @@ section.proposal-opportunity .single-photo { text-align: center; }
 section.proposal-opportunity .single-photo img { max-height: 43.75em; }
 section.proposal-opportunity .full-photo { text-align: center; }
 
-section#louvre-gardens { text-align: center; }
-section#louvre-gardens #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre-gardens/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
-section#louvre-gardens #panorama-banner h2 { font-size: 3.9375em; }
-section#louvre-gardens #louvre-pyramid { margin-bottom: 3.75em; position: relative; }
-section#louvre-gardens #louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
-section#louvre-gardens #louvre-pyramid .verbiage-container { position: absolute; bottom: 1.875em; width: 30em; left: 2.5em; }
-section#louvre-gardens #louvre-pyramid .verbiage-container p { text-shadow: 0 0.125rem 0.1875rem #000; color: #fff; margin: 0; }
-@media screen and (max-width: 60.625em) { section#louvre-gardens #louvre-pyramid .verbiage-container { width: 26.25em; left: 1.25em; }
-  section#louvre-gardens #louvre-pyramid .verbiage-container p { font-size: 1.125rem; } }
-@media screen and (max-width: 48.125em) { section#louvre-gardens #louvre-pyramid .verbiage-container { width: 24.375em; } }
-@media only screen and (max-width: 46.25em) { section#louvre-gardens #louvre-pyramid .verbiage-container { width: 100%; left: 0; bottom: 5%; padding: 0 1.25em; } }
-@media only screen and (max-width: 33.125em) { section#louvre-gardens #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
-  section#louvre-gardens #louvre-pyramid .verbiage-container p { font-size: 1rem; } }
+section#louvre { text-align: center; }
+section#louvre #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+section#louvre #panorama-banner h2 { font-size: 3.9375em; }
+section#louvre #louvre-pyramid { margin-bottom: 3.75em; position: relative; }
+section#louvre #louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+section#louvre #louvre-pyramid .verbiage-container { position: absolute; bottom: 1.875em; width: 30em; left: 2.5em; }
+section#louvre #louvre-pyramid .verbiage-container p { text-shadow: 0 0.125rem 0.1875rem #000; color: #fff; margin: 0; }
+@media screen and (max-width: 60.625em) { section#louvre #louvre-pyramid .verbiage-container { width: 26.25em; left: 1.25em; }
+  section#louvre #louvre-pyramid .verbiage-container p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { section#louvre #louvre-pyramid .verbiage-container { width: 24.375em; } }
+@media only screen and (max-width: 46.25em) { section#louvre #louvre-pyramid .verbiage-container { width: 100%; left: 0; bottom: 5%; padding: 0 1.25em; } }
+@media only screen and (max-width: 33.125em) { section#louvre #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
+  section#louvre #louvre-pyramid .verbiage-container p { font-size: 1rem; } }
+section#louvre #louvre-gardens h4 { max-width: 33.125rem; text-align: center; margin-bottom: 3.125rem; }
 
 #skrollr-body { height: 100%; }
 
