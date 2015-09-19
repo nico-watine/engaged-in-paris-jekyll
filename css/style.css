@@ -434,7 +434,8 @@ section#louvre #louvre-pyramid .verbiage-container p { text-shadow: 0 0.125rem 0
 @media only screen and (max-width: 46.25em) { section#louvre #louvre-pyramid .verbiage-container { width: 100%; left: 0; bottom: 5%; padding: 0 1.25em; } }
 @media only screen and (max-width: 33.125em) { section#louvre #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
   section#louvre #louvre-pyramid .verbiage-container p { font-size: 1rem; } }
-section#louvre #louvre-gardens h4 { max-width: 33.125rem; text-align: center; margin-bottom: 3.125rem; }
+section#louvre #louvre-gardens h3, section#louvre #louvre-gardens h4 { text-align: center; margin-bottom: 3.125rem; }
+section#louvre #louvre-gardens h4 { max-width: 33.125rem; }
 
 #skrollr-body { height: 100%; }
 

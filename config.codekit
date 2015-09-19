@@ -3716,28 +3716,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2.17576e+06,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.52458e+06,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3901,11 +3879,11 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/js\/vendor\/jquery\/1.11.3\/jquery-min.js": {
+	"\/js\/vendor\/jquery\/1-11-3\/jquery-min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/vendor\/jquery\/1.11.3\/jquery-min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery\/1-11-3\/jquery-min.js",
 		"outputAbbreviatedPath": "\/js\/vendor\/jquery\/jquery-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
