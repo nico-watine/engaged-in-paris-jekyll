@@ -1,5 +1,6 @@
 @import "../../settings/_settings.scss";
 
+$max-960: "only screen and (max-width : 60em)";
 $max-740: "only screen and (max-width : 46.25em)";
 $max-530: "only screen and (max-width : 33.125em)";
 
@@ -16,69 +17,76 @@ section#louvre {
 		h2 {
 			font-size: $h1-size;
 		}
+
+		@media #{$max-960} {
+			background: url('/img/proposal-story/louvre/louvre-parallax@960.jpg') no-repeat center top;
+			background-size: cover;
+			padding-top: em(20);
+			height: em(400);
+		}
+	}
+}
+
+#louvre-pyramid {
+	margin-bottom: em(60);
+	position: relative;
+
+	img {
+		box-shadow: $z-3;
 	}
 
-	#louvre-pyramid {
-		margin-bottom: em(60);
-		position: relative;
+	.verbiage-container {
+		position: absolute;
+		bottom: em(30);
+		width: em(480);
+		left: em(40);
 
-		img {
-			box-shadow: $z-3;
+		p {
+			text-shadow: 0 rem(2) rem(3) #000;
+			color: #fff;
+			margin: 0;
 		}
 
-		.verbiage-container {
-			position: absolute;
-			bottom: em(30);
-			width: em(480);
-			left: em(40);
+		@include media($max-970) {
+			width: em(420);
+			left: em(20);
 
 			p {
-				text-shadow: 0 rem(2) rem(3) #000;
-				color: #fff;
-				margin: 0;
+				font-size: rem(18);
 			}
+		}
 
-			@include media($max-970) {
-				width: em(420);
-				left: em(20);
+		@include media($max-770) {
+			width: em(390);
+		}
 
-				p {
-					font-size: rem(18);
-				}
-			}
+		@media #{$max-740} {
+			width: 100%;
+			left: 0;
+			bottom: 5%;
+			padding: 0 em(20);
+		}
 
-			@include media($max-770) {
-				width: em(390);
-			}
+		@media #{$max-530} {
+			position: relative;
+			bottom: initial;
+			top: 0;
+			padding: em(20) 0 0;
 
-			@media #{$max-740} {
-				width: 100%;
-				left: 0;
-				bottom: 5%;
-				padding: 0 em(20);
-			}
-
-			@media #{$max-530} {
-				position: relative;
-				bottom: initial;
-				top: 0;
-				padding: em(20) 0 0;
-
-				p {
-					font-size: rem(16);
-				}
+			p {
+				font-size: rem(16);
+				color: $text-color;
+				text-shadow: none;
 			}
 		}
 	}
+}
 
-	#louvre-gardens {
-		h3,
-		h4 {
-			text-align: center;
-			margin-bottom: rem(50);
-		}
-		h4 {
-			max-width: rem(530);
-		}
+#louvre-gardens {
+	h4 {
+		text-align: center;
+		padding: 0 rem(10);
+		margin-bottom: rem(50);
+		max-width: rem(530);
 	}
 }

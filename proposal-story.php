@@ -142,10 +142,11 @@
 				<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
 			</div>
 		</div>
-		<h3 class="header">Still, there was no proposal-mojo to be found here.</h3>
+		<h4>Still, there was no proposal-mojo to be found here.</h4>
 	</div>
-
 </section>
+
+<h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
 
 </div><!-- /#skrollr-body -->
 

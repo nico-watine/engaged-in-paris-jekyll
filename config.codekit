@@ -3705,6 +3705,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 75642,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/louvre\/nico@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
