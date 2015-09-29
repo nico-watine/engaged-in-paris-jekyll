@@ -110,7 +110,7 @@
 			</figure>
 		</div>
 		<div class="row photo-row full-photo">
-			<figure class="in-caption" id="notre-dame-back">
+			<figure id="notre-dame-back">
 				<img src="/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
 				<div class="verbiage-container">
 					<h3 class="header">The back side of <span class="inline-block">Notre Dame</span> at dusk</h3>
