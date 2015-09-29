@@ -646,17 +646,12 @@
 							[
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 								2470,
 								2470
 =======
 								3148,
 								3148
 >>>>>>> temp-lock-bridge-ending
-=======
-								1967,
-								1844
->>>>>>> proposal-story
 =======
 								1967,
 								1844
@@ -689,7 +684,6 @@
 								"bh_single_quote_close",
 								"bh_single_quote_content",
 <<<<<<< HEAD
-<<<<<<< HEAD
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
@@ -708,8 +702,6 @@
 								"bh_c_define_close",
 								"bh_c_define_content",
 >>>>>>> temp-lock-bridge-ending
-=======
->>>>>>> proposal-story
 =======
 >>>>>>> proposal-story
 								"bh_curly",
@@ -773,9 +765,6 @@
 								"bh_unmatched_open",
 								"bh_unmatched_close",
 								"bh_unmatched_content"
-<<<<<<< HEAD
->>>>>>> proposal-story
-=======
 >>>>>>> proposal-story
 							],
 							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
@@ -785,14 +774,10 @@
 						"translation.x": 0.0,
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 						"translation.y": 1348.0,
 =======
 						"translation.y": 1684.0,
 >>>>>>> temp-lock-bridge-ending
-=======
-						"translation.y": 770.0,
->>>>>>> proposal-story
 =======
 						"translation.y": 770.0,
 >>>>>>> proposal-story
@@ -1906,7 +1891,6 @@
 		"last_filter": "sn",
 		"selected_items":
 		[
-<<<<<<< HEAD
 			[
 				"sn",
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
@@ -1973,53 +1957,6 @@
 				"ne",
 				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
 =======
-=======
-			[
-				"sn",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"n",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.static.sublime-project"
-			],
-			[
-				"b",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.studioncreations.com/_ignores/blog-snc-static.sublime-project"
-			],
-			[
-				"ho",
-				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof-static.sublime-project"
-			],
-			[
-				"h",
-				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
-			],
-			[
-				"hof",
-				"~/SNC Projects/Houston Oculofacial/Site Folder/hof.static/_ignores/hof-static.sublime-project"
-			],
-			[
-				"d",
-				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
-			],
-			[
-				"z",
-				"~/SNC Projects/Zaraza Design/Site Folder/zarazadesign.com/htdocs/_ignores/zaraza.sublime-project"
-			],
-			[
-				"bl",
-				"~/SNC Projects/Studio N Creations/Site Folder/blog.snc.static/_ignores/blog-snc.sublime-workspace"
-			],
-			[
-				"s",
-				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"ni",
-				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
-			],
-			[
->>>>>>> proposal-story
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
 >>>>>>> temp-lock-bridge-ending
@@ -2031,15 +1968,12 @@
 			[
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 =======
 				"n",
 				"~/SNC Projects/nicowatine.me/Site Folder/nicowatine.me/_ignores/nico.sublime-project"
 			],
 			[
 >>>>>>> temp-lock-bridge-ending
-=======
->>>>>>> proposal-story
 =======
 >>>>>>> proposal-story
 				"li",
@@ -2098,14 +2032,10 @@
 	"show_tabs": true,
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
 	"side_bar_visible": false,
 	"side_bar_width": 365.0,
 =======
 	"side_bar_visible": true,
-=======
-	"side_bar_visible": false,
->>>>>>> proposal-story
 =======
 	"side_bar_visible": false,
 >>>>>>> proposal-story

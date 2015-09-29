@@ -1,13 +1,15 @@
 @import "../../settings/_settings.scss";
 
+@import "_lock-bridge.scss";
+@import "_notre-dame.scss";
+
 $max-1024: "only screen and (max-width : 64em)";
 $max-960: "only screen and (max-width : 60em)";
 $max-860: "only screen and (max-width : 53.75em)";
 $max-740: "only screen and (max-width : 46.25em)";
-$max-560: "only screen and (max-width : 560px)";
 $max-400: "only screen and (max-width : 25em)";
 
-.proposal-opportunity {
+section.proposal-opportunity {
 	.map-header {
 		position: relative;
 		width: 100%;
@@ -83,84 +85,68 @@ $max-400: "only screen and (max-width : 25em)";
 			}
 		}
 	}
-}
 
+	.photo-row {
+		img {
+			box-shadow: $z-3;
+			margin-bottom: em(64);
+		}
 
-.photo-row {
-	img {
-		box-shadow: $z-3;
-		margin-bottom: em(64);
+		figure {
+			margin-bottom: em(64);
+
+			img {
+				margin-bottom: em(34);
+			}
+		}
+
+		figure.in-caption {
+			position: relative;
+
+			.verbiage-container {
+				position: absolute;
+			}
+		}
+
+		@media #{$max-860} {
+			img {
+				margin-bottom: em(46);
+			}
+		}
 	}
 
-	figure {
-		margin-bottom: em(64);
+	.double-photo {
+		img {
+			max-height: em(525);
+			max-width: 48%;
+		}
+		img#first {
+			float: left;
+		}
+		img#second {
+			float: right;
+		}
+
+		@media #{$max-400} {
+			img#first,
+			img#second {
+				float: none;
+				max-width: 100%;
+			}
+		}
+	}
+
+	.single-photo {
+		text-align: center;
 
 		img {
-			margin-bottom: em(34);
+			max-height: em(700);
 		}
 	}
 
-	figure.in-caption {
-		position: relative;
-
-		.verbiage-container {
-			position: absolute;
-		}
-	}
-
-	@media #{$max-860} {
-		img {
-			margin-bottom: em(46);
-		}
+	.full-photo {
+		text-align: center;
 	}
 }
 
 
-.photo-wrapper {
-	width: 50%;
-	text-align: center;
-	
-	img {
-		max-width: em(700);
-		width: 100%;
-	}
-}
-.photo-wrapper#first {
-	float: left;
-	padding-right: em(16);
-}
-.photo-wrapper#second {
-	float: right;
-	padding-left: em(16);
-}
-
-@media #{$max-560} {
-	.photo-wrapper#first {
-		padding-right: em(10);
-	}
-
-	.photo-wrapper#second {
-		padding-left: em(10);
-	}
-}
-
-@media #{$max-400} {
-	.photo-wrapper#first,
-	.photo-wrapper#second {
-		padding: 0;
-		float: none;
-		width: 100%;
-	}
-}
-
-.single-photo {
-text-align: center;
-
-	img {
-		max-height: em(700);
-	}
-}
-
-.full-photo {
-	text-align: center;
-}
