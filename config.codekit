@@ -3672,57 +3672,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/louvre\/corinne@2x.jpg": {
+	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 160699,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne@2x.jpg",
+		"initialSize": 2.17576e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0203.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/louvre\/louve-pyramid.jpg": {
+	"\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 249465,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louve-pyramid.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louve-pyramid.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/louvre\/louvre-parallax.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 269973,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 75642,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/louvre-parallax@960.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/louvre\/nico@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 143343,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico@2x.jpg",
+		"initialSize": 1.52458e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/IMG_0420.JPG",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -3887,17 +3854,6 @@
 		"outputAbbreviatedPath": "\/js\/scripts-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/js\/vendor\/jquery\/1-11-3\/jquery-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/vendor\/jquery\/1-11-3\/jquery-min.js",
-		"outputAbbreviatedPath": "\/js\/vendor\/jquery\/jquery-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
@@ -4200,22 +4156,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_lock-bridge.scss",
 		"outputAbbreviatedPath": "\/css\/_lock-bridge.css",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 0
-		},
-	"\/scss\/pages\/proposal-story\/_louvre-gardens.scss": {
-		"createSourceMap": 0,
-		"debugStyle": 0,
-		"decimalPrecision": 10,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_louvre-gardens.scss",
-		"outputAbbreviatedPath": "\/css\/_louvre-gardens.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

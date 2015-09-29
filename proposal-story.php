@@ -20,7 +20,7 @@
 	<![endif]-->
 
 </head>
-<body>
+<body id="proposal-story">
 <div id="skrollr-body">
 <header>
 	<nav class="outer-container">
@@ -77,15 +77,11 @@
 	<h3 class="header" id="selfie">Nico decided that since he wasn’t proposing here that they should instead just take a selfie</h3>
 
 	<div class="section-photos">
-		<div class="row photo-row double-photo">
-			<div class="photo-wrapper" id="first">
-				<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
-			</div>
-			<div class="photo-wrapper" id="second">
-				<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
-			</div>
+		<div class="photo-row double-photo">
+			<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge" id="first">
+			<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge" id="second">
 		</div>
-		<div class="row photo-row single-photo">
+		<div class="photo-row single-photo">
 			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
@@ -103,13 +99,13 @@
 	</div>
 
 	<div class="section-photos">
-		<div class="row photo-row single-photo">
+		<div class="photo-row single-photo">
 			<figure>
 				<img src="/img/proposal-story/notre-dame/notre-dame-facade.jpg" alt="Front Facade of Notre Dame">
 				<h3 class="header">The front facade of Notre Dame</h3>
 			</figure>
 		</div>
-		<div class="row photo-row full-photo">
+		<div class="photo-row full-photo">
 			<figure class="in-caption" id="notre-dame-back">
 				<img src="/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
 				<div class="verbiage-container">
@@ -121,42 +117,14 @@
 	</div>
 </section>
 
-<<<<<<< HEAD
 <h3 class="header" id="coming-soon" style="padding-bottom: 50px;">3nd Proposal Opportunity On Its Way!</h3>
 
-=======
-<section id="louvre" class="proposal-opportunity">
-	<h3 class="header">3rd Proposal Opportunity</h3>
-	<div id="panorama-banner">
-		<h2 class="title white text-shadow">The Louvre</h2>
-	</div>
-	<figure id="louvre-pyramid" class="outer-container padding">
-		<img src="/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
-		<div class="verbiage-container">
-			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
-		</div>
-	</figure>
-	<div id="louvre-gardens">
-		<h4>The Louvre Gardens were calmer and offered a nice break from walking all over Paris.</h4>
-		<div class="row photo-row double-photo">
-			<div class="photo-wrapper" id="first">
-				<img src="/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico">
-			</div>
-			<div class="photo-wrapper" id="second">
-				<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
-			</div>
-		</div>
-		<h4>Still, there was no proposal-mojo to be found here.</h4>
-	</div>
-</section>
->>>>>>> proposal-story
 
-<h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
+
 
 </div><!-- /#skrollr-body -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 
