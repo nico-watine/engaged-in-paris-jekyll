@@ -122,6 +122,7 @@
 </section>
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 <h3 class="header" id="coming-soon" style="padding-bottom: 50px;">3nd Proposal Opportunity On Its Way!</h3>
 
 =======
@@ -151,6 +152,33 @@
 </section>
 >>>>>>> proposal-story
 
+=======
+<section id="louvre" class="proposal-opportunity">
+	<h3 class="header">3rd Proposal Opportunity</h3>
+	<div id="panorama-banner">
+		<h2 class="title white text-shadow">The Louvre</h2>
+	</div>
+	<figure id="louvre-pyramid" class="outer-container padding">
+		<img src="/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
+		<div class="verbiage-container">
+			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
+		</div>
+	</figure>
+	<div id="louvre-gardens">
+		<h4>The Louvre Gardens were calmer and offered a nice break from walking all over Paris.</h4>
+		<div class="row photo-row double-photo">
+			<div class="photo-wrapper" id="first">
+				<img src="/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico">
+			</div>
+			<div class="photo-wrapper" id="second">
+				<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
+			</div>
+		</div>
+		<h4>Still, there was no proposal-mojo to be found here.</h4>
+	</div>
+</section>
+
+>>>>>>> proposal-story
 <h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
 
 </div><!-- /#skrollr-body -->
