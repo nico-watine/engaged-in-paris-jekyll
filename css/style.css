@@ -352,6 +352,42 @@ article#reception #event-details { margin-bottom: 4.375em; }
 @media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
 @media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
 
+.proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
+@media only screen and (max-width: 46.25em) { .proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+.proposal-opportunity .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
+@media only screen and (max-width: 64em) { .proposal-opportunity .map-header article { width: 30em; padding: 1.25em; }
+  .proposal-opportunity .map-header article p { font-size: 1.25rem; } }
+@media only screen and (max-width: 60em) { .proposal-opportunity .map-header article { width: 23.75em; }
+  .proposal-opportunity .map-header article h3 { font-size: 1.375em; }
+  .proposal-opportunity .map-header article h2 { font-size: 1.9375em; }
+  .proposal-opportunity .map-header article p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { .proposal-opportunity .map-header article p { font-size: 1rem; } }
+@media only screen and (max-width: 46.25em) { .proposal-opportunity .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
+@media only screen and (max-width: 25em) { .proposal-opportunity .map-header article h3 { font-size: 1.25rem; }
+  .proposal-opportunity .map-header article h2 { font-size: 1.625rem; } }
+
+.photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+.photo-row figure { margin-bottom: 4em; }
+.photo-row figure img { margin-bottom: 2.125em; }
+.photo-row figure.in-caption { position: relative; }
+.photo-row figure.in-caption .verbiage-container { position: absolute; }
+@media only screen and (max-width: 53.75em) { .photo-row img { margin-bottom: 2.875em; } }
+
+.photo-wrapper { width: 50%; text-align: center; }
+.photo-wrapper img { max-width: 43.75em; width: 100%; }
+
+.photo-wrapper#first { float: left; padding-right: 1em; }
+
+.photo-wrapper#second { float: right; padding-left: 1em; }
+
+@media only screen and (max-width: 560px) { .photo-wrapper#first { padding-right: 0.625em; }
+  .photo-wrapper#second { padding-left: 0.625em; } }
+@media only screen and (max-width: 25em) { .photo-wrapper#first, .photo-wrapper#second { padding: 0; float: none; width: 100%; } }
+.single-photo { text-align: center; }
+.single-photo img { max-height: 43.75em; }
+
+.full-photo { text-align: center; }
+
 #lock-bridge .map-header { background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
 @media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
 @media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
@@ -382,47 +418,38 @@ article#reception #event-details { margin-bottom: 4.375em; }
 @media only screen and (max-width: 25em) { #notre-dame .map-header { background-position: center top; } }
 #notre-dame .map-header article { right: 0; }
 
-figure.in-caption#notre-dame-back .verbiage-container { left: 10%; top: 10%; width: 28.125em; text-align: left; }
-figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
-@media only screen and (max-width: 64em) { figure.in-caption#notre-dame-back .verbiage-container { top: 5%; left: 5%; } }
-@media screen and (max-width: 48.125em) { figure.in-caption#notre-dame-back .verbiage-container { width: 100%; right: 5%; left: initial; text-align: right; top: 70%; } }
-@media only screen and (max-width: 560px) { figure.in-caption#notre-dame-back .verbiage-container { text-align: center; top: 5%; right: initial; padding: 0 1.875em; } }
-@media only screen and (max-width: 530px) { figure.in-caption#notre-dame-back img { margin-bottom: 1.25em; }
-  figure.in-caption#notre-dame-back .verbiage-container { position: relative; top: 0; }
-  figure.in-caption#notre-dame-back .verbiage-container h3, figure.in-caption#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
+figure#notre-dame-back .verbiage-container { left: 10%; top: 10%; width: 28.125em; text-align: left; }
+figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+@media only screen and (max-width: 64em) { figure#notre-dame-back .verbiage-container { top: 5%; left: 5%; } }
+@media screen and (max-width: 48.125em) { figure#notre-dame-back .verbiage-container { width: 100%; right: 5%; left: initial; text-align: right; top: 70%; } }
+@media only screen and (max-width: 35em) { figure#notre-dame-back .verbiage-container { text-align: center; top: 5%; right: initial; padding: 0 1.875em; } }
+@media only screen and (max-width: 33.125em) { figure#notre-dame-back img { margin-bottom: 1.25em; }
+  figure#notre-dame-back .verbiage-container { position: relative; top: 0; }
+  figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
 
-section.proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
-@media only screen and (max-width: 46.25em) { section.proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
-section.proposal-opportunity .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
-@media only screen and (max-width: 64em) { section.proposal-opportunity .map-header article { width: 30em; padding: 1.25em; }
-  section.proposal-opportunity .map-header article p { font-size: 1.25rem; } }
-@media only screen and (max-width: 60em) { section.proposal-opportunity .map-header article { width: 23.75em; }
-  section.proposal-opportunity .map-header article h3 { font-size: 1.375em; }
-  section.proposal-opportunity .map-header article h2 { font-size: 1.9375em; }
-  section.proposal-opportunity .map-header article p { font-size: 1.125rem; } }
-@media screen and (max-width: 48.125em) { section.proposal-opportunity .map-header article p { font-size: 1rem; } }
-@media only screen and (max-width: 46.25em) { section.proposal-opportunity .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
-@media only screen and (max-width: 25em) { section.proposal-opportunity .map-header article h3 { font-size: 1.25rem; }
-  section.proposal-opportunity .map-header article h2 { font-size: 1.625rem; } }
-section.proposal-opportunity .photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
-section.proposal-opportunity .photo-row figure { margin-bottom: 4em; }
-section.proposal-opportunity .photo-row figure img { margin-bottom: 2.125em; }
-section.proposal-opportunity .photo-row figure.in-caption { position: relative; }
-section.proposal-opportunity .photo-row figure.in-caption .verbiage-container { position: absolute; }
-@media only screen and (max-width: 53.75em) { section.proposal-opportunity .photo-row img { margin-bottom: 2.875em; } }
-section.proposal-opportunity .double-photo img { max-height: 32.8125em; max-width: 48%; }
-section.proposal-opportunity .double-photo img#first { float: left; }
-section.proposal-opportunity .double-photo img#second { float: right; }
-@media only screen and (max-width: 25em) { section.proposal-opportunity .double-photo img#first, section.proposal-opportunity .double-photo img#second { float: none; max-width: 100%; } }
-section.proposal-opportunity .single-photo { text-align: center; }
-section.proposal-opportunity .single-photo img { max-height: 43.75em; }
-section.proposal-opportunity .full-photo { text-align: center; }
+#louvre { text-align: center; }
+#louvre #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+#louvre #panorama-banner h2 { font-size: 3.9375em; }
+@media only screen and (max-width: 60em) { #louvre #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
+
+#louvre-pyramid { margin-bottom: 3.75em; position: relative; }
+#louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+#louvre-pyramid .verbiage-container { position: absolute; bottom: 1.875em; width: 30em; left: 2.5em; }
+#louvre-pyramid .verbiage-container p { text-shadow: 0 0.125rem 0.1875rem #000; color: #fff; margin: 0; }
+@media screen and (max-width: 60.625em) { #louvre-pyramid .verbiage-container { width: 26.25em; left: 1.25em; }
+  #louvre-pyramid .verbiage-container p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { #louvre-pyramid .verbiage-container { width: 24.375em; } }
+@media only screen and (max-width: 46.25em) { #louvre-pyramid .verbiage-container { width: 100%; left: 0; bottom: 5%; padding: 0 1.25em; } }
+@media only screen and (max-width: 33.125em) { #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
+  #louvre-pyramid .verbiage-container p { font-size: 1rem; color: #333; text-shadow: none; } }
+
+#louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 33.125rem; }
 
 #skrollr-body { height: 100%; }
 
-body#proposal-story #intro { text-align: center; padding: 8.125em 2.5em 6.25em; }
-body#proposal-story #intro h1, body#proposal-story #intro h2 { margin-bottom: 3.75rem; }
-body#proposal-story #intro h3 { margin-bottom: 6.25rem; }
-body#proposal-story #intro img { max-width: 3.4375em; }
+#intro { text-align: center; padding: 8.125em 2.5em 6.25em; }
+#intro h1, #intro h2 { margin-bottom: 3.75rem; }
+#intro h3 { margin-bottom: 6.25rem; }
+#intro img { max-width: 3.4375em; }
 
-h3.header#coming-soon { text-align: center; }
+h3#coming-soon { text-align: center; margin-bottom: 3.75rem; padding: 0 0.625rem; }

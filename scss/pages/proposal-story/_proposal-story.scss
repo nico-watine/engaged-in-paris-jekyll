@@ -2,34 +2,37 @@
 @import "_videos.scss";
 @import "_parallax-ring.scss";
 @import "_proposal-opportunity-section.scss";
-
+@import "_lock-bridge.scss";
+@import "_notre-dame.scss";
+@import "_louvre-gardens.scss";
 
 #skrollr-body {
 	height: 100%;
 }
 
-body#proposal-story {
 
-	#intro {
-		text-align: center;
-		padding: em(130) em(40) em(100);
 
-		h1,
-		h2 {
-			margin-bottom: rem(60);
-		}
+#intro {
+	text-align: center;
+	padding: em(130) em(40) em(100);
 
-		h3 {
-			margin-bottom: rem(100);
-		}
+	h1,
+	h2 {
+		margin-bottom: rem(60);
+	}
 
-		img {
-			max-width: em(55);
-		}
+	h3 {
+		margin-bottom: rem(100);
+	}
+
+	img {
+		max-width: em(55);
 	}
 }
 
-h3.header#coming-soon {
-	// <h3 class="header" id="coming-soon" style="padding-bottom: 50px;">2nd Proposal Opportunity On Its Way!</h3>
+
+h3#coming-soon {
 	text-align: center;
+	margin-bottom: rem(60);
+	padding: 0 rem(10);
 }
