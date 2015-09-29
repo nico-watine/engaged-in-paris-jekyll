@@ -73,8 +73,8 @@
 				3100 Sweetwater Blvd <br>
 				Sugar Land, Texas 77479</h3>
 			</address>
-			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St. Laurence Catholic Church grounds.</p>
-			<p class="large">The Chapel is attached to the School Building along Austin Parkway. <br>It is separate from the actual church.</p>
+			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St Laurence Catholic Church grounds.</p>
+			<p class="large">The Chapel is attached to the School Building along Austing Parkway. <br>It is separate from the actual church.</p>
 			<hr>
 			<h2 id="more-info" class="header">More info will be provided as the wedding date approaches.</h2>
 		</article>
@@ -106,6 +106,7 @@
 
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
 
 
