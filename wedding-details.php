@@ -55,10 +55,10 @@
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
-				<a data-toggle="tab" href="#ceremony" class="header normal tab-button white text-shadow ceremony">Ceremony</a>
+				<a data-toggle="tab" href="#ceremony" class="header normal ceremony">Ceremony</a>
 			</li>
 			<li>
-				<a data-toggle="tab" href="#reception" class="header normal tab-button white text-shadow reception">Reception</a>
+				<a data-toggle="tab" href="#reception" class="header normal reception">Reception</a>
 			</li>
 		</ul>
 	</div>

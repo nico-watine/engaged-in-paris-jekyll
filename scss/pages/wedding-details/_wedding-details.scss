@@ -42,12 +42,28 @@ body#wedding-details {
 }
 
 .page-header {
-	top: 0px;
+	top: 0;
 	margin-bottom: em(30);
 }
 
 .nav-tabs {
 	border-bottom: 0;
+
+	// li.active {
+	// 	a {
+	// 		border: rem(3) solid #fff !important;
+	// 		background-color: rgba(68,68,68,0.75);
+	// 		text-decoration: none;
+	// 		text-shadow: none;
+	// 		color: #fff;
+
+	// 		&:hover,
+	// 		&:focus {
+	// 			background-color: rgba(68,68,68,0.75);
+	// 			color: #fff;
+	// 		}
+	// 	}
+	// }
 
 	li {
 		@include span-columns(8 of 16);
@@ -55,9 +71,10 @@ body#wedding-details {
 		a {
 			@include span-columns(4 of 8);
 			@include shift(2);
-			background-color: rgba(68,68,68,0.75);
+			background-color: #fff;
+			color: #000;
 			border: rem(3) solid #fff;
-			box-shadow: 0px rem(1) rem(4) 0px rgba(0,0,0,0.65);
+			box-shadow: $z-2;
 			border-radius: rem(5);
 			text-decoration: none;
 			padding: rem(20) 0 rem(25);
@@ -66,10 +83,10 @@ body#wedding-details {
 		    @include transition (background-color 200ms ease-out 0s);
 		    @include transition (color 200ms ease-out 0s);
 
-			&:hover {
-				background-color: rgba(255,255,255,0.75);
-				color: #000;
-				text-shadow: none;
+			&:hover,
+			&:focus {
+				background-color: rgba(68,68,68,0.75);
+				color: #fff;
 			}
 		}
 	}
@@ -77,9 +94,16 @@ body#wedding-details {
 	li.active {
 		a {
 			border: rem(3) solid #fff !important;
+			background-color: rgba(68,68,68,0.75);
 			text-decoration: none;
 			text-shadow: none;
-			color: #000 !important;
+			color: #fff;
+
+			&:hover,
+			&:focus {
+				background-color: rgba(68,68,68,0.75);
+				color: #fff;
+			}
 		}
 	}
 }
