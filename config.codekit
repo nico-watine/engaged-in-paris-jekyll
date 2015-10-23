@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19051",
+"creatorBuild": "19076",
 "files": {
 	"\/403.html": {
 		"fileType": 8192,
@@ -227,7 +227,7 @@
 		},
 	"\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/tab.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/tab.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/tab-min.js",
@@ -249,7 +249,7 @@
 		},
 	"\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/transition.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/transition.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/transition-min.js",
@@ -3868,12 +3868,34 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/js\/details-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/details-min.js",
+		"outputAbbreviatedPath": "\/details-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/scripts-min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/scripts-min.js",
 		"outputAbbreviatedPath": "\/scripts-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/details.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/details.js",
+		"outputAbbreviatedPath": "\/js\/details-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -4430,6 +4452,20 @@
 	],
 "lastSavedByUser": "Nico Watine",
 "manualImportLinks": {
+	"\/js\/src\/details.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/transition.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/tab.js",
+			"position": 1,
+			"type": 0
+			}
+		],
 	"\/js\/src\/scripts.js": [
 		{
 			"followForSyntaxChecking": 1,
@@ -5074,7 +5110,9 @@
 	"typescriptAutoOutputPathStyle": 2,
 	"typescriptCreateDeclarationFile": 0,
 	"typescriptCreateSourceMap": 0,
+	"typescriptJSXMode": 0,
 	"typescriptMinifyOutput": 0,
+	"typescriptModuleResolutionType": 0,
 	"typescriptModuleType": 0,
 	"typescriptNoImplicitAny": 0,
 	"typescriptPreserveConstEnums": 0,
