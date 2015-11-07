@@ -6,16 +6,44 @@
 	left: 0;
 	text-align: center;
 	min-height: 100%;
-	overflow: hidden;
+	overflow-x: hidden;
+    background: #000 url('/img/proposal-story/video/splash/mobile/landscape.gif') no-repeat center top;
+    background-size: cover;
+
+    #intro {
+        position: absolute;
+        z-index: 2;
+        top: 100px;
+        text-align: center;
+        padding: 0 em(40);
+
+        .verbiage {
+            h1,
+            h2 {
+                margin-bottom: rem(60);
+            }
+
+            h3 {
+                margin-bottom: rem(100);
+            }
+
+            img {
+                max-width: em(55);
+            }
+        }
+    }
+
+    .bgvid {
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+    }
 }
 
-#bgvid {
-    position: absolute;
-    z-index: -5;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
-}
+
+
