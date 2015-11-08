@@ -1,5 +1,11 @@
 @import "../../settings/_settings.scss";
 
+$max-700: "only screen and (max-width : 43.750em)";
+$width-450: "only screen and (max-width : 28.125em)";
+$width-400: "only screen and (max-width : 25.000em)";
+$height-600: "only screen and (max-width : 37.500em)";
+$height-350: "only screen and (max-height : 21.875em)";
+
 .bgvid-container {
 	position: relative;
 	top: 0;
@@ -7,15 +13,107 @@
 	text-align: center;
 	min-height: 100%;
 	overflow: hidden;
+    background: #000 url('/img/proposal-story/video/splash/mobile/landscape.gif') no-repeat center top;
+    background-size: cover;
+
+    #intro {
+        position: absolute;
+        z-index: 2;
+        top: em(100);
+        text-align: center;
+        padding: 0 em(40);
+
+        .verbiage {
+            h1 {
+                margin-bottom: rem(60);
+            }
+
+            h3 {
+                margin-bottom: rem(100);
+            }
+
+            img {
+                max-width: em(55);
+            }
+        }
+    }
+
+    .bgvid {
+        position: absolute;
+        z-index: 1;
+        top: 50%;
+        left: 50%;
+        min-width: 100%;
+        min-height: 100%;
+        -webkit-transform: translateX(-50%) translateY(-50%);
+        transform: translateX(-50%) translateY(-50%);
+    }
 }
 
-#bgvid {
-    position: absolute;
-    z-index: -5;
-    top: 50%;
-    left: 50%;
-    min-width: 100%;
-    min-height: 100%;
-    -webkit-transform: translateX(-50%) translateY(-50%);
-    transform: translateX(-50%) translateY(-50%);
+@include media($max-770) {
+    .bgvid-container {
+        #intro {
+            .verbiage {
+                h1 {
+                    margin-bottom: rem(30);
+                }
+                h3 {
+                    margin-bottom: rem(50);
+                }
+            }
+        }
+    } 
+}
+
+
+@media #{$max-700} {
+    .bgvid-container {
+        #intro {
+            top: em(80);
+        }
+    }
+}
+
+@media #{$width-450} {
+    .bgvid-container {
+        #intro {
+            .verbiage {
+                h1 {
+                    font-size: rem(38)
+                }
+            }
+        }
+    }
+}
+
+@media #{$width-400} {
+    .bgvid-container {
+        #intro {
+            .verbiage {
+                h1 {
+                    font-size: rem(30)
+                }
+            }
+        }
+    }
+}
+
+@media #{$height-600} {
+    .bgvid-container {
+        #intro {
+            .verbiage {
+                img {
+                    display: none;
+                }
+            }
+        }
+    }
+}
+
+@media #{$height-350} {
+    .bgvid-container {
+        #intro {
+            top: em(40);
+        }
+    }
 }
