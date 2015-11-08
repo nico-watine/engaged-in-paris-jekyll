@@ -345,13 +345,20 @@ article#reception #event-details { margin-bottom: 4.375em; }
   h2#more-info { padding: 0; } }
 @media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
   .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
-.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow-x: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
-.bgvid-container #intro { position: absolute; z-index: 2; top: 100px; text-align: center; padding: 0 2.5em; }
-.bgvid-container #intro .verbiage h1, .bgvid-container #intro .verbiage h2 { margin-bottom: 3.75rem; }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
+.bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
+.bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
 .bgvid-container #intro .verbiage h3 { margin-bottom: 6.25rem; }
 .bgvid-container #intro .verbiage img { max-width: 3.4375em; }
 .bgvid-container .bgvid { position: absolute; z-index: 1; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }
 
+@media screen and (max-width: 48.125em) { .bgvid-container #intro .verbiage h1 { margin-bottom: 1.875rem; }
+  .bgvid-container #intro .verbiage h3 { margin-bottom: 3.125rem; } }
+@media only screen and (max-width: 43.75em) { .bgvid-container #intro { top: 5em; } }
+@media only screen and (max-width: 28.125em) { .bgvid-container #intro .verbiage h1 { font-size: 2.375rem; } }
+@media only screen and (max-width: 25em) { .bgvid-container #intro .verbiage h1 { font-size: 1.875rem; } }
+@media only screen and (max-width: 37.5em) { .bgvid-container #intro .verbiage img { display: none; } }
+@media only screen and (max-height: 21.875em) { .bgvid-container #intro { top: 2.5em; } }
 #parallax-ring { background: url("/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
 #parallax-ring .fade-out { height: 100%; width: 100%; }
 @media only screen and (max-width: 64em) { #parallax-ring { height: 100%; } }

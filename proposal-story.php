@@ -39,7 +39,7 @@
 	<div id="intro">
 		<div class="verbiage">
 			<h1 class="title white text-shadow">The Proposal</h1>
-			<h2 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h2>
+			<h3 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h3>
 			<h3 class="header white text-shadow">Little did Corinne know that Nico had a surprise planned…</h3>
 			<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 		</div>
