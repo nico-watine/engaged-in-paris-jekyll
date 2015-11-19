@@ -1,0 +1,465 @@
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+/** 1. Set default font family to sans-serif. 2. Prevent iOS and IE text size adjust after device orientation change, without disabling user zoom. */
+@import url("http://fonts.googleapis.com/css?family=Playfair+Display+SC:400,700");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans");
+html { font-family: sans-serif; /* 1 */ -ms-text-size-adjust: 100%; /* 2 */ -webkit-text-size-adjust: 100%; /* 2 */ }
+
+/** Remove default margin. */
+body { margin: 0; }
+
+/* HTML5 display definitions ========================================================================== */
+/** Correct `block` display not defined for any HTML5 element in IE 8/9. Correct `block` display not defined for `details` or `summary` in IE 10/11 and Firefox. Correct `block` display not defined for `main` in IE 11. */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary { display: block; }
+
+/** 1. Correct `inline-block` display not defined in IE 8/9. 2. Normalize vertical alignment of `progress` in Chrome, Firefox, and Opera. */
+audio, canvas, progress, video { display: inline-block; /* 1 */ vertical-align: baseline; /* 2 */ }
+
+/** Prevent modern browsers from displaying `audio` without controls. Remove excess height in iOS 5 devices. */
+audio:not([controls]) { display: none; height: 0; }
+
+/** Address `[hidden]` styling not present in IE 8/9/10. Hide the `template` element in IE 8/9/10/11, Safari, and Firefox < 22. */
+[hidden], template { display: none; }
+
+/* Links ========================================================================== */
+/** Remove the gray background color from active links in IE 10. */
+a { background-color: transparent; }
+
+/** Improve readability of focused elements when they are also in an active/hover state. */
+a:active, a:hover { outline: 0; }
+
+/* Text-level semantics ========================================================================== */
+/** Address styling not present in IE 8/9/10/11, Safari, and Chrome. */
+abbr[title] { border-bottom: 1px dotted; }
+
+/** Address style set to `bolder` in Firefox 4+, Safari, and Chrome. */
+b, strong { font-weight: bold; }
+
+/** Address styling not present in Safari and Chrome. */
+dfn { font-style: italic; }
+
+/** Address variable `h1` font-size and margin within `section` and `article` contexts in Firefox 4+, Safari, and Chrome. */
+h1 { font-size: 2em; margin: 0.67em 0; }
+
+/** Address styling not present in IE 8/9. */
+mark { background: #ff0; color: #000; }
+
+/** Address inconsistent and variable font size in all browsers. */
+small { font-size: 80%; }
+
+/** Prevent `sub` and `sup` affecting `line-height` in all browsers. */
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+
+sup { top: -0.5em; }
+
+sub { bottom: -0.25em; }
+
+/* Embedded content ========================================================================== */
+/** Remove border when inside `a` element in IE 8/9/10. */
+img { border: 0; }
+
+/** Correct overflow not hidden in IE 9/10/11. */
+svg:not(:root) { overflow: hidden; }
+
+/* Grouping content ========================================================================== */
+/** Address margin not present in IE 8/9 and Safari. */
+figure { margin: 1em 40px; }
+
+/** Address differences between Firefox and other browsers. */
+hr { box-sizing: content-box; height: 0; }
+
+/** Contain overflow in all browsers. */
+pre { overflow: auto; }
+
+/** Address odd `em`-unit font size rendering in all browsers. */
+code, kbd, pre, samp { font-family: monospace, monospace; font-size: 1em; }
+
+/* Forms ========================================================================== */
+/** Known limitation: by default, Chrome and Safari on OS X allow very limited styling of `select`, unless a `border` property is set. */
+/** 1. Correct color not being inherited. Known issue: affects color of disabled elements. 2. Correct font properties not being inherited. 3. Address margins set differently in Firefox 4+, Safari, and Chrome. */
+button, input, optgroup, select, textarea { color: inherit; /* 1 */ font: inherit; /* 2 */ margin: 0; /* 3 */ }
+
+/** Address `overflow` set to `hidden` in IE 8/9/10/11. */
+button { overflow: visible; }
+
+/** Address inconsistent `text-transform` inheritance for `button` and `select`. All other form control elements do not inherit `text-transform` values. Correct `button` style inheritance in Firefox, IE 8/9/10/11, and Opera. Correct `select` style inheritance in Firefox. */
+button, select { text-transform: none; }
+
+/** 1. Avoid the WebKit bug in Android 4.0.* where (2) destroys native `audio` and `video` controls. 2. Correct inability to style clickable `input` types in iOS. 3. Improve usability and consistency of cursor style between image-type `input` and others. */
+button, html input[type="button"], input[type="reset"], input[type="submit"] { -webkit-appearance: button; /* 2 */ cursor: pointer; /* 3 */ }
+
+/** Re-set default cursor for disabled elements. */
+button[disabled], html input[disabled] { cursor: default; }
+
+/** Remove inner padding and border in Firefox 4+. */
+button::-moz-focus-inner, input::-moz-focus-inner { border: 0; padding: 0; }
+
+/** Address Firefox 4+ setting `line-height` on `input` using `!important` in the UA stylesheet. */
+input { line-height: normal; }
+
+/** It's recommended that you don't attempt to style these elements. Firefox's implementation doesn't respect box-sizing, padding, or width.  1. Address box sizing set to `content-box` in IE 8/9/10. 2. Remove excess padding in IE 8/9/10. */
+input[type="checkbox"], input[type="radio"] { box-sizing: border-box; /* 1 */ padding: 0; /* 2 */ }
+
+/** Fix the cursor style for Chrome's increment/decrement buttons. For certain `font-size` values of the `input`, it causes the cursor style of the decrement button to change from `default` to `text`. */
+input[type="number"]::-webkit-inner-spin-button, input[type="number"]::-webkit-outer-spin-button { height: auto; }
+
+/** 1. Address `appearance` set to `searchfield` in Safari and Chrome. 2. Address `box-sizing` set to `border-box` in Safari and Chrome. */
+input[type="search"] { -webkit-appearance: textfield; /* 1 */ box-sizing: content-box; /* 2 */ }
+
+/** Remove inner padding and search cancel button in Safari and Chrome on OS X. Safari (but not Chrome) clips the cancel button when the search input has padding (and `textfield` appearance). */
+input[type="search"]::-webkit-search-cancel-button, input[type="search"]::-webkit-search-decoration { -webkit-appearance: none; }
+
+/** Define consistent border, margin, and padding. */
+fieldset { border: 1px solid #c0c0c0; margin: 0 2px; padding: 0.35em 0.625em 0.75em; }
+
+/** 1. Correct `color` not being inherited in IE 8/9/10/11. 2. Remove padding so people aren't caught out if they zero out fieldsets. */
+legend { border: 0; /* 1 */ padding: 0; /* 2 */ }
+
+/** Remove default vertical scrollbar in IE 8/9/10/11. */
+textarea { overflow: auto; }
+
+/** Don't inherit the `font-weight` (applied by a rule above). NOTE: the default cannot safely be changed in Chrome and Safari on OS X. */
+optgroup { font-weight: bold; }
+
+/* Tables ========================================================================== */
+/** Remove most spacing between table cells. */
+table { border-collapse: collapse; border-spacing: 0; }
+
+td, th { padding: 0; }
+
+html { box-sizing: border-box; }
+
+*, *::after, *::before { box-sizing: inherit; }
+
+html { font-size: 1em; }
+
+html, input, button, textarea { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+
+body { color: #333; font-weight: 400; font-family: "Open Sans", sans-serif; line-height: 1.2; }
+
+p, p.large { margin-bottom: 1.4rem; }
+
+a { color: #222; }
+a:hover { text-decoration: none; }
+
+hr { border: 0; background-color: #ccc; height: 0.0625em; margin: 1.4rem 0; }
+
+.header { font-family: "Playfair Display SC", serif; font-weight: 400; }
+
+.title { font-family: "Playfair Display SC", serif; font-weight: 700; }
+
+h1, h2, h3, h4, h5, h6 { margin: .2rem auto .5rem; line-height: 1.2; font-weight: 400; }
+
+h5, h6 { line-height: 1.5; letter-spacing: 0.0625rem; text-transform: uppercase; }
+
+p.large { line-height: 1.2; }
+
+h1 { font-size: 3.9375em; }
+
+h2 { font-size: 2.8125em; }
+
+h3 { font-size: 1.9375em; }
+
+h4, p.large { font-size: 1.375em; }
+
+h5 { font-size: 1em; }
+
+h6 { font-size: 0.75em; }
+
+@media screen and (max-width: 48.125em) { h1 { font-size: 2.8125em; }
+  h2 { font-size: 1.9375em; }
+  h3 { font-size: 1.375em; }
+  h4, p.large { font-size: 1em; }
+  h5 { font-size: 0.75em; }
+  h6 { font-size: 0.75em; } }
+.bold { font-weight: 400; }
+
+.white { color: #fff; }
+
+.centered-text { text-align: center; }
+
+.white.text-shadow { text-shadow: 0px 0.125rem 0.25rem #000; }
+
+html, body { margin: 0; padding: 0; }
+
+audio, canvas, img, video { vertical-align: middle; }
+
+address { font-style: normal; }
+
+fieldset, figure { border: 0; margin: 0; padding: 0; }
+
+textarea { resize: vertical; }
+
+img { max-width: 100%; height: auto; }
+
+::-moz-selection { background: #b3d4fc; text-shadow: none; }
+
+::selection { background: #b3d4fc; text-shadow: none; }
+
+button { border: none; }
+
+a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+a.button:hover, button:hover { color: #000; background-color: #ccc; }
+@media screen and (max-width: 48.125em) { a.button, button { font-size: 1em; padding: 0.8125rem 1.3125rem 1rem; } }
+
+.outer-container { max-width: 75em; margin-left: auto; margin-right: auto; }
+.outer-container::after { clear: both; content: ""; display: table; }
+
+.row { display: block; }
+.row::after { clear: both; content: ""; display: table; }
+
+.padding { padding: 0 1em; }
+
+.inline, .inline-block { display: inline-block; }
+
+.underline { text-decoration: underline; }
+
+.margin-bottom { margin-bottom: 1.25rem; }
+
+.relative-wrapper { position: relative; }
+
+.fade { opacity: 0; -webkit-transition: opacity 0.15s linear; transition: opacity 0.15s linear; }
+.fade.in { opacity: 1; }
+
+.collapse { display: none; }
+.collapse.in { display: block; }
+
+tr.collapse.in { display: table-row; }
+
+tbody.collapse.in { display: table-row-group; }
+
+.collapsing { position: relative; height: 0; overflow: hidden; -webkit-transition-property: height, visibility; transition-property: height, visibility; -webkit-transition-duration: 0.35s; transition-duration: 0.35s; -webkit-transition-timing-function: ease; transition-timing-function: ease; }
+
+.nav { margin-bottom: 0; padding-left: 0; list-style: none; }
+.nav::after { clear: both; content: ""; display: table; }
+.nav > li { position: relative; display: block; }
+.nav > li > a { position: relative; display: block; padding: 10px 15px; }
+.nav > li > a:hover, .nav > li > a:focus { text-decoration: none; background-color: #eeeeee; }
+.nav > li.disabled > a { color: #777777; }
+.nav > li.disabled > a:hover, .nav > li.disabled > a:focus { color: #777777; text-decoration: none; background-color: transparent; cursor: not-allowed; }
+.nav .open > a, .nav .open > a:hover, .nav .open > a:focus { background-color: #eeeeee; border-color: #222; }
+.nav .nav-divider { height: 1px; margin: 9px 0; overflow: hidden; background-color: #e5e5e5; }
+.nav > li > a > img { max-width: none; }
+
+.nav-tabs { border-bottom: 1px solid #ddd; }
+.nav-tabs > li { float: left; margin-bottom: -1px; }
+.nav-tabs > li > a { margin-right: 2px; line-height: 1.42857; border: 1px solid transparent; border-radius: 4px 4px 0 0; }
+.nav-tabs > li > a:hover { border-color: #eeeeee #eeeeee #ddd; }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus { color: #555555; background-color: #fff; border: 1px solid #ddd; border-bottom-color: transparent; cursor: default; }
+
+.nav-pills > li { float: left; }
+.nav-pills > li > a { border-radius: 4px; }
+.nav-pills > li + li { margin-left: 2px; }
+.nav-pills > li.active > a, .nav-pills > li.active > a:hover, .nav-pills > li.active > a:focus { color: #fff; background-color: #337ab7; }
+
+.nav-stacked > li { float: none; }
+.nav-stacked > li + li { margin-top: 2px; margin-left: 0; }
+
+.nav-justified, .nav-tabs.nav-justified { width: 100%; }
+.nav-justified > li, .nav-tabs.nav-justified > li { float: none; }
+.nav-justified > li > a, .nav-tabs.nav-justified > li > a { text-align: center; margin-bottom: 5px; }
+.nav-justified > .dropdown .dropdown-menu { top: auto; left: auto; }
+@media (min-width: 768px) { .nav-justified > li, .nav-tabs.nav-justified > li { display: table-cell; width: 1%; }
+  .nav-justified > li > a, .nav-tabs.nav-justified > li > a { margin-bottom: 0; } }
+
+.nav-tabs-justified, .nav-tabs.nav-justified { border-bottom: 0; }
+.nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a { margin-right: 0; border-radius: 4px; }
+.nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a, .nav-tabs-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:hover, .nav-tabs-justified > .active > a:focus, .nav-tabs.nav-justified > .active > a:focus { border: 1px solid #ddd; }
+@media (min-width: 768px) { .nav-tabs-justified > li > a, .nav-tabs.nav-justified > li > a { border-bottom: 1px solid #ddd; border-radius: 4px 4px 0 0; }
+  .nav-tabs-justified > .active > a, .nav-tabs.nav-justified > .active > a, .nav-tabs-justified > .active > a:hover, .nav-tabs.nav-justified > .active > a:hover, .nav-tabs-justified > .active > a:focus, .nav-tabs.nav-justified > .active > a:focus { border-bottom-color: #fff; } }
+
+.tab-content > .tab-pane { display: none; }
+.tab-content > .active { display: block; }
+
+.nav-tabs .dropdown-menu { margin-top: -1px; border-top-left-radius: 0; border-top-right-radius: 0; }
+
+html, body { height: 100%; }
+
+header { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
+
+html.skrollr-mobile header { position: absolute; }
+
+nav { text-align: center; }
+nav #crest-wrapper { position: absolute; padding: 0.3125em 0 0 1.25em; }
+nav #crest-wrapper a img { max-width: 3.125em; height: auto; }
+nav ul { display: inline-block; padding: 0.8125em 0 0.5em; margin: 0; list-style: none; }
+nav ul li { float: left; }
+nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.1875rem #000; text-decoration: none; font-family: "Playfair Display SC", serif; }
+nav ul li a:hover { font-weight: 700; }
+nav ul li a.active { font-weight: 700; }
+nav ul li#wedding-details, nav ul li#proposal-story { width: 11.25em; }
+@media only screen and (max-width: 400px) { nav ul li#wedding-details, nav ul li#proposal-story { width: 9.375em; }
+  nav ul li#wedding-details a, nav ul li#proposal-story a { font-size: 1rem; } }
+
+@media only screen and (max-width: 530px) { nav #crest-wrapper { position: initial; }
+  nav ul { padding: 0 0 0.3125em; } }
+body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
+body#index ul { margin: 0; padding: 0; list-style-type: none; }
+body#index ul li { display: inline-block; width: 13.75rem; }
+body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; font-family: "Playfair Display SC", serif; }
+body#index ul a:hover { font-weight: 700; }
+body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
+@media only screen and (max-width: 400px) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
+
+body#wedding-details #tour-deiffel-bg { width: 100%; height: 100%; background-image: url("/img/wedding-details/bg@default.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center top; position: fixed; z-index: -1; }
+@media only screen and (max-height: 650px) { body#wedding-details #tour-deiffel-bg { min-height: 650px; } }
+@media only screen and (max-height: 570px) { body#wedding-details #tour-deiffel-bg { min-height: 570px; } }
+body#wedding-details .height-wrapper { min-height: 70%; position: relative; padding-bottom: 12.5em; }
+body#wedding-details .push-down { position: absolute; bottom: 0px; }
+
+.page-header { top: 0; margin-bottom: 1.875em; }
+
+.nav-tabs { border-bottom: 0; }
+.nav-tabs li { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+.nav-tabs li:last-child { margin-right: 0; }
+.nav-tabs li a { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: #fff; color: #000; border: 0.125rem solid #fff; box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 1.875rem; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+.nav-tabs li a:last-child { margin-right: 0; }
+.nav-tabs li a:hover, .nav-tabs li a:focus { background: rgba(119, 119, 119, 0.8); color: #fff; }
+.nav-tabs li.active a { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7), inset 0 0.1875rem 5px 1px rgba(0, 0, 0, 0.8); text-decoration: none; text-shadow: 0 0.0625rem 0.0625rem #000; color: #fff; }
+.nav-tabs li.active a:hover, .nav-tabs li.active a:focus { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); color: #fff; }
+
+#main-wrapper { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 1.875em; padding: 1.25em 1em; }
+#main-wrapper:last-child { margin-right: 0; }
+
+#location-box { max-width: 37.5em; width: auto; margin: 0 auto 2.8125em; padding: 0.875em 1em 1.375em; }
+#location-box span { font-size: 1.375rem; }
+
+.content-container { border: 0.125em solid #d0d0d0; background: #fff; box-shadow: 0 0.125rem 0.125rem 0 rgba(0, 0, 0, 0.2), 0 0.375rem 0.625rem 0 rgba(0, 0, 0, 0.3); border-radius: 0.1875em; }
+
+h2.container-title { margin-bottom: 1.125rem; }
+
+.map-container { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; padding: 1em; }
+.map-container:last-child { margin-right: 0; }
+
+h2#more-info { padding: 0 1.5rem; margin-bottom: 3.4375rem; }
+
+article#ceremony p.large { margin-bottom: 3.75rem; }
+
+article#reception #parking { margin-bottom: 3.75em; }
+article#reception #event-details { margin-bottom: 4.375em; }
+
+@media screen and (max-width: 48.125em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
+@media only screen and (max-width: 530px) { body#wedding-details .height-wrapper { min-height: 55%; }
+  .nav-tabs li { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  .nav-tabs li:last-child { margin-right: 0; }
+  .nav-tabs li a.ceremony { margin-top: 1.875rem; margin-bottom: 1.875rem; }
+  h2#more-info { padding: 0; } }
+@media only screen and (max-width: 400px) { section.page-header h1 { font-size: 1.9375em; }
+  .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
+.bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
+.bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
+.bgvid-container #intro .verbiage h3 { margin-bottom: 6.25rem; }
+.bgvid-container #intro .verbiage img { max-width: 3.4375em; }
+.bgvid-container .bgvid { position: absolute; z-index: 1; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }
+
+@media screen and (max-width: 48.125em) { .bgvid-container #intro .verbiage h1 { margin-bottom: 1.875rem; }
+  .bgvid-container #intro .verbiage h3 { margin-bottom: 3.125rem; } }
+@media only screen and (max-width: 43.75em) { .bgvid-container #intro { top: 5em; } }
+@media only screen and (max-width: 28.125em) { .bgvid-container #intro .verbiage h1 { font-size: 2.375rem; } }
+@media only screen and (max-width: 25em) { .bgvid-container #intro .verbiage h1 { font-size: 1.875rem; } }
+@media only screen and (max-width: 37.5em) { .bgvid-container #intro .verbiage img { display: none; } }
+@media only screen and (max-height: 21.875em) { .bgvid-container #intro { top: 2.5em; } }
+#parallax-ring { background: url("/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
+#parallax-ring .fade-out { height: 100%; width: 100%; }
+@media only screen and (max-width: 64em) { #parallax-ring { height: 100%; } }
+@media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
+@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
+
+.proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
+@media only screen and (max-width: 46.25em) { .proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
+.proposal-opportunity .map-header article { position: absolute; top: 0; right: 0; height: 100%; background: #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); width: 33.75em; padding: 3.125em 2.125em; }
+@media only screen and (max-width: 64em) { .proposal-opportunity .map-header article { width: 30em; padding: 1.25em; }
+  .proposal-opportunity .map-header article p { font-size: 1.25rem; } }
+@media only screen and (max-width: 60em) { .proposal-opportunity .map-header article { width: 23.75em; }
+  .proposal-opportunity .map-header article h3 { font-size: 1.375em; }
+  .proposal-opportunity .map-header article h2 { font-size: 1.9375em; }
+  .proposal-opportunity .map-header article p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { .proposal-opportunity .map-header article p { font-size: 1rem; } }
+@media only screen and (max-width: 46.25em) { .proposal-opportunity .map-header article { text-align: center; position: initial; height: auto; padding: 1.25em; width: 100%; } }
+@media only screen and (max-width: 25em) { .proposal-opportunity .map-header article h3 { font-size: 1.25rem; }
+  .proposal-opportunity .map-header article h2 { font-size: 1.625rem; } }
+
+.photo-row img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 4em; }
+.photo-row figure { margin-bottom: 4em; }
+.photo-row figure img { margin-bottom: 2.125em; }
+.photo-row figure.in-caption { position: relative; }
+.photo-row figure.in-caption .verbiage-container { position: absolute; }
+@media only screen and (max-width: 53.75em) { .photo-row img { margin-bottom: 2.875em; } }
+
+.photo-wrapper { width: 50%; text-align: center; }
+.photo-wrapper img { max-width: 43.75em; width: 100%; }
+
+.photo-wrapper#first { float: left; padding-right: 1em; }
+
+.photo-wrapper#second { float: right; padding-left: 1em; }
+
+@media only screen and (max-width: 560px) { .photo-wrapper#first { padding-right: 0.625em; }
+  .photo-wrapper#second { padding-left: 0.625em; } }
+@media only screen and (max-width: 25em) { .photo-wrapper#first, .photo-wrapper#second { padding: 0; float: none; width: 100%; } }
+.single-photo { text-align: center; }
+.single-photo img { max-height: 43.75em; }
+
+.full-photo { text-align: center; }
+
+#lock-bridge .map-header { background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
+@media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
+@media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
+@media only screen and (max-width: 64em) { #lock-bridge .map-header { background-position: 50% top; height: 31.25em; } }
+@media only screen and (max-width: 60em) { #lock-bridge .map-header { height: 28.75em; background-position: right top; } }
+@media only screen and (max-width: 53.75em) { #lock-bridge .map-header { height: 26.875em; margin-bottom: 1.875em; } }
+@media screen and (max-width: 48.125em) { #lock-bridge .map-header { height: 23.75em; } }
+@media only screen and (max-width: 46.25em) { #lock-bridge .map-header { height: auto; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 40.625em) { #lock-bridge .map-header { padding-top: 12.5em; } }
+@media screen and (max-width: 30em) { #lock-bridge .map-header { padding-top: 8.125em; } }
+#lock-bridge .map-header article { left: 0; }
+#lock-bridge h3#selfie { max-width: 57.5rem; padding: 0 1.25rem; text-align: center; margin-bottom: 3.75rem; }
+@media only screen and (max-width: 53.75em) { #lock-bridge h3#selfie { font-size: 1.375em; max-width: 41.875rem; margin-bottom: 2.5rem; } }
+@media screen and (max-width: 30em) { #lock-bridge h3#selfie { font-size: 1.25rem; } }
+
+#notre-dame .map-header { background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
+@media only screen and (min-width: 93.813em) { #notre-dame .map-header { background-size: cover; background-position: 50%; } }
+@media only screen and (max-width: 93.75em) { #notre-dame .map-header { background-position: left; } }
+@media only screen and (max-width: 83.75em) { #notre-dame .map-header { background-position: -100px; } }
+@media only screen and (max-width: 75em) { #notre-dame .map-header { background-position: -220px; height: 31.25em; } }
+@media only screen and (max-width: 64em) { #notre-dame .map-header { background-position: -200px; } }
+@media only screen and (max-width: 60em) { #notre-dame .map-header { height: 27.5em; } }
+@media only screen and (max-width: 53.75em) { #notre-dame .map-header { height: 25em; margin-bottom: 1.875em; } }
+@media screen and (max-width: 48.125em) { #notre-dame .map-header { height: 23.75em; } }
+@media only screen and (max-width: 46.25em) { #notre-dame .map-header { height: auto; background-size: contain; background-position: center top; } }
+@media only screen and (max-width: 40.625em) { #notre-dame .map-header { padding-top: 12.5em; } }
+@media screen and (max-width: 30em) { #notre-dame .map-header { padding-top: 8.125em; background-position: center -50px; } }
+@media only screen and (max-width: 25em) { #notre-dame .map-header { background-position: center top; } }
+#notre-dame .map-header article { right: 0; }
+
+figure#notre-dame-back .verbiage-container { left: 10%; top: 10%; width: 28.125em; text-align: left; }
+figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #fff; text-shadow: 0 0.125rem 0.1875rem #000; }
+@media only screen and (max-width: 64em) { figure#notre-dame-back .verbiage-container { top: 5%; left: 5%; } }
+@media screen and (max-width: 48.125em) { figure#notre-dame-back .verbiage-container { width: 100%; right: 5%; left: initial; text-align: right; top: 70%; } }
+@media only screen and (max-width: 35em) { figure#notre-dame-back .verbiage-container { text-align: center; top: 5%; right: initial; padding: 0 1.875em; } }
+@media only screen and (max-width: 33.125em) { figure#notre-dame-back img { margin-bottom: 1.25em; }
+  figure#notre-dame-back .verbiage-container { position: relative; top: 0; }
+  figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
+
+#louvre { text-align: center; }
+#louvre #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+#louvre #panorama-banner h2 { font-size: 3.9375em; }
+@media only screen and (max-width: 60em) { #louvre #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
+
+#louvre-pyramid { margin-bottom: 3.75em; position: relative; }
+#louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+#louvre-pyramid .verbiage-container { position: absolute; bottom: 1.875em; width: 30em; left: 2.5em; }
+#louvre-pyramid .verbiage-container p { text-shadow: 0 0.125rem 0.1875rem #000; color: #fff; margin: 0; }
+@media screen and (max-width: 60.625em) { #louvre-pyramid .verbiage-container { width: 26.25em; left: 1.25em; }
+  #louvre-pyramid .verbiage-container p { font-size: 1.125rem; } }
+@media screen and (max-width: 48.125em) { #louvre-pyramid .verbiage-container { width: 24.375em; } }
+@media only screen and (max-width: 46.25em) { #louvre-pyramid .verbiage-container { width: 100%; left: 0; bottom: 5%; padding: 0 1.25em; } }
+@media only screen and (max-width: 33.125em) { #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
+  #louvre-pyramid .verbiage-container p { font-size: 1rem; color: #333; text-shadow: none; } }
+
+#louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 33.125rem; }
+
+#skrollr-body { height: 100%; }
+
+.hide { display: none; }
+
+h3#coming-soon { text-align: center; margin-bottom: 3.75rem; padding: 0 0.625rem; }
