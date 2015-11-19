@@ -4,7 +4,7 @@ $max-1024: "only screen and (max-width : 64em)";
 $max-650: "only screen and (max-width : 40.625em)";
 
 #parallax-ring {
-	background: url("/img/proposal-story/ring/ring.jpg");
+	background: url("#{$url}/img/proposal-story/ring/ring.jpg");
 	height: 140%;
 	width: 100%;
 
@@ -18,11 +18,11 @@ $max-650: "only screen and (max-width : 40.625em)";
 	}
 
 	@include media($max-970) {
-		background: url("/img/proposal-story/ring/ring@970.jpg");
+		background: url("#{$url}/img/proposal-story/ring/ring@970.jpg");
 	}
 
 	@media #{$max-650} {
-		background: url("/img/proposal-story/ring/ring@650.jpg");
+		background: url("#{$url}/img/proposal-story/ring/ring@650.jpg");
 	}
 
 }

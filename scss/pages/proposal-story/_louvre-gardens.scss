@@ -9,7 +9,7 @@ $max-530: "only screen and (max-width : 33.125em)";
 
 	#panorama-banner {
 		height: em(500);
-		background: url('/img/proposal-story/louvre/louvre-parallax.jpg') no-repeat center top;
+		background: url('#{$url}/img/proposal-story/louvre/louvre-parallax.jpg') no-repeat center top;
 		background-size: cover;
 		padding-top: em(50);
 		margin-bottom: em(60);
@@ -19,7 +19,7 @@ $max-530: "only screen and (max-width : 33.125em)";
 		}
 
 		@media #{$max-960} {
-			background: url('/img/proposal-story/louvre/louvre-parallax@960.jpg') no-repeat center top;
+			background: url('#{$url}/img/proposal-story/louvre/louvre-parallax@960.jpg') no-repeat center top;
 			background-size: cover;
 			padding-top: em(20);
 			height: em(400);

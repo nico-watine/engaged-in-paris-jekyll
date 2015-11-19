@@ -16,7 +16,7 @@ $max-400: "only screen and (max-width : 25em)";
 
 #notre-dame {
 	.map-header {
-		background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left;
+		background: url("#{$url}/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left;
 		background-size: auto 100%;
 
 		@media #{$min-1501} {

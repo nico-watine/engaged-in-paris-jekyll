@@ -1,9 +1,9 @@
 @import "../../settings/_settings.scss";
 
-$max-400: "only screen and (max-width : 400px)";
+$max-400: "only screen and (max-width : 25.000em)";
 
 body#index {
-	background: url('/img/index/bg@default.jpg') no-repeat;
+	background: url('#{$url}/img/index/bg@default.jpg') no-repeat;
 	background-size: cover;
 	background-position: center top;
 
