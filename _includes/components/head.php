@@ -5,6 +5,7 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
+	{{ site.start_comment }}<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">{{ site.end_comment }}
 	<title>{{ page.title }} | Nico &amp; Corinne Are Engaged!</title>
 	<meta name="description" content="{{ page.description }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">

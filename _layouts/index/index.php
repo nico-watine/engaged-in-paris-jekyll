@@ -15,6 +15,6 @@
 	</ul>
 </nav>
 
-
+{% include components/scripts/google-tracking.php %}
 </body>
 </html>

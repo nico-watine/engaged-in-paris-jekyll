@@ -134,7 +134,7 @@
 
 {% include components/scripts/scripts.php %}
 <script src="{{ site.cdn_url }}<?php autoVer('/js/scripts-min.js'); ?>"></script>
-
+{% include components/scripts/google-tracking.php %}
 
 </body>
 </html>
