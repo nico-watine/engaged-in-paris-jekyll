@@ -2,7 +2,7 @@
 
 <body id="index">
 
-<img class="wedding-crest" src="/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
+<img class="wedding-crest" src="{{ site.cdn_url }}/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
 
 <nav>
 	<ul>

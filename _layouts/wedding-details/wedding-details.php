@@ -9,7 +9,7 @@
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
-					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
+					<img src="{{ site.cdn_url }}/img/badge/nav-badge.png" alt="Mini Crest">
 				</a>
 			</div>
 			<ul>

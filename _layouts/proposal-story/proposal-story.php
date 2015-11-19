@@ -7,7 +7,7 @@
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
-					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
+					<img src="{{ site.cdn_url }}/img/badge/nav-badge.png" alt="Mini Crest">
 				</a>
 			</div>
 			<ul>
@@ -28,12 +28,12 @@
 			<h1 class="title white text-shadow">The Proposal</h1>
 			<h3 class="header white text-shadow">In October of 2014, Nico and Corinne went to France for a family wedding.</h3>
 			<h3 class="header white text-shadow">Little did Corinne know that Nico had a surprise planned…</h3>
-			<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
+			<img src="{{ site.cdn_url }}/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 		</div>
 	</div>
-	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" class="bgvid" id="is-desktop">
-		<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
-		<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
+	<video autoplay loop preload="auto" poster="{{ site.cdn_url }}/img/proposal-story/video/splash/poster.jpg" class="bgvid" id="is-desktop">
+		<source src="{{ site.cdn_url }}/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
+		<source src="{{ site.cdn_url }}/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
 	</video>
 </section>
 
@@ -61,14 +61,14 @@
 	<div class="section-photos">
 		<div class="row photo-row double-photo">
 			<div class="photo-wrapper" id="first">
-				<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
+				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
 			</div>
 			<div class="photo-wrapper" id="second">
-				<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
+				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
 			</div>
 		</div>
 		<div class="row photo-row single-photo">
-			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
+			<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
 </section>
@@ -87,13 +87,13 @@
 	<div class="section-photos">
 		<div class="row photo-row single-photo">
 			<figure>
-				<img src="/img/proposal-story/notre-dame/notre-dame-facade.jpg" alt="Front Facade of Notre Dame">
+				<img src="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame-facade.jpg" alt="Front Facade of Notre Dame">
 				<h3 class="header">The front facade of Notre Dame</h3>
 			</figure>
 		</div>
 		<div class="row photo-row full-photo">
 			<figure class="in-caption" id="notre-dame-back">
-				<img src="/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
+				<img src="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
 				<div class="verbiage-container">
 					<h3 class="header">The back side of <span class="inline-block">Notre Dame</span> at dusk</h3>
 					<h4>This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
@@ -109,7 +109,7 @@
 		<h2 class="title white text-shadow">The Louvre</h2>
 	</div>
 	<figure id="louvre-pyramid" class="outer-container padding">
-		<img src="/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
+		<img src="{{ site.cdn_url }}/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
 		<div class="verbiage-container">
 			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
 		</div>
@@ -118,10 +118,10 @@
 		<h4>The Louvre Gardens were calmer and offered a nice break from walking all over Paris.</h4>
 		<div class="row photo-row double-photo">
 			<div class="photo-wrapper" id="first">
-				<img src="/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico">
+				<img src="{{ site.cdn_url }}/img/proposal-story/louvre/nico@2x.jpg" alt="Suave Nico">
 			</div>
 			<div class="photo-wrapper" id="second">
-				<img src="/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
+				<img src="{{ site.cdn_url }}/img/proposal-story/louvre/corinne@2x.jpg" alt="Beautiful Corinne">
 			</div>
 		</div>
 		<h4>Still, there was no proposal-mojo to be found here.</h4>
