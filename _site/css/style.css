@@ -306,16 +306,8 @@ body#wedding-details #tour-deiffel-bg { width: 100%; height: 100%; background-im
 body#wedding-details .height-wrapper { min-height: 70%; position: relative; padding-bottom: 12.5em; }
 body#wedding-details .push-down { position: absolute; bottom: 0px; }
 
+@media only screen and (max-width: 33.125em) { body#wedding-details .height-wrapper { min-height: 55%; } }
 .page-header { top: 0; margin-bottom: 1.875em; }
-
-.nav-tabs { border-bottom: 0; }
-.nav-tabs li { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
-.nav-tabs li:last-child { margin-right: 0; }
-.nav-tabs li a { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: #fff; color: #000; border: 0.125rem solid #fff; box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 1.875rem; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
-.nav-tabs li a:last-child { margin-right: 0; }
-.nav-tabs li a:hover, .nav-tabs li a:focus { background: rgba(119, 119, 119, 0.8); color: #fff; }
-.nav-tabs li.active a { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7), inset 0 0.1875rem 5px 1px rgba(0, 0, 0, 0.8); text-decoration: none; text-shadow: 0 0.0625rem 0.0625rem #000; color: #fff; }
-.nav-tabs li.active a:hover, .nav-tabs li.active a:focus { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); color: #fff; }
 
 #main-wrapper { float: left; display: block; margin-right: 1.75788%; width: 87.28027%; margin-left: 6.35987%; margin-bottom: 1.875em; padding: 1.25em 1em; }
 #main-wrapper:last-child { margin-right: 0; }
@@ -327,24 +319,32 @@ body#wedding-details .push-down { position: absolute; bottom: 0px; }
 
 h2.container-title { margin-bottom: 1.125rem; }
 
-.map-container { float: left; display: block; margin-right: 2.01406%; width: 48.99297%; padding: 1em; }
-.map-container:last-child { margin-right: 0; }
-
 h2#more-info { padding: 0 1.5rem; margin-bottom: 3.4375rem; }
+
+@media only screen and (max-width: 33.125em) { h2#more-info { padding: 0; } }
+@media only screen and (max-width: 25em) { section.page-header h1 { font-size: 1.9375em; } }
+.nav-tabs { border-bottom: 0; }
+.nav-tabs li { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+.nav-tabs li:last-child { margin-right: 0; }
+.nav-tabs li a { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; margin-left: 25.89467%; background-color: #fff; color: #000; border: 0.125rem solid #fff; box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7); border-radius: 0.3125rem; text-decoration: none; padding: 1.25rem 0 1.5625rem; font-size: 1.875rem; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+.nav-tabs li a:last-child { margin-right: 0; }
+.nav-tabs li a:hover, .nav-tabs li a:focus { background: rgba(119, 119, 119, 0.8); color: #fff; }
+.nav-tabs li.active a { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); box-shadow: 0 0.1875rem 0.1875rem 0 rgba(0, 0, 0, 0.7), inset 0 0.1875rem 5px 1px rgba(0, 0, 0, 0.8); text-decoration: none; text-shadow: 0 0.0625rem 0.0625rem #000; color: #fff; }
+.nav-tabs li.active a:hover, .nav-tabs li.active a:focus { border: 0.125rem solid #fff; background: rgba(119, 119, 119, 0.8); color: #fff; }
+
+@media screen and (max-width: 48.125em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
+@media only screen and (max-width: 33.125em) { .nav-tabs li { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  .nav-tabs li:last-child { margin-right: 0; }
+  .nav-tabs li a.ceremony { margin-top: 1.875rem; margin-bottom: 1.875rem; } }
+@media only screen and (max-width: 25em) { .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
+#location-box { max-width: 37.5em; width: auto; margin: 0 auto 2.8125em; padding: 0.875em 1em 1.375em; }
+#location-box span { font-size: 1.375rem; }
 
 article#ceremony p.large { margin-bottom: 3.75rem; }
 
 article#reception #parking { margin-bottom: 3.75em; }
 article#reception #event-details { margin-bottom: 4.375em; }
 
-@media screen and (max-width: 48.125em) { .nav-tabs li a { padding: 0.75rem 0 0.875rem; font-size: 1.375em; } }
-@media only screen and (max-width: 33.125em) { body#wedding-details .height-wrapper { min-height: 55%; }
-  .nav-tabs li { float: left; display: block; margin-right: 3.57866%; width: 100%; }
-  .nav-tabs li:last-child { margin-right: 0; }
-  .nav-tabs li a.ceremony { margin-top: 1.875rem; margin-bottom: 1.875rem; }
-  h2#more-info { padding: 0; } }
-@media only screen and (max-width: 25em) { section.page-header h1 { font-size: 1.9375em; }
-  .nav-tabs li a.ceremony { margin-top: 0.875rem; margin-bottom: 1.875rem; } }
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
