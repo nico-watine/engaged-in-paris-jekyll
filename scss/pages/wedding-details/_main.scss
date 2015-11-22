@@ -24,13 +24,17 @@ $width-400: "only screen and (max-width : 25.000em)";
 	margin: 0 auto em(45);
 	padding: em(14) em(16) em(22);
 
+	p {
+		font-size: $h3-size;
+	}
+
 	span {
 		font-size: rem(22);
 	}
 }
 
 .content-container {
-	border: em(2) solid #d0d0d0;
+	border: em(1) solid #f1f1f1;
 	background: #fff;
 	box-shadow: $z-2;
 	border-radius: em(3);

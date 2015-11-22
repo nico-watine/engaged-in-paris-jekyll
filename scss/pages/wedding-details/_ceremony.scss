@@ -1,23 +1,25 @@
 @import "../../settings/_settings.scss";
 
 
-
-
-#location-box {
-	max-width: em(600);
-	width: auto;
-	margin: 0 auto em(45);
-	padding: em(14) em(16) em(22);
-
-	span {
-		font-size: rem(22);
-	}
-}
-
-
 article#ceremony {
-	p.large {
-		margin-bottom: rem(60);
+	h2 {
+		margin-bottom: rem(26);
+	}
+
+	#location-box {
+		max-width: rem(600);
+		width: auto;
+		margin: 0 auto rem(45);
+		padding: rem(14) rem(16) rem(22);
+		font-size: $h3-size;
+
+		span {
+			font-size: rem(22);
+		}
 	}
 }
+
+
+
+
 

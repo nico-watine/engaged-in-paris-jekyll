@@ -22,7 +22,7 @@ body {
 
 p,
 p.large {
-	margin-bottom: 1.4rem;
+	margin: rem(8) 0 rem(22);
 }
 
 a {
@@ -43,11 +43,13 @@ hr {
 .header {
 	font-family: $header-font-family;
 	font-weight: $header-font-weight;
+	letter-spacing: rem(1);
 }
 
 .title {
 	font-family: $header-font-family;
 	font-weight: $title-font-weight;
+	letter-spacing: rem(2);
 }
 
 h1, 
