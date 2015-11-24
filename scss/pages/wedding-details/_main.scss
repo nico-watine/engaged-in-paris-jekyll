@@ -18,18 +18,26 @@ $width-400: "only screen and (max-width : 25.000em)";
 	padding: em(20) em(16);;
 }
 
-#location-box {
-	max-width: em(600);
+address.tldr-box {
+	max-width: rem(600);
 	width: auto;
-	margin: 0 auto em(45);
-	padding: em(14) em(16) em(22);
+	margin: 0 auto rem(45);
+	padding: rem(14) rem(16) rem(22);
+	font-size: $h3-size;
 
-	p {
-		font-size: $h3-size;
+	hr {
+		height: rem(1);
+		margin: rem(24) rem(50);
 	}
 
-	span {
+	span.tiny {
 		font-size: rem(22);
+	}
+}
+
+article {
+	h2 {
+		margin-bottom: rem(26);
 	}
 }
 

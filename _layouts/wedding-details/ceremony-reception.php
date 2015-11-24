@@ -45,28 +45,33 @@
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
 		<article id="ceremony" class="tab-pane fade in active">
-			<h2 class="header normal container-title">Ceremony Location</h2>
-			<address class="content-container" id="location-box">
-				<h3>The Chapel of Divine Mercy <br>
-				<span>located on the</span> <br>
-				St. Laurence Catholic Church Grounds <br>
+			<h2 class="header">The Ceremony</h2>
+			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the <span class="inline-block">St. Laurence Catholic Church</span> grounds.</p>
+			<p class="large">St. Laurence is located at the corner of Austin Pkwy and <span class="inline-block">Sweetwater Blvd.</span> <br>The chapel is attached to the school bulding along <span class="inline-block">Austin Pkwy.</span></p>
+			<p class="large">The ceremony will begin promptly at 5:30PM. <br>Attire is Black Tie Optional.</p>
+			<br>
+			<h3 class="header">Time &amp; Location</h3>
+			<address class="tldr-box content-container" id="ceremony">
+				5:30PM <br>
+				The Chapel of Divine Mercy <br>
+				<span class="tiny">located on the</span> <br>
+				St. Laurence Catholic Church Grounds
+				<hr>
 				3100 Sweetwater Blvd <br>
-				Sugar Land, Texas 77479</h3>
+				Sugar Land, Texas 77479
 			</address>
-			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the St Laurence Catholic Church grounds.</p>
-			<p class="large">The Chapel is attached to the School Building along Austing Parkway. <br>It is separate from the actual church.</p>
-			<hr>
-			<h2 id="more-info" class="header">More info will be provided as the wedding date approaches.</h2>
 		</article>
 		<article id="reception" class="tab-pane fade">
-			<h2 class="header">Reception Details</h2>
-			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank" class="inline">Brennan’s of Houston</a> <br>
-			Festivities begin at 7PM</p>
-			<p style="margin-bottom: 8px;">Reception Info</p>
-			<address class="content-container" id="location-box">
-				<h3>7PM at Brennan's of Houston <br>
+			<h2 class="header">The Reception</h2>
+			<p class="large">The Reception is to be held at <a href="http://www.brennanshouston.com/" target="_blank" class="inline">Brennan’s of Houston</a> <br>Festivities begin at 7PM</p>
+			<br>
+			<h3 class="header">Time &amp; Location</h3>
+			<address class="tldr-box content-container" id="reception">
+				7PM <br>
+				Brennan's of Houston <br>
+				<hr>
 				3300 Smith St <br>
-				Houston, Texas 77006</h3>
+				Houston, Texas 77006
 			</address>
 			<h2 class="header">Venue Info</h2>
 			<div id="parking">
