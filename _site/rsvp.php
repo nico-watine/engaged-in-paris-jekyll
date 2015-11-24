@@ -45,7 +45,7 @@
 
 <section class="page-header outer-container centered-text">
 	<h1 class="title white text-shadow">Wedding Details</h1>
-	<div class="row" id="tabs">
+<!-- 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
 				<a data-toggle="tab" href="#ceremony" class="header normal ceremony">Ceremony</a>
@@ -54,47 +54,14 @@
 				<a data-toggle="tab" href="#reception" class="header normal reception">Reception</a>
 			</li>
 		</ul>
-	</div>
+	</div> -->
 </section>
 
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
-		<article id="ceremony" class="tab-pane fade in active">
-			<h2 class="header">The Ceremony</h2>
-			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the <span class="inline-block">St. Laurence Catholic Church</span> grounds.</p>
-			<p class="large">St. Laurence is located at the corner of Austin Pkwy and <span class="inline-block">Sweetwater Blvd.</span> <br>The chapel is attached to the school bulding along <span class="inline-block">Austin Pkwy.</span></p>
-			<p class="large">The ceremony will begin promptly at 5:30PM. <br>Attire is Black Tie Optional.</p>
-			<br>
-			<h3 class="header">Time &amp; Location</h3>
-			<address class="tldr-box content-container" id="ceremony">
-				5:30PM <br>
-				The Chapel of Divine Mercy <br>
-				<span class="tiny">located on the</span> <br>
-				St. Laurence Catholic Church Grounds
-				<hr>
-				3100 Sweetwater Blvd <br>
-				Sugar Land, Texas 77479
-			</address>
-		</article>
-		<article id="reception" class="tab-pane fade">
-			<h2 class="header">The Reception</h2>
-			<p class="large">The Reception is to be held at <span class="inline">Brennan’s of Houston.</span> <br>Festivities begin at 7PM.</p>
-			<br>
-			<h3 class="header">Time &amp; Location</h3>
-			<address class="tldr-box content-container" id="reception">
-				7PM <br>
-				Brennan's of Houston <br>
-				<hr>
-				3300 Smith St <br>
-				Houston, Texas 77006
-			</address>
-			<h2 class="header">Venue Info</h2>
-			<h3 class="header">Parking</h3>
-			<p class="large"><strong>Street Parking</strong> is available on a first come first serve basis. Because Brennan’s of Houston is located in Midtown, street parking can sometimes be scarce. <br><strong>Valet Parking</strong> is available for $5.</p>
-			<br>
-			<h3 class="header">Event Details</h3>
-			<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. <br>There is an elevator.</p>
-			<br>
+		<article id="rsvp" class="tab-pane fade in active">
+			<h2 class="header">RSVP</h2>
+			<p class="large">The favor of your reply is requested by January 20, 2016.</p>
 		</article>
 	</section>
 </main>
