@@ -1,18 +1,20 @@
 @import "../../settings/_settings.scss";
 
-$width-530: "only screen and (max-width : 33.125em)";
-$width-400: "only screen and (max-width : 25.000em)";
+$width-920: "only screen and (max-width : 57.500em)";
+$width-560: "only screen and (max-width : 35.000em)";
+
 
 
 .nav-tabs {
 	border-bottom: 0;
+	padding: 0 em(16);
 
 	li {
-		@include span-columns(8 of 16);
+		@include span-columns(4 of 12);
 
 		a {
-			@include span-columns(4 of 8);
-			@include shift(2);
+			@include span-columns(3 of 4);
+			@include shift(0.5);
 			background-color: #fff;
 			color: #000;
 			border: rem(2) solid #fff;
@@ -52,6 +54,16 @@ $width-400: "only screen and (max-width : 25.000em)";
 	}
 }
 
+@media #{$width-920} {
+	.nav-tabs {
+		li {
+			a {
+				@include span-columns(5 of 6);
+				@include shift(0.5);
+			}
+		}
+	}
+}
 
 @include media($max-770) {
 	.nav-tabs {
@@ -64,29 +76,18 @@ $width-400: "only screen and (max-width : 25.000em)";
 	}
 }
 
-@media #{$width-530} {
+@media #{$width-560} {
 	.nav-tabs {
 		li {
 			@include span-columns(8 of 8);
 
-			a.ceremony {
-				margin-top: rem(30);
-				margin-bottom: rem(30);
+			a {
+				margin-top: rem(10);
+				margin-bottom: rem(10);
 			}
 		}
 	}
 }
 
 
-
-@media #{$width-400} {
-	.nav-tabs {
-		li {
-			a.ceremony {
-				margin-top: rem(14);
-				margin-bottom: rem(30);
-			}
-		}
-	}
-}
 
