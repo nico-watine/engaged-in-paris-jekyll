@@ -1,7 +1,42 @@
 @import "../../settings/_settings.scss";
 
-input.form-control.large {
-	padding: rem(10) rem(16);
+form#rsvp-form {
+	.form-row {
+		@include span-columns(6 of 10);
+		@include shift(2);
+		margin-bottom: rem(22);
+
+		span {
+			text-transform: uppercase;
+			font-size: rem(14);
+			color: #555;
+		}
+
+		input {
+			margin-top: rem(6);
+		}
+
+		.form-button {
+			@include span-columns(3 of 6);
+
+			label {
+				display: initial;
+			}
+		}
+	}
+
+	.form-row#buttons {
+		margin-bottom: 0;
+
+		span.question {
+			display: block;
+			margin-bottom: rem(16);
+		}
+	}
+
+	.form-row#guest-name {
+		margin-top: rem(8);
+	}
 }
 
 
