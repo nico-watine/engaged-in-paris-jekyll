@@ -1,9 +1,11 @@
 @import "../../settings/_settings.scss";
 
 form#rsvp-form {
+	max-width: rem(600);
+	width: 100%;
+	margin: 0 auto;
+
 	.form-row {
-		@include span-columns(6 of 10);
-		@include shift(2);
 		margin-bottom: rem(22);
 
 		span {
@@ -31,6 +33,15 @@ form#rsvp-form {
 		span.question {
 			display: block;
 			margin-bottom: rem(16);
+		}
+
+		.form-button {
+			margin-bottom: rem(20);
+		}
+
+		hr {
+			display: inline-block;
+			width: 100%;
 		}
 	}
 

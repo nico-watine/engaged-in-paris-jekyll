@@ -80,7 +80,7 @@
 				            </div>
 				        </div>
 				        <div class="form-row" id="buttons">
-					        <hr>
+				        	<hr>
 				        	<span class="question">Are you bringing a guest?</span>
 				            <div class="form-button">
 				            	<label><input type="checkbox" name="guest-status" value="WILL be bringing a guest"><!-- &nbsp;  -->&nbsp; Yes</label>
