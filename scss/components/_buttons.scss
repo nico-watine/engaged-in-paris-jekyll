@@ -31,3 +31,13 @@ button {
         padding: rem(13) rem(21) rem(16); 
     }
 }
+
+
+.floating {
+    box-shadow: $z-1;
+
+    &:hover {
+        box-shadow: $z-4;
+        @include transition (box-shadow 90ms ease-out 0s);
+    }
+}

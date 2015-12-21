@@ -90,35 +90,35 @@
 				<form name="rsvp-form" id="rsvp-form" action="/php/submit-rsvp" enctype="multipart/form-data" method="post" /> 
 				    <div class="row">
 				        <div class="form-row">
-			                <span>Your full name</span><input type="text" id="name" name="name" placeholder="First &amp; Last please" />
+			                <span>Your full name</span><input type="text" id="name" name="guest-name" placeholder="First &amp; Last please" />
 				        </div>
 				        <div class="form-row">
-			                <span>Your email</span><input type="text" id="email" name="email" placeholder="For last minute updates" />
+			                <span>Your email</span><input type="text" id="email" name="guest-email" placeholder="For last minute updates" />
 				        </div>
 				        <div class="form-row" id="buttons">
 				        	<span class="question">Will you be attending?</span>
 				            <div class="form-button">
-				            	<label><input type="checkbox" name="attendance-status" value="WILL be attending"><br>Accepts With Pleasure</label>
+				            	<label><input type="checkbox" name="attendance-status" value="YES - WILL be attending"><br>Accepts With Pleasure</label>
 				            </div>
 				            <div class="form-button">
-				                <label><input type="checkbox" name="attendance-status" value="Will NOT be attending"><br>Declines with regret</label>
+				                <label><input type="checkbox" name="attendance-status" value="NO - Will NOT be attending"><br>Declines with regret</label>
 				            </div>
 				        </div>
 				        <div class="form-row" id="buttons">
 				        	<hr>
 				        	<span class="question">Are you bringing a guest?</span>
 				            <div class="form-button">
-				            	<label><input type="checkbox" name="guest-status" value="WILL be bringing a guest"><!-- &nbsp;  -->&nbsp; Yes</label>
+				            	<label><input type="checkbox" name="plus-one-status" value="YES - WILL be bringing a guest"><!-- &nbsp;  -->&nbsp; Yes</label>
 				            </div>
 				            <div class="form-button">
-				                <label><input type="checkbox" name="guest-status" value="Will NOT be bringing a guest"><!-- &nbsp;  -->&nbsp; No</label>
+				                <label><input type="checkbox" name="plus-one-status" value="NO - will NOT be bringing a guest"><!-- &nbsp;  -->&nbsp; No</label>
 				            </div>
 				        </div>
 				        <div class="form-row" id="guest-name">
-			                <span>Name of Guest</span><input type="text" id="email" name="email" placeholder="First &amp; Last please" />
+			                <span>Name of Guest</span><input type="text" id="email" name="plus-one-name" placeholder="First &amp; Last please" />
 				        </div>
 				        <div class="form-row">
-				            <button type="submit" name="submit" id="submit" class="button big-green-button header">Send RSVP</button>
+				            <button type="submit" name="submit" id="submit" class="button floating header">Send RSVP</button>
 				        </div>
 				    </div>
 				</form>
