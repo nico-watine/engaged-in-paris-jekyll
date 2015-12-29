@@ -83,11 +83,20 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/_layouts\/proposal-story\/proposal-story.php": {
+	"\/_layouts\/proposal-story\/3-opportunities.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_layouts\/proposal-story\/proposal-story.php",
+		"inputAbbreviatedPath": "\/_layouts\/proposal-story\/3-opportunities.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/_layouts\/proposal-story\/final-proposal.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/proposal-story\/final-proposal.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -2021,15 +2030,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2255,6 +2255,28 @@
 		"initialSize": 94732,
 		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/ring\/ring@970.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/ring\/ring@970.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80945,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232873,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6229,6 +6251,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80945,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232873,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/video\/splash\/poster.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6715,6 +6759,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_proposal-story.scss",
 		"outputAbbreviatedPath": "\/css\/_proposal-story.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/pages\/proposal-story\/_sacre-coeur.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/proposal-story\/_sacre-coeur.scss",
+		"outputAbbreviatedPath": "\/css\/_sacre-coeur.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

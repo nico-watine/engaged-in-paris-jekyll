@@ -501,7 +501,9 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
 @media only screen and (max-width: 33.125em) { #louvre-pyramid .verbiage-container { position: relative; bottom: initial; top: 0; padding: 1.25em 0 0; }
   #louvre-pyramid .verbiage-container p { font-size: 1rem; color: #333; text-shadow: none; } }
 
-#louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 33.125rem; }
+#louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 37.5rem; }
+
+section.final-proposal #sacre-coeur-night .verbiage-container { text-align: left; top: 60%; left: 5%; }
 
 #skrollr-body { height: 100%; }
 
