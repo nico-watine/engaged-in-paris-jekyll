@@ -204,6 +204,9 @@ a.button:hover, button:hover { color: #000; background-color: #ccc; }
 .floating { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
 .floating:hover { box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 90ms ease-out 0s; transition: box-shadow 90ms ease-out 0s; }
 
+#submit.button { border: 0.0625rem solid #777; }
+#submit.button:hover { background-color: #fff; border: 0.0625rem solid #000; }
+
 input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea { background-color: #FFF; font-family: inherit; border: 1px solid #CCC; border-radius: 0.0625rem; box-shadow: 0 0rem 0.125rem rgba(0, 0, 0, 0.2) inset; color: rgba(0, 0, 0, 0.75); display: block; font-size: 0.875rem; margin: 0 0 1rem; padding: 0.5rem; height: auto; width: 100%; box-sizing: border-box; -webkit-transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s; transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s; }
 
 label { font-size: 0.875rem; color: #4D4D4D; cursor: pointer; display: block; font-weight: 300; line-height: 1.5; margin-bottom: 0px; }

@@ -41,3 +41,12 @@ button {
         @include transition (box-shadow 90ms ease-out 0s);
     }
 }
+
+#submit.button {
+    border: rem(1) solid #777;
+    
+    &:hover {
+        background-color: #fff;
+        border: rem(1) solid #000;
+    }
+}
