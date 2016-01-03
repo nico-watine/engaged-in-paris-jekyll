@@ -1,5 +1,6 @@
 {% include components/head.php %}
 
+
 <body id="wedding-details">
 
 <div id="tour-deiffel-bg"><!--awesome photo here--></div>
