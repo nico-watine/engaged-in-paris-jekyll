@@ -41,6 +41,9 @@
 			<li>
 				<a data-toggle="tab" href="#rsvp" class="header normal reception">RSVP</a>
 			</li>
+			<li>
+				<a data-toggle="tab" href="#registry" class="header normal">Registry</a>
+			</li>
 		</ul>
 	</div>
 </section>
