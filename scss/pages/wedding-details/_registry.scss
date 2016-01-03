@@ -1,15 +1,21 @@
 @import "../../settings/_settings.scss";
 
-h4#honeyfund-link {
-	a {
-		span {
-			display: inline-block;
-			text-decoration: underline;
-		}
+article#registry {
+	p {
+		text-align: left;
+	}
 
-		&:hover {
+	h4#honeyfund-link {
+		a {
 			span {
-				text-decoration: none;
+				display: inline-block;
+				text-decoration: underline;
+			}
+
+			&:hover {
+				span {
+					text-decoration: none;
+				}
 			}
 		}
 	}
