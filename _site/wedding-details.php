@@ -62,12 +62,18 @@
 
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
-		<article id="registry" class="tab-pane fade in active" style="text-align: left;">
+		<article id="registry" class="tab-pane fade in active">
 			<h2 class="header">Registry</h2>
-			<p class="large">Hello family &amp; friends,
+			<p class="large" style="text-align: left;">Hello family &amp; friends,
 			<br><br>
-			Thank you so much for being a part of our special day. Please do not feel that you have to buy us a wedding gift. Your presence at our wedding is the greatest gift of all. However if you wish to honour us with a gift, we have set up a savings registry through the honeymoond-service website www.honeyfund.com.
-			<p class="large">Your gift will be put towards our #teamwatine savings, our future home and our honeymoon.</p>
+			Thank you so much for being a part of our special day. Please do not feel that you have to buy us a wedding gift. Your presence at our wedding is the greatest gift of all. However if you wish to honour us with a gift, we have set up a savings registry through the honeymoon-service website www.honeyfund.com.
+			<p class="large" style="text-align: left;">Your gift will be put towards our #teamwatine savings, our future home and our honeymoon.</p>
+			<br>
+			<hr>
+			<br>
+			<h3 class="header margin-bottom">Our Honeyfund Registry Page:</h3>
+			<h4 id="honeyfund-link"><a href="http://www.honeyfund.com/wedding/teamwatine" target="_blank">www.honeyfund.com/wedding/<span>teamwatine</span></a></h4>
+			<br><br>
 		</article>
 	</section>
 </main>

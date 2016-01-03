@@ -390,6 +390,9 @@ form#rsvp-form .form-row#buttons .form-button { margin-bottom: 1.25rem; }
 form#rsvp-form .form-row#buttons hr { display: inline-block; width: 100%; }
 form#rsvp-form .form-row#guest-name { margin-top: 0.5rem; }
 
+h4#honeyfund-link a span { display: inline-block; text-decoration: underline; }
+h4#honeyfund-link a:hover span { text-decoration: none; }
+
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
