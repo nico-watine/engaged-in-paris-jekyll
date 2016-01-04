@@ -331,7 +331,7 @@ nav ul li#wedding-details, nav ul li#proposal-story { width: 11.25em; }
 
 @media only screen and (max-width: 530px) { nav #crest-wrapper { position: initial; }
   nav ul { padding: 0 0 0.3125em; } }
-body#index { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
+body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
 body#index ul li { display: inline-block; width: 13.75rem; }
 body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; font-family: "Playfair Display SC", serif; }
@@ -339,7 +339,7 @@ body#index ul a:hover { font-weight: 700; }
 body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
 @media only screen and (max-width: 25em) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
 
-body#wedding-details #tour-deiffel-bg { width: 100%; height: 100%; background-image: url("http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/bg@default.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center top; position: fixed; z-index: -1; }
+body#wedding-details #tour-deiffel-bg { width: 100%; height: 100%; background-image: url("/img/wedding-details/bg@default.jpg"); background-repeat: no-repeat; background-size: cover; background-position: center top; position: fixed; z-index: -1; }
 @media only screen and (max-height: 40.625em) { body#wedding-details #tour-deiffel-bg { min-height: 650px; } }
 @media only screen and (max-height: 35.625em) { body#wedding-details #tour-deiffel-bg { min-height: 570px; } }
 body#wedding-details .height-wrapper { min-height: 70%; position: relative; padding-bottom: 12.5em; }
@@ -406,7 +406,7 @@ article#registry p { text-align: left; }
 article#registry h4#honeyfund-link a span { display: inline-block; text-decoration: underline; }
 article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 
-.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
 .bgvid-container #intro .verbiage h3 { margin-bottom: 6.25rem; }
@@ -420,11 +420,11 @@ article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 @media only screen and (max-width: 25em) { .bgvid-container #intro .verbiage h1 { font-size: 1.875rem; } }
 @media only screen and (max-width: 37.5em) { .bgvid-container #intro .verbiage img { display: none; } }
 @media only screen and (max-height: 21.875em) { .bgvid-container #intro { top: 2.5em; } }
-#parallax-ring { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
+#parallax-ring { background: url("/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
 #parallax-ring .fade-out { height: 100%; width: 100%; }
 @media only screen and (max-width: 64em) { #parallax-ring { height: 100%; } }
-@media screen and (max-width: 60.625em) { #parallax-ring { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/ring/ring@970.jpg"); } }
-@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/ring/ring@650.jpg"); } }
+@media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
+@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
 
 .proposal-opportunity .map-header { position: relative; width: 100%; height: 34.375em; margin-bottom: 3.75em; }
 @media only screen and (max-width: 46.25em) { .proposal-opportunity .map-header { top: 0; position: initial; height: auto; padding-top: 18.75em; background-size: contain; background-position: center top; } }
@@ -462,7 +462,7 @@ article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 
 .full-photo { text-align: center; }
 
-#lock-bridge .map-header { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
+#lock-bridge .map-header { background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
 @media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
 @media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
 @media only screen and (max-width: 64em) { #lock-bridge .map-header { background-position: 50% top; height: 31.25em; } }
@@ -477,7 +477,7 @@ article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 @media only screen and (max-width: 53.75em) { #lock-bridge h3#selfie { font-size: 1.375em; max-width: 41.875rem; margin-bottom: 2.5rem; } }
 @media screen and (max-width: 30em) { #lock-bridge h3#selfie { font-size: 1.25rem; } }
 
-#notre-dame .map-header { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
+#notre-dame .map-header { background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
 @media only screen and (min-width: 93.813em) { #notre-dame .map-header { background-size: cover; background-position: 50%; } }
 @media only screen and (max-width: 93.75em) { #notre-dame .map-header { background-position: left; } }
 @media only screen and (max-width: 83.75em) { #notre-dame .map-header { background-position: -100px; } }
@@ -502,9 +502,9 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
   figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
 
 #louvre { text-align: center; }
-#louvre #panorama-banner { height: 31.25em; background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+#louvre #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
 #louvre #panorama-banner h2 { font-size: 3.9375em; }
-@media only screen and (max-width: 60em) { #louvre #panorama-banner { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
+@media only screen and (max-width: 60em) { #louvre #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
 
 #louvre-pyramid { margin-bottom: 3.75em; position: relative; }
 #louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
