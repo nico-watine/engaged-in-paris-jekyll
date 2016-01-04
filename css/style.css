@@ -363,6 +363,8 @@ h2.container-title { margin-bottom: 1.125rem; }
 
 h2#more-info { padding: 0 1.5rem; margin-bottom: 3.4375rem; }
 
+@media screen and (max-width: 48.125em) { address.tldr-box { font-size: 1.375em; }
+  address.tldr-box span.tiny { font-size: 1rem; } }
 @media only screen and (max-width: 33.125em) { h2#more-info { padding: 0; } }
 @media only screen and (max-width: 25em) { section.page-header h1 { font-size: 1.9375em; } }
 .nav-tabs { border-bottom: 0; padding: 0 1em; }

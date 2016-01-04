@@ -59,6 +59,15 @@ h2#more-info {
 }
 
 
+@include media($max-770) {
+	address.tldr-box {
+		font-size: $h4-size;
+
+		span.tiny {
+			font-size: rem(16);
+		}
+	}
+}
 
 @media #{$width-530} {
 	h2#more-info {
