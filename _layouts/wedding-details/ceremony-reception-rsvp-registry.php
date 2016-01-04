@@ -59,7 +59,7 @@
 			<br>
 			<h3 class="header">Time &amp; Location</h3>
 			<address class="tldr-box content-container" id="ceremony">
-				5:30PM <br>
+				<span class="time">5:30PM</span>
 				The Chapel of Divine Mercy <br>
 				<span class="tiny">located on the</span> <br>
 				St. Laurence Catholic Church Grounds
@@ -74,7 +74,7 @@
 			<br>
 			<h3 class="header">Time &amp; Location</h3>
 			<address class="tldr-box content-container" id="reception">
-				7PM <br>
+				<span class="time">7PM</span>
 				Brennan's of Houston <br>
 				<hr>
 				3300 Smith St <br>
