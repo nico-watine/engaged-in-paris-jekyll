@@ -326,10 +326,10 @@ nav ul li a { font-size: 1.125rem; color: #fff; text-shadow: 0px 0.0625rem 0.187
 nav ul li a:hover { font-weight: 700; }
 nav ul li a.active { font-weight: 700; }
 nav ul li#wedding-details, nav ul li#proposal-story { width: 11.25em; }
-@media only screen and (max-width: 400px) { nav ul li#wedding-details, nav ul li#proposal-story { width: 9.375em; }
+@media only screen and (max-width: 25em) { nav ul li#wedding-details, nav ul li#proposal-story { width: 9.375em; }
   nav ul li#wedding-details a, nav ul li#proposal-story a { font-size: 1rem; } }
 
-@media only screen and (max-width: 530px) { nav #crest-wrapper { position: initial; }
+@media only screen and (max-width: 33.125em) { nav #crest-wrapper { position: initial; }
   nav ul { padding: 0 0 0.3125em; } }
 body#index { background: url("http://cdn.nicowatine.me/wegotengagedinparis/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
@@ -411,6 +411,9 @@ article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 
 #thank-you, #thanks { outline: none; padding: 3.125rem 0 1.875rem; }
 
+@media only screen and (max-width: 49.375em) { #thank-you, #thanks { padding: 3.125rem 0 0.625rem; } }
+@media only screen and (max-width: 46.875em) { #thank-you, #thanks { padding: 3.125rem 0 0; } }
+@media only screen and (max-width: 33.125em) { #thank-you, #thanks { padding: 5rem 0 0; } }
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }

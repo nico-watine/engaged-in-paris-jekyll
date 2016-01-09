@@ -10,9 +10,33 @@
 @import "_reception.scss";
 @import "_registry.scss";
 
+$width-790: "only screen and (max-width : 49.375em)";
+$width-750: "only screen and (max-width : 46.875em)";
+$max-530: "only screen and (max-width : 33.125em)";
+
 #thank-you,
 #thanks {
 	outline: none;
-	// padding: 0 0 rem(30);
 	padding: rem(50) 0 rem(30);
+}
+
+@media #{$width-790} {
+	#thank-you,
+	#thanks {
+		padding: rem(50) 0 rem(10);
+	}
+}
+
+@media #{$width-750} {
+	#thank-you,
+	#thanks {
+		padding: rem(50) 0 0;
+	}
+}
+
+@media #{$max-530} {
+	#thank-you,
+	#thanks {
+		padding: rem(80) 0 0;
+	}
 }
