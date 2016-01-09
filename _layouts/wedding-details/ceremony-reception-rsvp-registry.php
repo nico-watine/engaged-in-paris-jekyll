@@ -15,7 +15,7 @@
 			</div>
 			<ul>
 				<li id="wedding-details">
-					<a href="/wedding-details" class="active">Wedding Details</a>
+					<a href="/wedding-details/" class="active">Wedding Details</a>
 				</li>
 				<li id="proposal-story">
 					<a href="/proposal-story">Proposal Story</a>

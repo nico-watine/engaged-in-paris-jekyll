@@ -30,7 +30,7 @@
 			</div>
 			<ul>
 				<li id="wedding-details">
-					<a href="/wedding-details" class="active">Wedding Details</a>
+					<a href="/wedding-details/" class="active">Wedding Details</a>
 				</li>
 				<li id="proposal-story">
 					<a href="/proposal-story">Proposal Story</a>
@@ -43,26 +43,22 @@
 
 <div class="height-wrapper"><div class="push-down"></div></div>
 
+
 <section class="page-header outer-container centered-text">
 	<h1 class="title white text-shadow">Wedding Details</h1>
-
-	<div id="thanks">
-		<h1 class="title white text-shadow">Thank You!</h1>
-	</div>
-
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
-			<li>
-				<a href="#ceremony" class="header normal">Ceremony</a>
-			</li>
-			<li>
-				<a href="#reception" class="header normal">Reception</a>
-			</li>
 			<li class="active">
-				<a href="#rsvp" class="header normal">RSVP</a>
+				<a data-toggle="tab" href="#ceremony" class="header normal ceremony">Ceremony</a>
 			</li>
 			<li>
-				<a href="#registry" class="header normal">Registry</a>
+				<a data-toggle="tab" href="#reception" class="header normal reception">Reception</a>
+			</li>
+			<li>
+				<a data-toggle="tab" href="#rsvp" class="header normal reception">RSVP</a>
+			</li>
+			<li>
+				<a data-toggle="tab" href="#registry" class="header normal">Registry</a>
 			</li>
 		</ul>
 	</div>
@@ -70,7 +66,7 @@
 
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
-		<article id="ceremony" class="tab-pane fade">
+		<article id="ceremony" class="tab-pane fade in active">
 			<h2 class="header">The Ceremony</h2>
 			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the <span class="inline-block">St. Laurence Catholic Church</span> grounds.</p>
 			<p class="large">St. Laurence is located at the corner of Austin Pkwy and <span class="inline-block">Sweetwater Blvd.</span> <br>The chapel is attached to the school bulding along <span class="inline-block">Austin Pkwy.</span></p>
@@ -107,7 +103,7 @@
 			<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. <br>There is an elevator.</p>
 			<br>
 		</article>
-		<article id="rsvp" class="tab-pane fade in active">
+		<article id="rsvp" class="tab-pane fade">
 			<h2 class="header">RSVP</h2>
 			<p class="large">The favor of your reply is requested by <span class="inline-block">January 20, 2016.</span></p>
 				<form name="rsvp-form" id="rsvp-form" action="/php/submit-rsvp" enctype="multipart/form-data" method="post" /> 
