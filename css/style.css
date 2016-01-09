@@ -409,7 +409,7 @@ article#registry p { text-align: left; }
 article#registry h4#honeyfund-link a span { display: inline-block; text-decoration: underline; }
 article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 
-#thank-you, #thanks { outline: none; padding: 3.125rem 0 1.875rem; }
+#thank-you, #thanks { outline: none; padding: 0 0 1.875rem; }
 
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("http://cdn.nicowatine.me/wegotengagedinparis/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }

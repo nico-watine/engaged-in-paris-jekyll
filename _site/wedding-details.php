@@ -43,26 +43,22 @@
 
 <div class="height-wrapper"><div class="push-down"></div></div>
 
+
 <section class="page-header outer-container centered-text">
 	<h1 class="title white text-shadow">Wedding Details</h1>
-
-	<div id="thanks" style="display: none;" class="modal fade" tabindex="-1" >
-		<h1 class="title white text-shadow">Thank You!</h1>
-	</div>
-
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
 			<li class="active">
-				<a href="#ceremony" class="header normal">Ceremony</a>
+				<a data-toggle="tab" href="#ceremony" class="header normal ceremony">Ceremony</a>
 			</li>
 			<li>
-				<a href="#reception" class="header normal">Reception</a>
+				<a data-toggle="tab" href="#reception" class="header normal reception">Reception</a>
 			</li>
 			<li>
-				<a href="#rsvp" class="header normal">RSVP</a>
+				<a data-toggle="tab" href="#rsvp" class="header normal reception">RSVP</a>
 			</li>
 			<li>
-				<a href="#registry" class="header normal">Registry</a>
+				<a data-toggle="tab" href="#registry" class="header normal">Registry</a>
 			</li>
 		</ul>
 	</div>
