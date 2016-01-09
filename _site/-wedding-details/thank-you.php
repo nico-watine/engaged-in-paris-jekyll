@@ -52,13 +52,13 @@
 
 	<div class="row" id="tabs">
 		<ul class="nav nav-tabs">
-			<li class="active">
+			<li>
 				<a href="#ceremony" class="header normal">Ceremony</a>
 			</li>
 			<li>
 				<a href="#reception" class="header normal">Reception</a>
 			</li>
-			<li>
+			<li class="active">
 				<a href="#rsvp" class="header normal">RSVP</a>
 			</li>
 			<li>
@@ -70,7 +70,7 @@
 
 <main class="outer-container">
 	<section class="content-container centered-text tab-content" id="main-wrapper">
-		<article id="ceremony" class="tab-pane fade in active">
+		<article id="ceremony" class="tab-pane fade">
 			<h2 class="header">The Ceremony</h2>
 			<p class="large">The wedding ceremony will be held in the Chapel of Divine Mercy, located on the <span class="inline-block">St. Laurence Catholic Church</span> grounds.</p>
 			<p class="large">St. Laurence is located at the corner of Austin Pkwy and <span class="inline-block">Sweetwater Blvd.</span> <br>The chapel is attached to the school bulding along <span class="inline-block">Austin Pkwy.</span></p>
@@ -107,7 +107,7 @@
 			<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. <br>There is an elevator.</p>
 			<br>
 		</article>
-		<article id="rsvp" class="tab-pane fade">
+		<article id="rsvp" class="tab-pane fade in active">
 			<h2 class="header">RSVP</h2>
 			<p class="large">The favor of your reply is requested by <span class="inline-block">January 20, 2016.</span></p>
 				<form name="rsvp-form" id="rsvp-form" action="/php/submit-rsvp" enctype="multipart/form-data" method="post" /> 

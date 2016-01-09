@@ -15,7 +15,7 @@
 			</div>
 			<ul>
 				<li id="wedding-details">
-					<a href="/wedding-details/" class="active">Wedding Details</a>
+					<a href="/wedding-details" class="active">Wedding Details</a>
 				</li>
 				<li id="proposal-story">
 					<a href="/proposal-story">Proposal Story</a>
@@ -31,7 +31,7 @@
 <section class="page-header outer-container centered-text">
 	<h1 class="title white text-shadow">Wedding Details</h1>
 
-	<div id="thanks">
+	<div id="thanks" style="display: none;" class="modal fade" tabindex="-1" >
 		<h1 class="title white text-shadow">Thank You!</h1>
 	</div>
 
