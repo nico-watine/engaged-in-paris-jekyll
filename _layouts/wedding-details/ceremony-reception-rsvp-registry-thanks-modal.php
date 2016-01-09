@@ -149,7 +149,7 @@
 
 
 
-{% include components/scripts/scripts.php %}
+{% include components/scripts/jquery.php %}
 <script src="{{ site.cdn_url }}<?php autoVer('/js/details-min.js'); ?>"></script>
 {% include components/scripts/google-tracking.php %}
 

@@ -132,8 +132,8 @@
 
 </div><!-- /#skrollr-body -->
 
-{% include components/scripts/scripts.php %}
-<script src="{{ site.cdn_url }}<?php autoVer('/js/scripts-min.js'); ?>"></script>
+{% include components/scripts/jquery.php %}
+<script src="{{ site.cdn_url }}<?php autoVer('/js/proposal-story-min.js'); ?>"></script>
 {% include components/scripts/google-tracking.php %}
 
 </body>

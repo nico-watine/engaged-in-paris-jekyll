@@ -143,13 +143,57 @@
 	</div>
 </section>
 
-<h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
+<section id="sacre-coeur" class="final-proposal">
+	<div class="row photo-row">
+		<figure class="in-caption" id="sacre-coeur-night">
+			<img src="/img/proposal-story/sacre-coeur/sacre-coeur.jpg" alt="Sacre-Coeur Basilica">
+			<div class="verbiage-container">
+				<h3 class="header white text-shadow">The Final Proposal</h3>
+				<h2 class="title white text-shadow">Sacré-Cœur Basilica</h2>
+			</div>
+		</figure>
+	</div>
+<!-- 	<div class="row" id="summary">
+		<div class="verbiage">
+			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
+			Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
+			When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
+		</div>
+		<div class="feature-photos">
+			<div class="photo">
+				<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
+			</div>
+			<div class="photo">
+				<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
+			</div>
+		</div>
+	</div> -->
+	<div id="summary">
+		<!-- <div class="outer-container"> -->
+			<div class="row">
+				<div class="verbiage">
+					<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
+					Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
+					When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
+				</div>
+				<div class="feature-photos">
+					<div class="photo">
+						<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
+					</div>
+					<div class="photo">
+						<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
+					</div>
+				</div>
+			</div>
+		<!-- </div> -->
+	</div>
+</section>
 
 </div><!-- /#skrollr-body -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="<?php autoVer('/js/scripts-min.js'); ?>"></script>
+<script src="<?php autoVer('/js/proposal-story-min.js'); ?>"></script>
 <!--<script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

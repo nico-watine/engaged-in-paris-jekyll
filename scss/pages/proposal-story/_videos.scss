@@ -18,6 +18,7 @@ $height-350: "only screen and (max-height : 21.875em)";
 
     #intro {
         position: absolute;
+        width: 100%;
         z-index: 2;
         top: em(100);
         text-align: center;

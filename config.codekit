@@ -65,6 +65,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_includes\/components\/scripts\/jquery.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_includes\/components\/scripts\/jquery.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_includes\/components\/scripts\/scripts.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -6120,7 +6129,7 @@
 		},
 	"\/assets\/bower_components\/skrollr\/src\/skrollr.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/skrollr\/src\/skrollr.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/skrollr\/skrollr-min.js",
@@ -6917,6 +6926,17 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
+	"\/js\/proposal-story-min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/proposal-story-min.js",
+		"outputAbbreviatedPath": "\/proposal-story-min-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
 	"\/js\/scripts-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -6934,6 +6954,17 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/src\/details.js",
 		"outputAbbreviatedPath": "\/js\/details-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/src\/proposal-story.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/src\/proposal-story.js",
+		"outputAbbreviatedPath": "\/js\/proposal-story-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -7628,6 +7659,14 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/modal.js",
 			"position": 2,
+			"type": 0
+			}
+		],
+	"\/js\/src\/proposal-story.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/skrollr\/dist\/skrollr.min.js",
+			"position": 0,
 			"type": 0
 			}
 		],
