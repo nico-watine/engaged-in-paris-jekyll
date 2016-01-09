@@ -5,18 +5,18 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<!--<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">-->
-	<title>Come Celebrate With Us! | Nico &amp; Corinne Are Engaged!</title>
-	<meta name="description" content="Come celebrate the marriage of Nico Watine &amp; Corinne Reyes!" />
+	{{ site.start_comment }}<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">{{ site.end_comment }}
+	<title>{{ page.title }} | Nico &amp; Corinne Are Engaged!</title>
+	<meta name="description" content="{{ page.description }}" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" />
+	<link rel="stylesheet" href="{{ site.cdn_url }}<?php autoVer('/css/style.css'); ?>" />
 </head>
 
 <body id="index">
 
-<img class="wedding-crest" src="/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
+<img class="wedding-crest" src="{{ site.cdn_url }}/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
 
 <nav>
 	<ul>
@@ -59,13 +59,6 @@ $(document).ready(function() {
 
 });
 </script>
-<!--<script>
-(function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
-function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
-e=o.createElement(i);r=o.getElementsByTagName(i)[0];
-e.src='https://www.google-analytics.com/analytics.js';
-r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
-ga('create','UA-55459011-7','auto');ga('send','pageview');
-</script>-->
+{% include components/scripts/google-tracking.php %}
 </body>
 </html>
