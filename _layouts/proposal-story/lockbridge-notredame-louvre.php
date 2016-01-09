@@ -31,15 +31,19 @@
 			<img src="{{ site.cdn_url }}/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 		</div>
 	</div>
-	<video autoplay loop preload="auto" poster="{{ site.cdn_url }}/img/proposal-story/video/splash/poster.jpg" class="bgvid" id="is-desktop">
+	<video autoplay loop preload="auto" poster="{{ site.cdn_url }}/img/proposal-story/video/splash/poster.jpg" class="bgvid desktop-only">
 		<source src="{{ site.cdn_url }}/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
 		<source src="{{ site.cdn_url }}/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
 	</video>
 </section>
 
 
-<section id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
+<section class="desktop-only" id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
 	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
+</section>
+
+<section class="mobile-only" id="static-ring">
+	<img src="{{ site.cdn_url }}/img/proposal-story/ring/ring-mobile.jpg" alt="Watine Family Heirloom Ring">
 </section>
 
 

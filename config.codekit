@@ -2475,6 +2475,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/proposal-story\/ring\/ring-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37502,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/ring\/ring-mobile.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/ring\/ring-mobile.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/proposal-story\/ring\/ring.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2638,17 +2649,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/js\/proposal-story-min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/proposal-story-min.js",
-		"outputAbbreviatedPath": "\/_site\/proposal-story-min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/_site\/js\/scripts-min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -2666,17 +2666,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/_site\/js\/src\/details.js",
 		"outputAbbreviatedPath": "\/_site\/js\/details-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/_site\/js\/src\/proposal-story.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/js\/src\/proposal-story.js",
-		"outputAbbreviatedPath": "\/_site\/js\/proposal-story-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -6745,6 +6734,17 @@
 		"initialSize": 277909,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/ring\/ring-mobile.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37502,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring-mobile.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/ring\/ring-mobile.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

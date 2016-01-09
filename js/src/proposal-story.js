@@ -22,8 +22,8 @@ Windows: function() { return navigator.userAgent.match(/IEMobile/i); },
 any: function() { return (isMobile.Android() || isMobile.BlackBerry() || isMobile.iOS() || isMobile.Opera() || isMobile.Windows()); } };
 
 jQuery(function($) {
-    // if (!isMobile.any())
-    // $('#is-desktop').addClass('show');
     if (isMobile.any())
-    $('#is-desktop').addClass('hide');
+    $('.desktop-only').addClass('hide');
+	if (isMobile.any())
+	$('.mobile-only').addClass('show');
 });
