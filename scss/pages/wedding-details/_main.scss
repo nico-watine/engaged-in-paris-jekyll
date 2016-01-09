@@ -35,8 +35,16 @@ address.tldr-box {
 		display: block;
 	}
 
-	span.tiny {
+	.tiny {
 		font-size: rem(22);
+	}
+
+	a#map-link {
+		text-decoration: none;
+
+		&:hover {
+			text-decoration: underline;
+		}
 	}
 }
 
@@ -68,8 +76,16 @@ h2#more-info {
 	address.tldr-box {
 		font-size: $h4-size;
 
-		span.tiny {
+		.tiny {
 			font-size: rem(16);
+		}
+
+		a#map-link {
+			text-decoration: underline;
+
+			&:hover {
+				text-decoration: none;
+			}
 		}
 	}
 }

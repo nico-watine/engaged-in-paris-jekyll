@@ -354,7 +354,9 @@ body#wedding-details .push-down { position: absolute; bottom: 0px; }
 address.tldr-box { max-width: 37.5rem; width: auto; margin: 0 auto 2.8125rem; padding: 0.875rem 1rem 1.375rem; font-size: 1.9375em; }
 address.tldr-box hr { height: 0.0625rem; margin: 1.5rem 3.125rem; }
 address.tldr-box span.time { margin-bottom: 0.625rem; display: block; }
-address.tldr-box span.tiny { font-size: 1.375rem; }
+address.tldr-box .tiny { font-size: 1.375rem; }
+address.tldr-box a#map-link { text-decoration: none; }
+address.tldr-box a#map-link:hover { text-decoration: underline; }
 
 article h2 { margin-bottom: 1.625rem; }
 
@@ -365,7 +367,9 @@ h2.container-title { margin-bottom: 1.125rem; }
 h2#more-info { padding: 0 1.5rem; margin-bottom: 3.4375rem; }
 
 @media screen and (max-width: 48.125em) { address.tldr-box { font-size: 1.375em; }
-  address.tldr-box span.tiny { font-size: 1rem; } }
+  address.tldr-box .tiny { font-size: 1rem; }
+  address.tldr-box a#map-link { text-decoration: underline; }
+  address.tldr-box a#map-link:hover { text-decoration: none; } }
 @media only screen and (max-width: 33.125em) { h2#more-info { padding: 0; } }
 @media only screen and (max-width: 25em) { section.page-header h1 { font-size: 1.9375em; } }
 .nav-tabs { border-bottom: 0; padding: 0 1em; }

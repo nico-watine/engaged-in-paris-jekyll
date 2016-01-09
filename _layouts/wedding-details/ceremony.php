@@ -68,8 +68,8 @@
 				<span class="tiny">located on the</span> <br>
 				St. Laurence Catholic Church Grounds
 				<hr>
-				3100 Sweetwater Blvd <br>
-				Sugar Land, Texas 77479
+				<a href="https://goo.gl/maps/sQA643F7VfK2" id="map-link" target="_blank">3100 Sweetwater Blvd <br>
+				Sugar Land, Texas 77479</a> <br>
 			</address>
 		</article>
 	</section>
