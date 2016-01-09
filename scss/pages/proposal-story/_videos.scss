@@ -3,6 +3,9 @@
 $max-700: "only screen and (max-width : 43.750em)";
 $width-450: "only screen and (max-width : 28.125em)";
 $width-400: "only screen and (max-width : 25.000em)";
+$h600-w400: "only screen and (max-height : 37.500em) and (max-width : 25.000em)";
+$w530-h400: "only screen and (max-width : 33.125em) and (max-height : 25.000em)";
+$w600-h350: "only screen and (max-width : 37.500em) and (max-height : 21.875em)";
 $height-600: "only screen and (max-width : 37.500em)";
 $height-350: "only screen and (max-height : 21.875em)";
 
@@ -99,6 +102,22 @@ $height-350: "only screen and (max-height : 21.875em)";
     }
 }
 
+@media #{$h600-w400} {
+    .bgvid-container {
+        min-height: em(600);
+    }
+}
+
+// @media #{$w530-h400} {
+//     .bgvid-container {
+//         min-height: em(400);
+
+//         #intro {
+//             top: em(80);
+//         }
+//     }
+// }
+
 @media #{$height-600} {
     .bgvid-container {
         #intro {
@@ -111,10 +130,30 @@ $height-350: "only screen and (max-height : 21.875em)";
     }
 }
 
+@media #{$w600-h350} {
+    .bgvid-container {
+        min-height: em(400);
+
+        #intro {
+            top: em(80);
+        }
+    }
+}
+
 @media #{$height-350} {
     .bgvid-container {
         #intro {
             top: em(40);
+        }
+    }
+}
+
+@media #{$w530-h400} {
+    .bgvid-container {
+        min-height: em(400);
+
+        #intro {
+            top: em(80);
         }
     }
 }
