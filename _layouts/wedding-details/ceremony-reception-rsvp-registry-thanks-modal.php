@@ -31,7 +31,7 @@
 <section class="page-header outer-container centered-text">
 	<h1 class="title white text-shadow">Wedding Details</h1>
 
-	<div id="thanks" style="display: none;" class="modal fade" tabindex="-1" >
+	<div id="thank-you" style="display: none;" class="modal fade" tabindex="-1" >
 		<h1 class="title white text-shadow">Thank You!</h1>
 	</div>
 

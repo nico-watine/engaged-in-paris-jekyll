@@ -11,7 +11,7 @@ $('#tabs a').click(function (e) {
 
 
 $(document).ready(function() {
-	if(window.location.href.indexOf('#thanks') != -1) {
-		$('#thanks').modal('show');
+	if(window.location.href.indexOf('#thank-you') != -1) {
+		$('#thank-you').modal('show');
 	}
 });
