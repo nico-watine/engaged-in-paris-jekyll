@@ -68,8 +68,8 @@
 				<span class="tiny">located on the</span> <br>
 				St. Laurence Catholic Church Grounds
 				<hr>
-				3100 Sweetwater Blvd <br>
-				Sugar Land, Texas 77479
+				<a href="https://goo.gl/maps/sQA643F7VfK2" id="map-link" target="_blank">3100 Sweetwater Blvd <br>
+				Sugar Land, Texas 77479</a>
 			</address>
 		</article>
 		<article id="reception" class="tab-pane fade">
@@ -81,8 +81,8 @@
 				<span class="time">7PM</span>
 				Brennan's of Houston <br>
 				<hr>
-				3300 Smith St <br>
-				Houston, Texas 77006
+				<a href="https://goo.gl/maps/QrNdCMZzP1u" id="map-link" target="_blank">3300 Smith St <br>
+				Houston, Texas 77006</a>
 			</address>
 			<h2 class="header">Venue Info</h2>
 			<h3 class="header">Parking</h3>
