@@ -119,6 +119,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/_layouts\/wedding-details\/ceremony-reception-rsvp-registry-thanks.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_layouts\/wedding-details\/ceremony-reception-rsvp-registry-thanks.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_layouts\/wedding-details\/ceremony-reception-rsvp-registry.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2941,7 +2950,7 @@
 		},
 	"\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/modal.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/modal.js",
 		"outputAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/modal-min.js",
@@ -7613,6 +7622,12 @@
 			"followForSyntaxChecking": 1,
 			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/tab.js",
 			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/bower_components\/boostrap-sass\/assets\/javascripts\/bootstrap\/modal.js",
+			"position": 2,
 			"type": 0
 			}
 		],

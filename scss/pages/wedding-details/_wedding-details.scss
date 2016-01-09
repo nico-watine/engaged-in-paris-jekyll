@@ -9,3 +9,9 @@
 @import "_ceremony.scss";
 @import "_reception.scss";
 @import "_registry.scss";
+
+#thank-you,
+#thanks {
+	outline: none;
+	padding: rem(50) 0 rem(30);
+}

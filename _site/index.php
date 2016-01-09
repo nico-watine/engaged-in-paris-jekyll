@@ -29,9 +29,6 @@
 	</ul>
 </nav>
 
-<!-- Small modal -->
-<!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button> -->
-
 <div id="myModal" class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel">
   <div class="modal-dialog modal-sm">
     <div class="modal-content">
@@ -39,14 +36,6 @@
     </div>
   </div>
 </div>
-
-<!-- <a href="#thanks-modal" class="open-popup-link">Show inline popup</a>
-
-<div id="thanks-modal" class="mfp-hide mfp-zoom-in">
-	<button title="Close (Esc)" type="button" class="mfp-close icon-close-button"></button>
-	<h2>Thanks for the message!</h2>
-	<p>I'm already responding to it, so look out for my email.</p>
-</div> -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script src="/assets/bower_components/boostrap-sass/assets/javascripts/bootstrap.js"></script>
