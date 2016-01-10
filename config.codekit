@@ -2381,6 +2381,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/proposal-story\/lock-bridge\/corinne.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 76641,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/corinne.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/corinne.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/lock-bridge\/corinne@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 193748,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/corinne@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/corinne@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/proposal-story\/lock-bridge\/lock-bridge-map.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2410,6 +2432,28 @@
 		"initialSize": 208273,
 		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/lock-bridge-view.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/lock-bridge\/selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 52491,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/selfie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/lock-bridge\/selfie@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123840,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/selfie@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/lock-bridge\/selfie@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

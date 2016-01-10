@@ -76,14 +76,14 @@
 	<div class="section-photos">
 		<div class="row photo-row double-photo">
 			<div class="photo-wrapper" id="first">
-				<img src="/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
+				<img src="/img/proposal-story/lock-bridge/selfie.jpg" srcset="/img/proposal-story/lock-bridge/selfie@2x.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
 			</div>
 			<div class="photo-wrapper" id="second">
-				<img src="/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
+				<img src="/img/proposal-story/lock-bridge/corinne.jpg" srcset="/img/proposal-story/lock-bridge/corinne@2x.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
 			</div>
 		</div>
 		<div class="row photo-row single-photo">
-			<img src="/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
+			<img src="/img/proposal-story/lock-bridge/lock-bridge.jpg" srcset="/img/proposal-story/lock-bridge/lock-bridge@2x.jpg" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
 </section>
