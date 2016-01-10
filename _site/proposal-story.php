@@ -144,15 +144,14 @@
 </section>
 
 <section id="night-time" data-bottom-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);">
-	<div class="row" id="text" data-bottom="opacity: 0; top: 20px;" data-center-top="opacity: 1; top: 240px;">
+	<div class="row" id="text" data-bottom="opacity: 0; top: 0%;" data-200-top="opacity: 1; top: 15%;" data-100-top="top: 30%;">
 		<h3 class="header white text-shadow">The Final Proposal</h3>
 		<h2 class="title white text-shadow">Sacré-Cœur Basilica</h2>
 	</div>
-	<div class="row" id="photo" data-bottom="opacity: 1; top: 0px;" data-center-top="opacity: 0; top: 240px;">
+	<div class="row" id="photo" data-bottom-top="opacity: 0; top: 25%;" data-center-top="opacity: 1; top: 5%;">
 		<img src="/img/proposal-story/sacre-coeur/sacre-coeur.jpg" alt="Sacre-Coeur Basilica">
 	</div>
 </section>
-<!-- data-top="" -->
 
 <section id="sacre-coeur-dark" class="final-proposal">
 	<div class="row photo-row">
