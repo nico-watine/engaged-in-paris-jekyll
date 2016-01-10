@@ -424,6 +424,9 @@ article#registry h4#honeyfund-link a:hover span { text-decoration: none; }
 .bgvid-container #intro .verbiage h3 { margin-bottom: 6.25rem; }
 .bgvid-container #intro .verbiage img { max-width: 3.4375em; }
 .bgvid-container .bgvid { position: absolute; z-index: 1; top: 50%; left: 50%; min-width: 100%; min-height: 100%; -webkit-transform: translateX(-50%) translateY(-50%); -ms-transform: translateX(-50%) translateY(-50%); transform: translateX(-50%) translateY(-50%); }
+.bgvid-container .gfyitem div { position: absolute !important; z-index: 1 !important; width: 100% !important; height: 100% !important; -webkit-transform: translateX(-50%); -ms-transform: translateX(-50%); transform: translateX(-50%); }
+.bgvid-container .gfyitem div canvas, .bgvid-container .gfyitem div video { min-width: 100%; min-height: 105%; top: -50px !important; left: 0 !important; }
+.bgvid-container .gfyitem.desktop-only.hide div { display: none; }
 
 @media screen and (max-width: 48.125em) { .bgvid-container #intro .verbiage h1 { margin-bottom: 1.875rem; }
   .bgvid-container #intro .verbiage h3 { margin-bottom: 3.125rem; } }

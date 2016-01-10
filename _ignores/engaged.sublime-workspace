@@ -159,7 +159,7 @@
 			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur-dark.php",
 			"settings":
 			{
-				"buffer_size": 9003,
+				"buffer_size": 9204,
 				"line_ending": "Unix"
 			}
 		},
@@ -292,11 +292,12 @@
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/guide",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story/lock-bridge",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story"
 	],
@@ -448,6 +449,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"corinne",
+			"selfie",
 			"top",
 			"21.875em",
 			"750",
@@ -573,9 +576,7 @@
 			"pre",
 			"events",
 			"event",
-			"oz",
-			"444",
-			"detail"
+			"oz"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -625,15 +626,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9003,
+						"buffer_size": 9204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5263,
-								5263
+								3669,
+								3669
 							]
 						],
 						"settings":
@@ -703,7 +704,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2642.0,
+						"translation.y": 1730.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1457,9 +1458,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "j",
+		"last_filter": "h",
 		"selected_items":
 		[
+			[
+				"h",
+				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
+			],
 			[
 				"j",
 				"~/SNC Projects/Jardin de France/Site Folder/jardindefrancetx.com/_ignores/jdftx.sublime-project"
@@ -1467,10 +1472,6 @@
 			[
 				"d",
 				"~/SNC Projects/Deck On Fountain View/Site Folder/thedeckonfountainview.com/_ignores/deck.sublime-project"
-			],
-			[
-				"h",
-				"~/SNC Projects/Houston Uncovered/Site Folder/houstonuncovered.com/_ignores/h-u.sublime-project"
 			],
 			[
 				"s",
