@@ -2577,6 +2577,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/proposal-story\/notre-dame\/notre-dame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81453,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226775,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/proposal-story\/ring\/ring-mobile.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6928,6 +6950,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/notre-dame\/_ignores\/notre-dame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.46869e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/notre-dame.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/_ignores\/notre-dame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/notre-dame\/notre-dame-facade.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6957,6 +6990,28 @@
 		"initialSize": 277909,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame-panorama.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/notre-dame.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 81453,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 226775,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/notre-dame\/notre-dame@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
