@@ -100,7 +100,7 @@
 				<img src="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
 				<div class="verbiage-container">
 					<h3 class="header">The back side of <span class="inline-block">Notre Dame</span> at dusk</h3>
-					<h4>This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
+					<h4 style="font-weight: normal;">This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
 				</div>
 			</figure>
 		</div>
@@ -116,7 +116,7 @@
 		<img src="{{ site.cdn_url }}/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
 		<!-- <img src="{{ site.cdn_url }}/img/proposal-story/louvre/pyramid.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/louvre/pyramid@2x.jpg 2x" alt="Front Facade of Notre Dame"> -->
 		<div class="verbiage-container">
-			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
+			<p class="large" style="font-weight: normal;">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
 		</div>
 	</figure>
 	<div id="louvre-gardens">
