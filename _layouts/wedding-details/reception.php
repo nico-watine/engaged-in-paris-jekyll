@@ -63,6 +63,7 @@
 			<address class="tldr-box content-container" id="reception">
 				<span class="time">7PM</span>
 				Brennan's of Houston <br>
+				<a href="http://www.brennanshouston.com/" id="map-link" target="_blank">[<span>VENUE WEBSITE</span>]</a> <br>
 				<hr>
 				3300 Smith St <br>
 				Houston, Texas 77006 <br>
