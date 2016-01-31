@@ -46,15 +46,19 @@
 			<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 		</div>
 	</div>
-	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" class="bgvid" id="is-desktop">
+	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" class="bgvid desktop-only">
 		<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
 		<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
 	</video>
 </section>
 
 
-<section id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
+<section class="desktop-only" id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
 	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
+</section>
+
+<section class="mobile-only" id="static-ring">
+	<img src="/img/proposal-story/ring/ring-mobile.jpg" alt="Watine Family Heirloom Ring">
 </section>
 
 
@@ -102,7 +106,7 @@
 	<div class="section-photos">
 		<div class="row photo-row single-photo">
 			<figure>
-				<img src="/img/proposal-story/notre-dame/notre-dame.jpg" srcset="/img/proposal-story/notre-dame/notre-dame@2x.jpg 2x" alt="Front Facade of Notre Dame">
+				<img src="/img/proposal-story/louvre/louve-pyramid.jpgproposal-story/notre-dame/notre-dame.jpg" srcset="/img/proposal-story/notre-dame/notre-dame@2x.jpg 2x" alt="Front Facade of Notre Dame">
 				<h3 class="header">The front facade of Notre Dame</h3>
 			</figure>
 		</div>
@@ -125,6 +129,7 @@
 	</div>
 	<figure id="louvre-pyramid" class="outer-container padding">
 		<img src="/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
+		<!-- <img src="/img/proposal-story/louvre/pyramid.jpg" srcset="/img/proposal-story/louvre/pyramid@2x.jpg 2x" alt="Front Facade of Notre Dame"> -->
 		<div class="verbiage-container">
 			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
 		</div>
@@ -143,51 +148,7 @@
 	</div>
 </section>
 
-<section id="sacre-coeur" class="final-proposal">
-	<div class="row photo-row">
-		<figure class="in-caption" id="sacre-coeur-night">
-			<img src="/img/proposal-story/sacre-coeur/sacre-coeur.jpg" alt="Sacre-Coeur Basilica">
-			<div class="verbiage-container">
-				<h3 class="header white text-shadow">The Final Proposal</h3>
-				<h2 class="title white text-shadow">Sacré-Cœur Basilica</h2>
-			</div>
-		</figure>
-	</div>
-<!-- 	<div class="row" id="summary">
-		<div class="verbiage">
-			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
-			Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
-			When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
-		</div>
-		<div class="feature-photos">
-			<div class="photo">
-				<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
-			</div>
-			<div class="photo">
-				<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
-			</div>
-		</div>
-	</div> -->
-	<div id="summary">
-		<!-- <div class="outer-container"> -->
-			<div class="row">
-				<div class="verbiage">
-					<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
-					Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
-					When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
-				</div>
-				<div class="feature-photos">
-					<div class="photo">
-						<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
-					</div>
-					<div class="photo">
-						<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
-					</div>
-				</div>
-			</div>
-		<!-- </div> -->
-	</div>
-</section>
+<h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
 
 </div><!-- /#skrollr-body -->
 
@@ -201,7 +162,7 @@ e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 e.src='https://www.google-analytics.com/analytics.js';
 r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 ga('create','UA-55459011-7','auto');ga('send','pageview');
-</script>-->
+</script>-->z
 
 </body>
 </html>

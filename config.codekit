@@ -2489,6 +2489,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/proposal-story\/louvre\/corinne-bench.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62710,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/corinne-bench.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/corinne-bench.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194584,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/proposal-story\/louvre\/corinne@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2533,6 +2555,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/proposal-story\/louvre\/nico-bench.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55822,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico-bench.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico-bench.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/louvre\/nico-bench@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134732,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico-bench@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico-bench@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/proposal-story\/louvre\/nico@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -2540,6 +2584,28 @@
 		"initialSize": 143343,
 		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico@2x.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/nico@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/louvre\/pyramid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105920,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/pyramid.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/pyramid.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/louvre\/pyramid@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 274456,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/pyramid@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/louvre\/pyramid@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6895,6 +6961,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/louvre\/_ignores\/IMG_0286.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6.49791e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0286.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0286.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/_ignores\/IMG_0294.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.66242e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0294.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0294.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/_ignores\/IMG_0307.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.84250e+06,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0307.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/_ignores\/IMG_0307.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/corinne-bench.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62710,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne-bench.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne-bench.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 194584,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/corinne-bench@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/louvre\/corinne@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6939,6 +7060,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/proposal-story\/louvre\/nico-bench.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 55822,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico-bench.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico-bench.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/nico-bench@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134732,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico-bench@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico-bench@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/proposal-story\/louvre\/nico@2x.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -6946,6 +7089,28 @@
 		"initialSize": 143343,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico@2x.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/nico@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/pyramid.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 105920,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/pyramid.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/pyramid.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/louvre\/pyramid@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 274456,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/louvre\/pyramid@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/louvre\/pyramid@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

@@ -65,14 +65,14 @@
 	<div class="section-photos">
 		<div class="row photo-row double-photo">
 			<div class="photo-wrapper" id="first">
-				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge-selfie.jpg" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
+				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/selfie.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/lock-bridge/selfie@2x.jpg 2x" alt="Nico &amp; Corinne Selfie on the Lock Bridge">
 			</div>
 			<div class="photo-wrapper" id="second">
-				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/corinne-posing.jpg" alt="Corinne Posing For A Photo On The Lock Bridge">
+				<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/corinne.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/lock-bridge/corinne@2x.jpg 2x" alt="Corinne Posing For A Photo On The Lock Bridge">
 			</div>
 		</div>
 		<div class="row photo-row single-photo">
-			<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge-view.jpg" alt="Side View Of The Lock Bridge">
+			<img src="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/lock-bridge/lock-bridge@2x.jpg 2x" alt="Side View Of The Lock Bridge">
 		</div>
 	</div>
 </section>
@@ -91,7 +91,7 @@
 	<div class="section-photos">
 		<div class="row photo-row single-photo">
 			<figure>
-				<img src="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame-facade.jpg" alt="Front Facade of Notre Dame">
+				<img src="{{ site.cdn_url }}/img/proposal-story/louvre/louve-pyramid.jpgproposal-story/notre-dame/notre-dame.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame@2x.jpg 2x" alt="Front Facade of Notre Dame">
 				<h3 class="header">The front facade of Notre Dame</h3>
 			</figure>
 		</div>
@@ -114,6 +114,7 @@
 	</div>
 	<figure id="louvre-pyramid" class="outer-container padding">
 		<img src="{{ site.cdn_url }}/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
+		<!-- <img src="{{ site.cdn_url }}/img/proposal-story/louvre/pyramid.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/louvre/pyramid@2x.jpg 2x" alt="Front Facade of Notre Dame"> -->
 		<div class="verbiage-container">
 			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
 		</div>
