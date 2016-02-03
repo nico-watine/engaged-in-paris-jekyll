@@ -46,19 +46,15 @@
 			<img src="/img/proposal-story/assets/circular-arrow.png" alt="Down Arrow" class="down-arrow">
 		</div>
 	</div>
-	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" class="bgvid desktop-only">
+	<video autoplay loop preload="auto" poster="/img/proposal-story/video/splash/poster.jpg" class="bgvid" id="is-desktop">
 		<source src="/img/proposal-story/video/splash/eiffel-1.webm" type="video/webm">
 		<source src="/img/proposal-story/video/splash/eiffel-1.mp4" type="video/mp4">
 	</video>
 </section>
 
 
-<section class="desktop-only" id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
+<section id="parallax-ring" data-bottom-top="background-position:20% 100%;" data-top-bottom="background-position:20% 0px;">
 	<div class="fade-out" data-center-top="background:rgba(0, 0, 0, 0);" data-bottom="background:rgba(0,0,0,1);"></div>
-</section>
-
-<section class="mobile-only" id="static-ring">
-	<img src="/img/proposal-story/ring/ring-mobile.jpg" alt="Watine Family Heirloom Ring">
 </section>
 
 
@@ -115,7 +111,7 @@
 				<img src="/img/proposal-story/notre-dame/notre-dame-panorama.jpg" alt="Back View of Notre Dame">
 				<div class="verbiage-container">
 					<h3 class="header">The back side of <span class="inline-block">Notre Dame</span> at dusk</h3>
-					<h4 style="font-weight: normal;">This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
+					<h4>This photo was taken while on a boat tour along the <span class="inline-block">Seine River.</span></h4>
 				</div>
 			</figure>
 		</div>
@@ -129,9 +125,8 @@
 	</div>
 	<figure id="louvre-pyramid" class="outer-container padding">
 		<img src="/img/proposal-story/louvre/louve-pyramid.jpg" alt="Corinne in front of the Louvre Pyramid">
-		<!-- <img src="/img/proposal-story/louvre/pyramid.jpg" srcset="/img/proposal-story/louvre/pyramid@2x.jpg 2x" alt="Front Facade of Notre Dame"> -->
 		<div class="verbiage-container">
-			<p class="large" style="font-weight: normal;">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
+			<p class="large">With its iconic glass pyramid and exhibit halls filled with masterpieces, the Louvre Museum attracts art history buffs and selfie-stickers alike. This place was packed!</p>
 		</div>
 	</figure>
 	<div id="louvre-gardens">
@@ -148,7 +143,27 @@
 	</div>
 </section>
 
-<h3 class="header" id="coming-soon">The Final Proposal Will Be Coming Next!</h3>
+<section id="sacre-coeur" class="proposal-opportunity">
+	<h1 class="title centered-text">The Final Proposal</h1>
+	<div class="map-header">
+		<article>
+			<!-- <h3 class="header">2nd Proposal Opportunity</h3> -->
+			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Monmarte.
+			<br><br>
+			Monmarte is widely known for the beautiful church atop the hill in its center - the Sacré-Cœur Basilica.
+			<br><br>
+			It was evening when they arrived at the beautifully lit church, and a choir was giving a performance. There was such an intimate feel within the church, and Nico knew this was the place.
+			<br><br>
+			He got down on one knee, proposed, and Corinne promptly blacked out. Today, she still cannot remember what he said.
+			<br><br>
+			The rest is history.</p>
+			<!-- <h2 class="title">Notre Dame Cathedral</h2>
+			<p class="large">Widely considered to be the most famous of all the cathedrals in Paris, Notre Dame is a beautiful site to behold.
+			<br><br>
+			Given that every tourist in Paris goes to the Cathedral, there were a few too many people for a proposal to be both memorable and intimate at this location.</p> -->
+		</article>
+	</div>
+</section>
 
 </div><!-- /#skrollr-body -->
 

@@ -2315,15 +2315,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2731,9 +2722,64 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 101574,
+		"initialSize": 34023,
 		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102553,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28387,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83069,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19776,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56356,
+		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -2742,31 +2788,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 80945,
+		"initialSize": 208019,
 		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
 		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 232873,
-		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/_site\/img\/proposal-story\/sacre-coeur\/selfie.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 89496,
-		"inputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/selfie.jpg",
-		"outputAbbreviatedPath": "\/_site\/img\/proposal-story\/sacre-coeur\/selfie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7318,13 +7342,112 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg": {
+	"\/img\/proposal-story\/sacre-coeur\/_ignore\/church-portrait.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 101574,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/church-portrait.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/church-portrait.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 80945,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 232873,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/sacre-coeur@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/_ignore\/selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89496,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/selfie.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/_ignore\/selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34023,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-portrait.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 102553,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-portrait@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 28387,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-selfie.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83069,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/church-selfie@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19776,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56356,
+		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur-hill@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -7333,31 +7456,9 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 80945,
+		"initialSize": 208019,
 		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
 		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 232873,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/sacre-coeur@2x.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/proposal-story\/sacre-coeur\/selfie.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 89496,
-		"inputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/selfie.jpg",
-		"outputAbbreviatedPath": "\/img\/proposal-story\/sacre-coeur\/selfie.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

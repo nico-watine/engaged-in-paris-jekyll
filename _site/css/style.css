@@ -531,10 +531,10 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
   figure#notre-dame-back .verbiage-container { position: relative; top: 0; }
   figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
 
-#louvre { text-align: center; }
-#louvre #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
-#louvre #panorama-banner h2 { font-size: 3.9375em; }
-@media only screen and (max-width: 60em) { #louvre #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
+#louvre.proposal-opportunity { text-align: center; margin-bottom: 4em; }
+#louvre.proposal-opportunity #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+#louvre.proposal-opportunity #panorama-banner h2 { font-size: 3.9375em; }
+@media only screen and (max-width: 60em) { #louvre.proposal-opportunity #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
 
 #louvre-pyramid { margin-bottom: 3.75em; position: relative; }
 #louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
@@ -549,17 +549,11 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
 
 #louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 37.5rem; }
 
-#night-time { height: 100%; }
-
-section.final-proposal #sacre-coeur-night { max-width: 62.5em; width: 100%; margin: 0 auto; }
-section.final-proposal #sacre-coeur-night .verbiage-container { text-align: left; top: 60%; left: 5%; }
-section.final-proposal #summary { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); background: #f1f1f1; padding: 3.4375em 1.5625em; }
-section.final-proposal #summary .verbiage { width: 50%; padding: 0 2.1875rem 0 0; float: left; }
-section.final-proposal #summary .verbiage p { float: right; max-width: 30rem; }
-section.final-proposal #summary .feature-photos { float: right; width: 50%; }
-section.final-proposal #summary .feature-photos .photo { float: left; display: block; margin-right: 3.57866%; width: 48.21067%; }
-section.final-proposal #summary .feature-photos .photo:last-child { margin-right: 0; }
-section.final-proposal #summary .feature-photos .photo img { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
+#sacre-coeur.proposal-opportunity h1 { margin-bottom: 2.8125rem; }
+#sacre-coeur.proposal-opportunity .map-header { background: url("/img/proposal-story/sacre-coeur/sacre-coeur.jpg") no-repeat left top; background-size: cover; height: 37.5em; }
+@media only screen and (max-width: 1445px) { #sacre-coeur.proposal-opportunity .map-header { background-size: 55em auto; } }
+@media only screen and (max-width: 1200px) { #sacre-coeur.proposal-opportunity .map-header { background-position: -100px top; } }
+#sacre-coeur.proposal-opportunity .map-header article { width: 35em; padding: 2.25em 1.875em 0; }
 
 #night-time { height: 100%; position: relative; }
 #night-time .row { width: 100%; text-align: center; position: absolute; }

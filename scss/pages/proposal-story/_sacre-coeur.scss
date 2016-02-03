@@ -1,57 +1,30 @@
 @import "../../settings/_settings.scss";
 
-#night-time {
-	height: 100%;
-}
+$max-1445: "only screen and (max-width : 1445px)";
+$max-1200: "only screen and (max-width : 1200px)";
 
-section.final-proposal {
-	
-	#sacre-coeur-night {
-		max-width: em(1000); 
-		width: 100%; 
-		margin: 0 auto;
-
-		.verbiage-container {
-			text-align: left;
-			top: 60%;
-			left: 5%;
-		}
+#sacre-coeur.proposal-opportunity {
+	h1 {
+		margin-bottom: rem(45);
 	}
 
-	#summary {
-		box-shadow: $z-3;
-		background: #f1f1f1;
-		// height: em(700);
-		padding: em(55) em(25);
+	.map-header {
+		background: url("#{$url}/img/proposal-story/sacre-coeur/sacre-coeur.jpg") no-repeat left top;
+		// background-size: auto em(600);
+		background-size: cover;
+		height: em(600);
 
-		.verbiage {
-			// max-width: em(480);
-			width: 50%;
-			padding: 0 rem(35) 0 0;
-			float: left;
-
-			p {
-				float: right;
-				max-width: rem(480);
-			}
+		@media #{$max-1445} {
+			background-size: em(880) auto;
 		}
 
-		// .verbiage,
-		.feature-photos {
-			// float: right !important;
-			float: right;
-			width: 50%;
-			// @include span-columns(9 of 16);
+		@media #{$max-1200} {
+			background-position: -100px top;
 		}
 
-		.feature-photos {
-			.photo {
-				@include span-columns(4 of 8);
-
-				img {
-					box-shadow: $z-1;
-				}
-			}
+		article {
+			width: em(560);
+			padding: em(36) em(30) 0;
 		}
 	}
 }

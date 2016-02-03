@@ -128,49 +128,25 @@
 	</div>
 </section>
 
-<section id="sacre-coeur" class="final-proposal">
-	<div class="row photo-row">
-		<figure class="in-caption" id="sacre-coeur-night">
-			<img src="{{ site.cdn_url }}/img/proposal-story/sacre-coeur/sacre-coeur.jpg" alt="Sacre-Coeur Basilica">
-			<div class="verbiage-container">
-				<h3 class="header white text-shadow">The Final Proposal</h3>
-				<h2 class="title white text-shadow">Sacré-Cœur Basilica</h2>
-			</div>
-		</figure>
-	</div>
-<!-- 	<div class="row" id="summary">
-		<div class="verbiage">
-			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
-			Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
-			When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
-		</div>
-		<div class="feature-photos">
-			<div class="photo">
-				<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
-			</div>
-			<div class="photo">
-				<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
-			</div>
-		</div>
-	</div> -->
-	<div id="summary">
-		<!-- <div class="outer-container"> -->
-			<div class="row">
-				<div class="verbiage">
-					<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards a section of the city called Monmarte, where they would be staying. <br><br>
-					Monmarte is widely known for the beautiful church on the top of the hill in its center - the Sacré-Cœur Basilica. <br><br>
-					When they arrived at the church it was evening, and they could see all of Paris lit up from this hill vista. With the church choir (conveniently) singing in the background, Nico knew this was the place.</p>
-				</div>
-				<div class="feature-photos">
-					<div class="photo">
-						<img src="/img/proposal-story/sacre-coeur/church-portrait.jpg" alt="">
-					</div>
-					<div class="photo">
-						<img src="/img/proposal-story/sacre-coeur/selfie.jpg" alt="">
-					</div>
-				</div>
-			</div>
-		<!-- </div> -->
+<section id="sacre-coeur" class="proposal-opportunity">
+	<h1 class="title centered-text">The Final Proposal</h1>
+	<div class="map-header">
+		<article>
+			<!-- <h3 class="header">2nd Proposal Opportunity</h3> -->
+			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Monmarte.
+			<br><br>
+			Monmarte is widely known for the beautiful church atop the hill in its center - the Sacré-Cœur Basilica.
+			<br><br>
+			It was evening when they arrived at the beautifully lit church, and a choir was giving a performance. There was such an intimate feel within the church, and Nico knew this was the place.
+			<br><br>
+			He got down on one knee, proposed, and Corinne promptly blacked out. Today, she still cannot remember what he said.
+			<br><br>
+			The rest is history.</p>
+			<!-- <h2 class="title">Notre Dame Cathedral</h2>
+			<p class="large">Widely considered to be the most famous of all the cathedrals in Paris, Notre Dame is a beautiful site to behold.
+			<br><br>
+			Given that every tourist in Paris goes to the Cathedral, there were a few too many people for a proposal to be both memorable and intimate at this location.</p> -->
+		</article>
 	</div>
 </section>
 
