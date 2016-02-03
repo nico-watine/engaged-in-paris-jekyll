@@ -72,6 +72,9 @@
 				Sugar Land, Texas 77479<br>
 				<a href="https://goo.gl/maps/MWiXuqWRQyz" id="map-link" target="_blank">[<span>MAP LINK</span>]</a>
 			</address>
+			<img src="{{ site.cdn_url }}/img/wedding-details/school-building.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/school-building@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
+			<img src="{{ site.cdn_url }}/img/wedding-details/school-pano.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/school-pano@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
+			<img src="{{ site.cdn_url }}/img/wedding-details/chapel-entrance.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/chapel-entrance@2x.jpg 2x" alt="" style="max-width: 300px;">
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2 class="header">The Reception</h2>

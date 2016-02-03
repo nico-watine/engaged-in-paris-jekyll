@@ -91,7 +91,7 @@
 	<div class="section-photos">
 		<div class="row photo-row single-photo">
 			<figure>
-				<img src="{{ site.cdn_url }}/img/proposal-story/louvre/louve-pyramid.jpgproposal-story/notre-dame/notre-dame.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame@2x.jpg 2x" alt="Front Facade of Notre Dame">
+				<img src="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame.jpg" srcset="{{ site.cdn_url }}/img/proposal-story/notre-dame/notre-dame@2x.jpg 2x" alt="Front Facade of Notre Dame">
 				<h3 class="header">The front facade of Notre Dame</h3>
 			</figure>
 		</div>
@@ -139,7 +139,7 @@
 
 {% include components/scripts/jquery.php %}
 <script src="{{ site.cdn_url }}<?php autoVer('/js/proposal-story-min.js'); ?>"></script>
-{% include components/scripts/google-tracking.php %}z
+{% include components/scripts/google-tracking.php %}
 
 </body>
 </html>

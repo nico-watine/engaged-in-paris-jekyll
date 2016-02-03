@@ -2335,6 +2335,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/fonts\/avenir-next\/font.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/_site\/fonts\/avenir-next\/font.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/_site\/googlecc7a9b7996f6ec6a.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -2784,6 +2793,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/wedding-details\/chapel-entrance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35869,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/chapel-entrance.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/chapel-entrance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/chapel-entrance@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140733,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/chapel-entrance@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/chapel-entrance@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/wedding-details\/chapel-map@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -2824,6 +2855,50 @@
 		"initialSize": 692454,
 		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/church-street@2x.png",
 		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/church-street@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/school-building.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82550,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-building.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-building.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/school-building@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287461,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-building@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-building@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/school-pano.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59945,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-pano.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-pano.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/school-pano@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224081,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-pano@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/school-pano@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -6763,6 +6838,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/fonts\/avenir-next\/font.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/fonts\/avenir-next\/font.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/googlecc7a9b7996f6ec6a.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -7300,6 +7384,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/wedding-details\/chapel-entrance.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35869,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/chapel-entrance.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/chapel-entrance.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/chapel-entrance@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 140733,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/chapel-entrance@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/chapel-entrance@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/wedding-details\/chapel-map@2x.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7340,6 +7446,50 @@
 		"initialSize": 692454,
 		"inputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
 		"outputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/school-building.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82550,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/school-building.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/school-building.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/school-building@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 287461,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/school-building@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/school-building@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/school-pano.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 59945,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/school-pano.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/school-pano.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/school-pano@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224081,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/school-pano@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/school-pano@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
