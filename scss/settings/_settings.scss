@@ -1,5 +1,5 @@
-// $url:null;
-$url:'http://cdn.nicowatine.me/wegotengagedinparis';
+$url:null;
+// $url:'http://cdn.nicowatine.me/wegotengagedinparis';
 
 // url('#{$url}/img...')
 
@@ -13,8 +13,7 @@ $baseline: 1.4rem; //22px
 $header-font-family: 'Playfair Display SC', serif;
 $header-font-weight: 400;
 $title-font-weight: 700;
-// $body-font-family: 'Open Sans', sans-serif;
-$body-font-family: 'AvenirNext Regular', sans-serif;
+$body-font-family: 'AvenirNext Regular', 'Open Sans', sans-serif;
 $body-font-weight: 300;
 
 $p-size: em(16); 

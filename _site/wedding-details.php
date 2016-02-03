@@ -5,13 +5,13 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">
+	<!--<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">-->
 	<title>Wedding Details | Nico &amp; Corinne Are Engaged!</title>
 	<meta name="description" content="All info regarding the mass and reception can be found on this page." />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.nicowatine.me/wegotengagedinparis<?php autoVer('/css/style.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" />
 
 </head>
 
@@ -25,7 +25,7 @@
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
-					<img src="http://cdn.nicowatine.me/wegotengagedinparis/img/badge/nav-badge.png" alt="Mini Crest">
+					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
 				</a>
 			</div>
 			<ul>
@@ -87,9 +87,9 @@
 				Sugar Land, Texas 77479<br>
 				<a href="https://goo.gl/maps/MWiXuqWRQyz" id="map-link" target="_blank">[<span>MAP LINK</span>]</a>
 			</address>
-			<img src="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/school-building.jpg" srcset="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/school-building@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
-			<img src="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/school-pano.jpg" srcset="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/school-pano@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
-			<img src="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/chapel-entrance.jpg" srcset="http://cdn.nicowatine.me/wegotengagedinparis/img/wedding-details/chapel-entrance@2x.jpg 2x" alt="" style="max-width: 300px;">
+			<img src="/img/wedding-details/school-building.jpg" srcset="/img/wedding-details/school-building@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
+			<img src="/img/wedding-details/school-pano.jpg" srcset="/img/wedding-details/school-pano@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
+			<img src="/img/wedding-details/chapel-entrance.jpg" srcset="/img/wedding-details/chapel-entrance@2x.jpg 2x" alt="" style="max-width: 300px;">
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2 class="header">The Reception</h2>
@@ -172,15 +172,15 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
-<script src="http://cdn.nicowatine.me/wegotengagedinparis<?php autoVer('/js/details-min.js'); ?>"></script>
-<script>
+<script src="<?php autoVer('/js/details-min.js'); ?>"></script>
+<!--<script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 e.src='https://www.google-analytics.com/analytics.js';
 r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 ga('create','UA-55459011-7','auto');ga('send','pageview');
-</script>
+</script>-->
 
 </body>
 </html>
