@@ -146,6 +146,7 @@
 <section id="sacre-coeur" class="proposal-opportunity">
 	<h1 class="title centered-text">The Final Proposal</h1>
 	<div class="map-header">
+		<h2 class="title white text-shadow"><span>Sacré-Cœur</span> Basilica</h2>
 		<article>
 			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Monmarte.
 			<br><br>

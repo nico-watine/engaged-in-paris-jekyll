@@ -18,6 +18,18 @@ $max-740: "only screen and (max-width : 46.25em)";
 		background-size: em(900);
 		height: em(600);
 
+		h2 {
+			position: absolute;
+			right: rem(600);
+			top: rem(60);
+			padding-left: rem(30);
+			min-width: rem(330);
+
+			span {
+				display: inline-block;
+			}
+		}
+
 		@media #{$max-1445} {
 			background-size: em(900) auto;
 			width: 100%;
@@ -25,6 +37,11 @@ $max-740: "only screen and (max-width : 46.25em)";
 
 		@media #{$max-1200} {
 			background-position: -100px top;
+
+			h2 {
+				left: rem(30);
+				padding: 0;
+			}
 		}
 
 		article {
@@ -40,6 +57,12 @@ $max-740: "only screen and (max-width : 46.25em)";
 
 		@media #{$max-960} {
 			height: em(520);
+			background-size: auto em(520);
+		}
+
+		@include media($max-770) {
+			height: em(450);
+			background-size: auto em(450);
 		}
 
 		@media #{$max-740} {
@@ -47,10 +70,20 @@ $max-740: "only screen and (max-width : 46.25em)";
 			background-position: 50%;
 			padding-top: em(500);
 			width: 100%;
+			position: relative;
+
+			h2 {
+				position: relative;
+				top: rem(-400);
+				left: 0;
+				text-align: center;
+				padding: 0 rem(16);
+				width: 100%;
+			}
 
 			article {
 				width: 100%;
-				padding: em(20);
+				padding: 0 em(20) em(20);
 			}
 		}
 	}

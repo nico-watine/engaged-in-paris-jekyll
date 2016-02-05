@@ -74,7 +74,7 @@
 			</address>
 			<img src="{{ site.cdn_url }}/img/wedding-details/school-building.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/school-building@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
 			<img src="{{ site.cdn_url }}/img/wedding-details/school-pano.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/school-pano@2x.jpg 2x" alt="" style="margin-bottom: 50px;">
-			<img src="{{ site.cdn_url }}/img/wedding-details/chapel-entrance.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/chapel-entrance@2x.jpg 2x" alt="" style="max-width: 300px;">
+			<img src="{{ site.cdn_url }}/img/wedding-details/chapel-entrance.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/chapel-entrance@2x.jpg 2x" alt="" style="max-width: 300px; width: 100%;">
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2 class="header">The Reception</h2>
