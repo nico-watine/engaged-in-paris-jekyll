@@ -2,6 +2,9 @@
 
 $max-1445: "only screen and (max-width : 1445px)";
 $max-1200: "only screen and (max-width : 1200px)";
+$max-1024: "only screen and (max-width : 64em)";
+$max-960: "only screen and (max-width : 60em)";
+$max-740: "only screen and (max-width : 46.25em)";
 
 #sacre-coeur.proposal-opportunity {
 	h1 {
@@ -10,12 +13,14 @@ $max-1200: "only screen and (max-width : 1200px)";
 
 	.map-header {
 		background: url("#{$url}/img/proposal-story/sacre-coeur/sacre-coeur.jpg") no-repeat left top;
-		// background-size: auto em(600);
-		background-size: cover;
+		width: em(1445);
+		margin: 0 auto;
+		background-size: em(900);
 		height: em(600);
 
 		@media #{$max-1445} {
-			background-size: em(880) auto;
+			background-size: em(900) auto;
+			width: 100%;
 		}
 
 		@media #{$max-1200} {
@@ -25,6 +30,28 @@ $max-1200: "only screen and (max-width : 1200px)";
 		article {
 			width: em(560);
 			padding: em(36) em(30) 0;
+		}
+
+		@media #{$max-1024} {
+			article {
+				width: em(400);
+			}
+		}
+
+		@media #{$max-960} {
+			height: em(520);
+		}
+
+		@media #{$max-740} {
+			background-size: cover;
+			background-position: 50%;
+			padding-top: em(500);
+			width: 100%;
+
+			article {
+				width: 100%;
+				padding: em(20);
+			}
 		}
 	}
 }

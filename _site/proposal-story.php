@@ -147,7 +147,6 @@
 	<h1 class="title centered-text">The Final Proposal</h1>
 	<div class="map-header">
 		<article>
-			<!-- <h3 class="header">2nd Proposal Opportunity</h3> -->
 			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Monmarte.
 			<br><br>
 			Monmarte is widely known for the beautiful church atop the hill in its center - the Sacré-Cœur Basilica.
@@ -157,10 +156,6 @@
 			He got down on one knee, proposed, and Corinne promptly blacked out. Today, she still cannot remember what he said.
 			<br><br>
 			The rest is history.</p>
-			<!-- <h2 class="title">Notre Dame Cathedral</h2>
-			<p class="large">Widely considered to be the most famous of all the cathedrals in Paris, Notre Dame is a beautiful site to behold.
-			<br><br>
-			Given that every tourist in Paris goes to the Cathedral, there were a few too many people for a proposal to be both memorable and intimate at this location.</p> -->
 		</article>
 	</div>
 </section>
