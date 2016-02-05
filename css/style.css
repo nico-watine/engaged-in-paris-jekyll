@@ -557,9 +557,9 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
 @media only screen and (max-width: 64em) { #sacre-coeur.proposal-opportunity .map-header article { width: 25em; } }
 @media only screen and (max-width: 60em) { #sacre-coeur.proposal-opportunity .map-header { height: 32.5em; background-size: auto 32.5em; } }
 @media screen and (max-width: 48.125em) { #sacre-coeur.proposal-opportunity .map-header { height: 28.125em; background-size: auto 28.125em; } }
-@media only screen and (max-width: 46.25em) { #sacre-coeur.proposal-opportunity .map-header { background-size: cover; background-position: 50%; padding-top: 31.25em; width: 100%; position: relative; }
-  #sacre-coeur.proposal-opportunity .map-header h2 { position: relative; top: -25rem; left: 0; text-align: center; padding: 0 1rem; width: 100%; }
-  #sacre-coeur.proposal-opportunity .map-header article { width: 100%; padding: 0 1.25em 1.25em; } }
+@media only screen and (max-width: 46.25em) { #sacre-coeur.proposal-opportunity .map-header { background-size: cover; background-position: 50%; padding-top: 21.875em; width: 100%; position: relative; }
+  #sacre-coeur.proposal-opportunity .map-header h2 { position: relative; top: -15.625rem; left: 0; text-align: center; padding: 0; min-width: initial; }
+  #sacre-coeur.proposal-opportunity .map-header article { width: 100%; padding: 1.25em; margin-bottom: 2.5em; } }
 
 #night-time { height: 100%; position: relative; }
 #night-time .row { width: 100%; text-align: center; position: absolute; }

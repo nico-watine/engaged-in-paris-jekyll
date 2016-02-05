@@ -13,6 +13,13 @@ if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAg
     });
 }
 
+// if(!(/Android|iPhone|iPad|iPod|BlackBerry|Windows Phone/i).test(navigator.userAgent || navigator.vendor || window.opera)){
+//     skrollr.init({
+//         forceHeight: false,
+//         smoothScrolling: true
+//     });
+// }
+
 var isMobile = { 
 Android: function() { return navigator.userAgent.match(/Android/i); }, 
 BlackBerry: function() { return navigator.userAgent.match(/BlackBerry/i); }, 

@@ -68,22 +68,23 @@ $max-740: "only screen and (max-width : 46.25em)";
 		@media #{$max-740} {
 			background-size: cover;
 			background-position: 50%;
-			padding-top: em(500);
+			padding-top: em(350);
 			width: 100%;
 			position: relative;
 
 			h2 {
 				position: relative;
-				top: rem(-400);
+				top: rem(-250);
 				left: 0;
 				text-align: center;
-				padding: 0 rem(16);
-				width: 100%;
+				padding: 0;
+				min-width: initial;
 			}
 
 			article {
 				width: 100%;
-				padding: 0 em(20) em(20);
+				padding: em(20);
+				margin-bottom: em(40);
 			}
 		}
 	}
