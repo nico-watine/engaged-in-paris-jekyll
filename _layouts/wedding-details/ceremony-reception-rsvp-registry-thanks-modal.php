@@ -93,10 +93,17 @@
 			<h2 class="header">Venue Info</h2>
 			<h3 class="header">Parking</h3>
 			<p class="large"><strong>Street Parking</strong> is available on a first come first serve basis. Because Brennan’s of Houston is located in Midtown, street parking can sometimes be scarce. <br><strong>Valet Parking</strong> is available for $5.</p>
-			<br>
+			<img src="{{ site.cdn_url }}/img/wedding-details/reception/brennans-street.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/reception/brennans-street@2x.jpg" alt="Brennan's Street View" id="brennans-street">
 			<h3 class="header">Event Details</h3>
 			<p class="large">The Reception is in the Ball Room on the second floor of the restaurant. <br>There is an elevator.</p>
-			<br>
+			<div class="row">
+				<div class="half-wrapper">
+					<img src="{{ site.cdn_url }}/img/wedding-details/reception/exterior.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/reception/exterior@2x.jpg" alt="Brennan's Exterior View" id="exterior">
+				</div>
+				<div class="half-wrapper">
+					<img src="{{ site.cdn_url }}/img/wedding-details/reception/ballroom.jpg" srcset="{{ site.cdn_url }}/img/wedding-details/reception/ballroom@2x.jpg" alt="Brennan's Upstairs Ballroom" id="ballroom">
+				</div>
+			</div>
 		</article>
 		<article id="rsvp" class="tab-pane fade">
 			<h2 class="header">RSVP</h2>

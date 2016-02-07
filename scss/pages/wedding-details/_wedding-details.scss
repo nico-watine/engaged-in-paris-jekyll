@@ -40,3 +40,14 @@ $max-530: "only screen and (max-width : 33.125em)";
 		padding: rem(80) 0 0;
 	}
 }
+
+body#wedding-details {
+	article {
+		img {
+			border: em(3) solid #fff;
+			box-shadow: $z-2;
+			margin-bottom: em(30);
+		}
+	}
+}
+

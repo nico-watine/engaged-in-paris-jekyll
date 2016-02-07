@@ -2,12 +2,6 @@
 
 
 article#reception {
-	img {
-		border: em(3) solid #fff;
-		box-shadow: $z-2;
-		margin-bottom: em(30);
-	}
-
 	.half-wrapper {
 		@include span-columns(7 of 14);
 	}
