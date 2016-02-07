@@ -1,5 +1,33 @@
 @import "../../settings/_settings.scss";
 
 
+article#reception {
+	img {
+		border: em(3) solid #fff;
+		box-shadow: $z-2;
+		margin-bottom: em(30);
+	}
 
+	.half-wrapper {
+		@include span-columns(7 of 14);
+	}
+}
 
+img#brennans-street {
+	max-width: em(880);
+	width: 100%;
+}
+
+img#exterior,
+img#ballroom {
+	max-width: em(475);
+	width: 100%;
+}
+
+@include media($max-610) {
+	article#reception {
+		.half-wrapper {
+			@include span-columns(6 of 6);
+		}
+	}
+}

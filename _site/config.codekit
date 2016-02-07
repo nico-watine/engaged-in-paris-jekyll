@@ -2892,6 +2892,72 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/wedding-details\/reception\/ballroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46002,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/ballroom.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/ballroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/reception\/ballroom@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61261,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/ballroom@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/ballroom@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/reception\/brennans-street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85284,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/brennans-street.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/brennans-street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/reception\/brennans-street@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160443,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/reception\/exterior.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56339,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/exterior.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/exterior.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-details\/reception\/exterior@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167666,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/exterior@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-details\/reception\/exterior@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/wedding-details\/school-building.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7556,6 +7622,72 @@
 		"initialSize": 692454,
 		"inputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
 		"outputAbbreviatedPath": "\/img\/wedding-details\/church-street@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/ballroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46002,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/ballroom.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/ballroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/ballroom@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 61261,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/ballroom@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/ballroom@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/brennans-street.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 85284,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/brennans-street.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/brennans-street.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/brennans-street@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 160443,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/brennans-street@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/exterior.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 56339,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/exterior.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/exterior.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-details\/reception\/exterior@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 167666,
+		"inputAbbreviatedPath": "\/img\/wedding-details\/reception\/exterior@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-details\/reception\/exterior@2x.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
