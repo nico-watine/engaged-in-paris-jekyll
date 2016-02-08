@@ -78,7 +78,7 @@
 		</article>
 		<article id="reception" class="tab-pane fade">
 			<h2 class="header">The Reception</h2>
-			<p class="large">The Reception is to be held at <span class="inline">Brennan’s of Houston.</span> <br>Festivities begin at 7PM.</p>
+			<p class="large">The Reception is to be held at <span class="inline">Brennan’s of Houston.</span> <br>Festivities begin at 7PM. <br>Attire is Black Tie Optional.</p>
 			<br>
 			<h3 class="header">Time &amp; Location</h3>
 			<address class="tldr-box content-container" id="reception">
