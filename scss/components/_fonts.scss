@@ -8,7 +8,7 @@
 @font-face {
   font-family: 'AvenirNext Regular';
   src: url('#{$url}/fonts/avenir-next/avenir-next-regular.eot'); /* IE9 Compat Modes */
-  src: url('#{$url}/fonts/avenir-next/avenir-next-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  src: url('#{$url}/fonts/avenir-next/avenir-next-regular.eot?iefix') format('embedded-opentype'), /* IE6-IE8 */
        url('#{$url}/fonts/avenir-next/avenir-next-regular.woff') format('woff'), /* Modern Browsers */
        url('#{$url}/fonts/avenir-next/avenir-next-regular.ttf')  format('truetype'), /* Safari, Android, iOS */
        url('#{$url}/fonts/avenir-next/avenir-next-regular.svg#fa20c367c6a148cda65f50238befb5f2') format('svg'); /* Legacy iOS */
@@ -16,3 +16,4 @@
   font-style:   normal;
   font-weight:  400;
 }
+

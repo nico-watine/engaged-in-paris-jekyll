@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"index",
+				"index/"
+			],
+			[
+				"extra",
+				"_extras.scss"
+			],
+			[
+				"font",
+				"_fonts.scss"
+			],
+			[
 				"med",
 				"mediaq	@media"
 			],
@@ -155,126 +167,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/proposal-story.js",
-			"settings":
-			{
-				"buffer_size": 1242,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
-			"settings":
-			{
-				"buffer_size": 628,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/shim.html",
-			"settings":
-			{
-				"buffer_size": 740,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur.php",
-			"settings":
-			{
-				"buffer_size": 7102,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_sacre-coeur.scss",
-			"settings":
-			{
-				"buffer_size": 1591,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre.php",
-			"settings":
-			{
-				"buffer_size": 6532,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/jquery.php",
-			"settings":
-			{
-				"buffer_size": 199,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_config.yml",
-			"settings":
-			{
-				"buffer_size": 492,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
-			"settings":
-			{
-				"buffer_size": 972,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/head.php",
-			"settings":
-			{
-				"buffer_size": 624,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
-			"settings":
-			{
-				"buffer_size": 252,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur-dark.php",
-			"settings":
-			{
-				"buffer_size": 9204,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
-			"settings":
-			{
-				"buffer_size": 541,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_videos.scss",
-			"settings":
-			{
-				"buffer_size": 3115,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_gfycat.scss",
-			"settings":
-			{
-				"buffer_size": 3758,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -385,47 +277,42 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/examples",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/examples/docu",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/src",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/img/proposal-story/sacre-coeur",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story"
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris"
 	],
 	"file_history":
 	[
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/jquery.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_lock-bridge.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_config.yml",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_fonts.scss",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/.htaccess",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_site/.htaccess",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
+		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/dev/index.html",
+		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/scss/components/_fonts.scss",
+		"/Users/nico/Web Development/Foundation/Foundation 6/foundation-6.static/humans.txt",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/scss/components/_extras.scss",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/scss/app.scss",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/css/app.css",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/scss/components/extras/_code-blocks.scss",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/bower_components/foundation/scss/foundation/components/_grid.scss",
+		"/Users/nico/Web Development/Foundation/Foundation 5/foundation-5.static/_ignores/foundation-5-boilerplate.sublime-project",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony.php",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/jquery.php",
+		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_lock-bridge.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_sacre-coeur.scss",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_typography.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-opportunity-section.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony-reception-rsvp-registry.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/wedding-details.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony-reception-rsvp-registry-thanks-modal.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_louvre-gardens.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_notre-dame.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/wedding-details/_main.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/reception.php",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/wedding-details/ceremony.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_ignores/short-urls.txt",
-		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/components/_fonts.scss",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/head.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre.php",
 		"/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/fonts/font.css",
@@ -494,7 +381,6 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/index2/_index2.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/index.php",
-		"/Users/nico/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/index/_index.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/neat/_grid-settings.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/index/_footer.scss",
@@ -522,18 +408,7 @@
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/what-we-do/_main.scss",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/what-we-do/index.php",
 		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/what-we-do/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/portfolio/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/about-us/_header.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/portfolio/_portfolio.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/about-us/_about-us.scss",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/portfolio/jardin-de-france.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/contact/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/about-us/index.php",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/google-tracking-id.txt",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/js/src/nav.js",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/assets/bower_components/animate.css/source/fading_exits/fadeOutDown.css",
-		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/contact/_contact.scss"
+		"/Users/nico/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/scss/style/pages/portfolio/_header.scss"
 	],
 	"find":
 	{
@@ -552,6 +427,38 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Monmarte",
+			"image",
+			"HAVES",
+			"lineh",
+			"line",
+			"height",
+			"line-h",
+			"width",
+			"bower_components",
+			"medium-6",
+			"large-16",
+			"body ",
+			"img",
+			"canvas ",
+			"video",
+			" video ",
+			"video ",
+			"vertical-align: mi",
+			"textarea",
+			"primary-color",
+			"spacing",
+			"optim",
+			"line-height",
+			"body-font-family",
+			"33",
+			"one-third",
+			"large-12",
+			"1000",
+			"12",
+			"column",
+			"gutt",
+			"img-",
 			"Cœur",
 			"Sacré",
 			"h1",
@@ -647,39 +554,7 @@
 			"scale3d",
 			"4",
 			"1",
-			"23",
-			"1.5",
-			"absolute",
-			"washington",
-			"10",
-			"//",
-			"1450",
-			"1700",
-			"width",
-			"span",
-			"17px",
-			"0px",
-			"2px",
-			"0px",
-			"free-intuitive-spontaneous",
-			"Free, Intuitive, Spontaneous",
-			"lyri",
-			"new",
-			"new-artworks",
-			"free-intuitive-spontaneous",
-			"new-artworks",
-			"map",
-			"eee",
-			"crawfish",
-			"RELOCATE",
-			"#thedeckonfountainview",
-			"1",
-			"3",
-			"specials",
-			"lightness",
-			"h1",
-			"burger",
-			"gr"
+			"23"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -687,6 +562,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"large-12",
 			"#{$url}/img",
 			"<ul class=\"footer-menu\">",
 			"header",
@@ -720,1344 +596,14 @@
 	"groups":
 	[
 		{
-			"selected": 8,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/js/src/proposal-story.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1242,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								513,
-								513
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_parallax-ring.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 628,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								323,
-								323
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 46.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 9,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/assets/bower_components/skrollr/shim.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 740,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 10,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7102,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								266,
-								266
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_sacre-coeur.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1591,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1299,
-								1299
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 266.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 6532,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								33,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/scripts/jquery.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 199,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								199
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_config.yml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								492,
-								415
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/YAML/YAML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/settings/_settings.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 972,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								14,
-								14
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 9,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_includes/components/head.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 624,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								624
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 10,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/proposal-story.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 252,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								58,
-								58
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 11,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur-dark.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 9204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 364.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 14,
-					"type": "text"
-				},
-				{
-					"buffer": 12,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_proposal-story.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 541,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								352,
-								352
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 11,
-					"type": "text"
-				},
-				{
-					"buffer": 13,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_videos.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3115,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2510,
-								2510
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2257.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 12,
-					"type": "text"
-				},
-				{
-					"buffer": 14,
-					"file": "/Users/nico/SNC Projects/WeGotEngagedIn.Paris/Site Folder/wegotengagedin.paris/scss/pages/proposal-story/_gfycat.scss",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3758,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"BracketHighlighterBusy": false,
-							"bh_regions":
-							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content"
-							],
-							"color_scheme": "Packages/User/Color Highlighter/themes/base-16.ocean-dark(custom).tmTheme",
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 13,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 29.0
 	},
 	"input":
 	{
@@ -2094,7 +640,7 @@
 	"project": "engaged.sublime-project",
 	"replace":
 	{
-		"height": 68.0
+		"height": 54.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -2104,20 +650,140 @@
 		"selected_items":
 		[
 			[
+				"htac",
+				"_site/.htaccess"
+			],
+			[
+				"fonts",
+				"scss/components/_fonts.scss"
+			],
+			[
 				"set",
 				"scss/settings/_settings.scss"
+			],
+			[
+				"con",
+				"_config.yml"
+			],
+			[
+				"lous",
+				"_layouts/proposal-story/lockbridge-notredame-louvre-sacrecoeur.php"
+			],
+			[
+				"pro",
+				"proposal-story.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"appj",
+				"js/app.js"
+			],
+			[
+				"grip",
+				"dev/grid.php"
+			],
+			[
+				"typo",
+				"dev/typography.php"
+			],
+			[
+				"apps",
+				"scss/app.scss"
+			],
+			[
+				"devsc",
+				"scss/dev/_grid.scss"
+			],
+			[
+				"hu",
+				"humans.txt"
+			],
+			[
+				"aps",
+				"scss/app.scss"
+			],
+			[
+				"a",
+				"scss/app.scss"
+			],
+			[
+				"app",
+				"scss/app.scss"
+			],
+			[
+				"appcs",
+				"css/app.css"
+			],
+			[
+				"appc",
+				"css/app.css"
+			],
+			[
+				"code",
+				"scss/components/extras/_code-blocks.scss"
+			],
+			[
+				"gridscs",
+				"bower_components/foundation/scss/foundation/components/_grid.scss"
+			],
+			[
+				"gris",
+				"scss/dev/_grid.scss"
 			],
 			[
 				"conf",
 				"_config.yml"
 			],
 			[
-				"sac",
-				"scss/pages/proposal-story/_sacre-coeur.scss"
+				"thankmo",
+				"_layouts/wedding-details/ceremony-reception-rsvp-registry-thanks-modal.php"
 			],
 			[
-				"pro",
-				"proposal-story.php"
+				"wedp",
+				"wedding-details.php"
+			],
+			[
+				"wedbo",
+				"scss/pages/wedding-details/_body.scss"
+			],
+			[
+				"rece",
+				"_layouts/wedding-details/reception.php"
+			],
+			[
+				"wed",
+				"wedding-details.php"
+			],
+			[
+				"grise",
+				"assets/neat/_grid-settings.scss"
+			],
+			[
+				"wedmai",
+				"scss/pages/wedding-details/_main.scss"
+			],
+			[
+				"detsbo",
+				"scss/pages/wedding-details/_body.scss"
+			],
+			[
+				"detasc",
+				"scss/pages/wedding-details/_wedding-details.scss"
+			],
+			[
+				"recepsc",
+				"scss/pages/wedding-details/_reception.scss"
+			],
+			[
+				"wedd",
+				"wedding-details.php"
+			],
+			[
+				"sac",
+				"scss/pages/proposal-story/_sacre-coeur.scss"
 			],
 			[
 				"proj",
@@ -2164,10 +830,6 @@
 				"_layouts/wedding-details/ceremony-reception-rsvp-registry-thanks-modal.php"
 			],
 			[
-				"wedd",
-				"wedding-details.php"
-			],
-			[
 				"cere",
 				"_layouts/wedding-details/ceremony-reception-rsvp-registry.php"
 			],
@@ -2192,28 +854,12 @@
 				"scss/pages/proposal-story/_lock-bridge.scss"
 			],
 			[
-				"typo",
-				"scss/components/_typography.scss"
-			],
-			[
 				"notr",
 				"scss/pages/proposal-story/_notre-dame.scss"
 			],
 			[
 				"louv",
 				"scss/pages/proposal-story/_louvre-gardens.scss"
-			],
-			[
-				"fonts",
-				"scss/components/_fonts.scss"
-			],
-			[
-				"wedmai",
-				"scss/pages/wedding-details/_main.scss"
-			],
-			[
-				"wed",
-				"wedding-details.php"
 			],
 			[
 				"fon",
@@ -2289,10 +935,6 @@
 			],
 			[
 				"",
-				"_config.yml"
-			],
-			[
-				"con",
 				"_config.yml"
 			],
 			[
@@ -2460,10 +1102,6 @@
 				"assets/neat/settings/_visual-grid.scss"
 			],
 			[
-				"wedp",
-				"wedding-details.php"
-			],
-			[
 				"visu",
 				"assets/neat/settings/_visual-grid.scss"
 			],
@@ -2504,10 +1142,6 @@
 				"rsvp.php"
 			],
 			[
-				"rece",
-				"reception.php"
-			],
-			[
 				"ut",
 				"scss/components/_utility-classes.scss"
 			],
@@ -2520,100 +1154,12 @@
 				"scss/components/_typography.scss"
 			],
 			[
-				"in",
-				"index.php"
-			],
-			[
 				"co",
 				"_config.yml"
 			],
 			[
 				"config",
 				"_config.yml"
-			],
-			[
-				"grise",
-				"assets/neat/_grid-settings.scss"
-			],
-			[
-				"proved",
-				"scss/pages/proposal-story/_videos.scss"
-			],
-			[
-				"propara",
-				"scss/pages/proposal-story/_parallax-ring.scss"
-			],
-			[
-				"sc",
-				"js/src/scripts.js"
-			],
-			[
-				"scj",
-				"js/src/scripts.js"
-			],
-			[
-				"porvi",
-				"scss/pages/proposal-story/_videos.scss"
-			],
-			[
-				"we",
-				"wedding-details.php"
-			],
-			[
-				"wes",
-				"scss/pages/wedding-details/_wedding-details.scss"
-			],
-			[
-				"dem",
-				"js/details-min.js"
-			],
-			[
-				"porsc",
-				"scss/pages/proposal-story/_proposal-story.scss"
-			],
-			[
-				"in2na",
-				"scss/style/pages/index2/_nav.scss"
-			],
-			[
-				"in2s",
-				"scss/style/pages/index2/_index2.scss"
-			],
-			[
-				"inj",
-				"js/src/index.js"
-			],
-			[
-				"infoo",
-				"scss/style/pages/index/_footer.scss"
-			],
-			[
-				"ins",
-				"scss/style/pages/index/_index.scss"
-			],
-			[
-				"porza",
-				"scss/style/pages/portfolio/_zaraza.scss"
-			],
-			[
-				"jdffe",
-				"scss/style/pages/portfolio/_jdf-feature.scss"
-			],
-			[
-				"jdf",
-				"scss/style/pages/portfolio/_jdf-feature.scss"
-			],
-			[
-				"gri",
-				"assets/neat/settings/_grid.scss"
-			],
-			[
-				"grimed",
-				"assets/neat/grid/_media.scss"
-			],
-			[
-				"gridmedia",
-				"assets/neat/grid/_media.scss"
 			]
 		],
 		"width": 0.0
@@ -2621,9 +1167,21 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "dr",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"new",
+				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+			],
+			[
+				"ne",
+				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
+			],
+			[
+				"f",
+				"~/Web Development/Foundation/Foundation 6/foundation-6.static/_ignores/foundation-6-boilerplate.sublime-workspace"
+			],
 			[
 				"dr",
 				"~/SNC Projects/Cross Eye Centers/Site Folder/drcross.com/_ignores/drcross.sublime-project"
@@ -2679,10 +1237,6 @@
 			[
 				"sn",
 				"~/SNC Projects/Studio N Creations/Site Folder/studioncreations.com/_ignores/snc.sublime-project"
-			],
-			[
-				"ne",
-				"~/Web Development/New Project/Site Folder/new-project.com/_ignores/newproject.sublime-project"
 			],
 			[
 				"e",

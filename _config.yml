@@ -9,16 +9,16 @@ permalink:        /:categories/:title
 destination:      _site
 host:             localhost
 port:             9001
-url:       		  http://nicos-mbp.local:5757/
+url:       		    http://nicos-mbp.local:5757
 baseurl:          /
 encoding:         UTF-8
 
 # LOCAL-DEV BRANCH
-cdn_url:       
-start_comment: <!--
-end_comment: -->
+# cdn_url:       
+# start_comment: <!--
+# end_comment: -->
 
 # CDN-PRODUCTION BRANCH
-# cdn_url:         http://cdn.nicowatine.me/wegotengagedinparis
-# start_comment: 
-# end_comment: 
+cdn_url:         http://cdn.nicowatine.me/wegotengagedinparis
+start_comment: 
+end_comment: 

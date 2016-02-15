@@ -135,9 +135,9 @@
 	<div class="map-header">
 		<h2 class="title white text-shadow"><span>Sacré-Cœur</span> Basilica</h2>
 		<article>
-			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Monmarte.
+			<p class="large">Finally after a long day of walking all through Paris, Nico and Corinne headed towards an area of the city called Montmartre.
 			<br><br>
-			Monmarte is widely known for the beautiful church atop the hill in its center - the Sacré-Cœur Basilica.
+			Montmartre is widely known for the beautiful church atop the hill in its center - the Sacré-Cœur Basilica.
 			<br><br>
 			It was evening when they arrived at the beautifully lit church, and a choir was giving a performance. There was such an intimate feel within the church, and Nico knew this was the place.
 			<br><br>
