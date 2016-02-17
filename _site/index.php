@@ -5,19 +5,19 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<link rel="preconnect" href="http://cdn.nicowatine.me/wegotengagedinparis">
+	<!-- <link rel="preconnect" href="http://cdn.wegotengagedin.paris/wegotengagedinparis"> -->
 	<title>Come Celebrate With Us! | Nico &amp; Corinne Are Engaged!</title>
 	<meta name="description" content="Come celebrate the marriage of Nico Watine &amp; Corinne Reyes!" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="http://cdn.nicowatine.me/wegotengagedinparis<?php autoVer('/css/style.css'); ?>" />
+	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" />
 
 </head>
 
 <body id="index">
 
-<img class="wedding-crest" src="http://cdn.nicowatine.me/wegotengagedinparis/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
+<img class="wedding-crest" src="/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
 
 <nav>
 	<ul>
