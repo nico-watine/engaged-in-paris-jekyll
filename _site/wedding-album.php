@@ -6,8 +6,8 @@
 <head>
 	<meta charset="utf-8">
 	<!--<link rel="preconnect" href="http://cdn.wegotengagedin.paris/wegotengagedinparis">-->
-	<title>Come Celebrate With Us! | Nico &amp; Corinne Are Engaged!</title>
-	<meta name="description" content="Come celebrate the marriage of Nico Watine &amp; Corinne Reyes!" />
+	<title>Wedding Album | Nico &amp; Corinne Are Engaged!</title>
+	<meta name="description" content="The wedding album, with everyone's photos &amp; videos" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
@@ -15,21 +15,10 @@
 
 </head>
 
-<body id="index">
-
-<img class="wedding-crest" src="/img/badge/badge.png" alt="Nico &amp; Corinne Wedding Crest">
-
-<nav>
-	<ul>
-		<li>
-			<a href="/wedding-details">Wedding Details</a>
-		</li>
-		<li>
-			<a href="/proposal-story">Proposal Story</a>
-		</li>
-	</ul>
-</nav>
-
+<body id="wedding-album">
+	
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <!--<script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
@@ -39,4 +28,3 @@ r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 ga('create','UA-55459011-7','auto');ga('send','pageview');
 </script>-->
 </body>
-</html>

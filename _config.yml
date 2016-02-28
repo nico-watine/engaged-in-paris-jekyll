@@ -14,13 +14,13 @@ baseurl:          /
 encoding:         UTF-8
 
 # LOCAL-DEV BRANCH
-# cdn_url:       
-# start_comment: <!--
-# end_comment: -->
+cdn_url:       
+start_comment: <!--
+end_comment: -->
 
 # CDN-PRODUCTION BRANCH
 # cdn_url:         http://cdn.nicowatine.me/wegotengagedinparis
 # cdn_url:         http://cdn.wegotengagedin.paris/wegotengagedinparis
-cdn_url:
-start_comment: 
-end_comment: 
+# cdn_url:
+# start_comment: 
+# end_comment: 
