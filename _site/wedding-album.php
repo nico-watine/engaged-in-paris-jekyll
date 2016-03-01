@@ -16,7 +16,25 @@
 </head>
 
 <body id="wedding-album">
-	
+<header>
+	<nav class="outer-container">
+		<div class="row">
+			<div id="crest-wrapper">
+				<a href="/">
+					<img src="/img/badge/nav-badge.png" alt="Mini Crest">
+				</a>
+			</div>
+			<ul>
+				<li id="wedding-details">
+					<a href="/wedding-album" class="active">Wedding Album</a>
+				</li>
+				<li id="proposal-story">
+					<a href="/proposal-story">Proposal Story</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+</header>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
 <!--<script>
