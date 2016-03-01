@@ -1,0 +1,14 @@
+@import "../../settings/_settings.scss";
+
+body#wedding-album {
+	nav {
+		background: rgba(68,68,68,0.55);
+		box-shadow: 0px em(1) em(4) 0px rgba(0,0,0,0.37);
+		width: 100%;
+		height: auto;
+		position: fixed;
+		top: 0;
+		z-index: 55;
+	}
+}
+

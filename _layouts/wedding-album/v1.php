@@ -1,8 +1,8 @@
 {% include components/head.php %}
 
 <body id="wedding-album">
-<header>
-	<nav class="outer-container">
+<nav>
+	<div class="outer-container">
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
@@ -18,8 +18,12 @@
 				</li>
 			</ul>
 		</div>
-	</nav>
-</header>
-{% include components/scripts/jquery.php %}
+	</div>
+</nav>
+
+
+
+
+<!-- {% include components/scripts/jquery.php %} -->
 {% include components/scripts/google-tracking.php %}
 </body>

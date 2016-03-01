@@ -16,8 +16,8 @@
 </head>
 
 <body id="wedding-album">
-<header>
-	<nav class="outer-container">
+<nav>
+	<div class="outer-container">
 		<div class="row">
 			<div id="crest-wrapper">
 				<a href="/">
@@ -33,10 +33,14 @@
 				</li>
 			</ul>
 		</div>
-	</nav>
-</header>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script>
+	</div>
+</nav>
+
+
+
+
+<!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script> -->
 <!--<script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;

@@ -262,6 +262,8 @@ body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em
 
 body#wedding-album { background: #fff url("/img/wedding-album/assets/bg/hex-bg.png") repeat; }
 
+body#wedding-album nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
+
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; width: 100%; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
