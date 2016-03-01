@@ -30,11 +30,14 @@
 		<h2 class="header centered-text">The wedding may be over, <br>
 		but the memories will last forever</h2>
 	</section>
-	<section id="first-dance">
+	<section id="first-dance" style="margin-bottom: 200px;">
 		<div class="outer-container">
 			<div class="row">
-				<div class="abstract-swirl">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/first-dance/first-dance-swirl@2x.png 2x" src="{{ site.cdn_url }}/img/wedding-album/first-dance/first-dance-swirl.png" alt="Abstract Swirl">
+				<h2 class="title white text-shadow centered-text">First Dance Video</h2>
+				<div class="video-wrapper">
+					<div class="iframe-wrapper">
+						<iframe src="https://www.youtube.com/embed/EnB86TDmzvY" frameborder="0" allowfullscreen></iframe>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -45,3 +48,5 @@
 <!-- {% include components/scripts/jquery.php %} -->
 {% include components/scripts/google-tracking.php %}
 </body>
+
+<!-- width="745" height="420"  -->

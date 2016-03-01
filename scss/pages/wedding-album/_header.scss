@@ -25,5 +25,11 @@ body#wedding-album {
 			z-index: 55;
 		}
 	}
+
+	@include media($max-1070) {
+		header {
+			background: #fff url('#{$url}/img/wedding-album/header/program-mockup@1100.jpg') no-repeat center top;
+		}
+	}
 }
 

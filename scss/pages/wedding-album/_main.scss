@@ -5,6 +5,7 @@ section#memories {
 
 	h2 {
 		font-size: $h3-size;
+		padding: 0 rem(10);
 
 		@include media($max-770) {
 			font-size: $h4-size;

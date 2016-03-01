@@ -2895,6 +2895,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/wedding-album\/header\/program-mockup@1100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62632,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/header\/program-mockup@1100.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/header\/program-mockup@1100.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/wedding-details\/bg@default.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7658,28 +7669,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 25135,
-		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png",
-		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 54747,
-		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png",
-		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/img\/wedding-album\/first-dance\/first-dance-swirl.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -7709,6 +7698,17 @@
 		"initialSize": 74219,
 		"inputAbbreviatedPath": "\/img\/wedding-album\/header\/program-mockup.jpg",
 		"outputAbbreviatedPath": "\/img\/wedding-album\/header\/program-mockup.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/header\/program-mockup@1100.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 62632,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/header\/program-mockup@1100.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/header\/program-mockup@1100.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
