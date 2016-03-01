@@ -2862,6 +2862,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25135,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54747,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/_site\/img\/wedding-album\/header\/program-mockup.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -7636,6 +7658,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25135,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54747,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/_originals\/first-dance-swirl@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-dance\/first-dance-swirl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25135,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/first-dance-swirl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54747,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/wedding-album\/header\/program-mockup.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -8363,6 +8429,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/scss\/pages\/wedding-album\/_first-dance.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/wedding-album\/_first-dance.scss",
+		"outputAbbreviatedPath": "\/css\/_first-dance.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/scss\/pages\/wedding-album\/_header.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -8372,6 +8454,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/wedding-album\/_header.scss",
 		"outputAbbreviatedPath": "\/css\/_header.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/pages\/wedding-album\/_main.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/wedding-album\/_main.scss",
+		"outputAbbreviatedPath": "\/css\/_main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

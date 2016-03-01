@@ -1,0 +1,13 @@
+@import "../../settings/_settings.scss";
+
+section#memories {
+	padding: em(42) 0;
+
+	h2 {
+		font-size: $h3-size;
+
+		@include media($max-770) {
+			font-size: $h4-size;
+		}
+	}
+}

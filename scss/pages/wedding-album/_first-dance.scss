@@ -1,0 +1,8 @@
+@import "../../settings/_settings.scss";
+
+section#first-dance {
+	.abstract-swirl {
+		@include span-columns(3 of 16);
+		text-align: center;
+	}
+}

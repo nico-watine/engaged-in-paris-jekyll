@@ -1,14 +1,29 @@
 @import "../../settings/_settings.scss";
 
 body#wedding-album {
-	nav {
-		background: rgba(68,68,68,0.55);
-		box-shadow: 0px em(1) em(4) 0px rgba(0,0,0,0.37);
-		width: 100%;
-		height: auto;
-		position: fixed;
-		top: 0;
-		z-index: 55;
+	header {
+		background: #fff url('#{$url}/img/wedding-album/header/program-mockup.jpg') no-repeat center top;
+		height: em(350);
+		background-size: cover;
+		box-shadow: $z-3;
+		position: relative;
+
+		h1 {
+			position: absolute;
+			top: rem(120);
+			text-align: center;
+			width: 100%;
+		}
+
+		nav {
+			background: rgba(68,68,68,0.55);
+			box-shadow: 0px em(1) em(4) 0px rgba(0,0,0,0.37);
+			width: 100%;
+			height: auto;
+			position: fixed;
+			top: 0;
+			z-index: 55;
+		}
 	}
 }
 
