@@ -4,6 +4,7 @@ section#first-dance {
 	background: rgba(68,68,68,0.80);
 	border-top: em(5) solid $gold;
 	border-bottom: em(5) solid $gold;
+	margin-bottom: em(60);
 
 	.row {
 		background: url('#{$url}/img/wedding-album/first-dance/first-dance-swirl@2x.png') no-repeat left;
