@@ -51,52 +51,52 @@
 			<div class="row double padding">
 				<div class="portrait">
 					<div class="photo-wrapper">
-						<img srcset="/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
+						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
 					</div>
 				</div>
 				<div class="landscape">
-					<img srcset="/img/wedding-album/hair-makeup/10@2x.jpg 2x" src="/img/wedding-album/hair-makeup/10.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/10@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/10.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row triple padding">
 				<div class="first photo">
-					<img srcset="/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/3@2x.jpg 2x" src="/img/wedding-album/hair-makeup/3.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/4@2x.jpg 2x" src="/img/wedding-album/hair-makeup/4.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/4@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/4.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row triple padding">
 				<div class="first photo">
-					<img srcset="/img/wedding-album/hair-makeup/5@2x.jpg 2x" src="/img/wedding-album/hair-makeup/5.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/5@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/5.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/6@2x.jpg 2x" src="/img/wedding-album/hair-makeup/6.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/6@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/6.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/7@2x.jpg 2x" src="/img/wedding-album/hair-makeup/7.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/7@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/7.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row double padding">
 				<div class="portrait">
 					<div class="photo-wrapper">
-						<img srcset="/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
+						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
 					</div>
 				</div>
 				<div class="landscape">
-					<img srcset="/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row double padding">
 				<div class="first landscape">
-					<img srcset="/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="portrait">
 					<div class="photo-wrapper">
-						<img srcset="/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
+						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
 					</div>
 				</div>
 			</div>
