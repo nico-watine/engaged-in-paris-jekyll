@@ -264,7 +264,7 @@ body#wedding-album { background: #fff url("/img/wedding-album/assets/bg/hex-bg.p
 
 body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup.jpg") no-repeat center top; height: 21.875em; background-size: cover; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); position: relative; }
 body#wedding-album header h1 { position: absolute; top: 7.5rem; text-align: center; width: 100%; }
-body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0px 0.0625em 0.25em 0px rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
+body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
 @media screen and (max-width: 66.875em) { body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup@1100.jpg") no-repeat center top; } }
 
 section#memories { padding: 2.625em 0; }
