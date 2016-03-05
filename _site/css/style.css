@@ -202,17 +202,17 @@ img { max-width: 100%; height: auto; }
 
 button { border: none; }
 
-a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; -webkit-transition: background-color 200ms ease-out 0s; -moz-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; -moz-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
+a.button, button { cursor: pointer; line-height: normal; position: relative; text-align: center; display: inline-block; border-radius: 0.3125rem; font-size: 1.375em; padding: 1rem 2rem; text-decoration: none; color: #fff; background-color: #777; -webkit-transition: background-color 200ms ease-out 0s; transition: background-color 200ms ease-out 0s; -webkit-transition: color 200ms ease-out 0s; transition: color 200ms ease-out 0s; }
 a.button:hover, button:hover { color: #000; background-color: #ccc; }
 @media screen and (max-width: 48.125em) { a.button, button { font-size: 1em; padding: 0.8125rem 1.3125rem 1rem; } }
 
 .floating { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
-.floating:hover { box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 90ms ease-out 0s; -moz-transition: box-shadow 90ms ease-out 0s; transition: box-shadow 90ms ease-out 0s; }
+.floating:hover { box-shadow: 0 0.875rem 0.75rem 0 rgba(0, 0, 0, 0.17), 0 1.25rem 2.5rem 0 rgba(0, 0, 0, 0.3); -webkit-transition: box-shadow 90ms ease-out 0s; transition: box-shadow 90ms ease-out 0s; }
 
 #submit.button { border: 0.0625rem solid #777; }
 #submit.button:hover { background-color: #fff; border: 0.0625rem solid #000; }
 
-input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea { background-color: #FFF; font-family: inherit; border: 1px solid #CCC; border-radius: 0.0625rem; box-shadow: 0 0rem 0.125rem rgba(0, 0, 0, 0.2) inset; color: rgba(0, 0, 0, 0.75); display: block; font-size: 0.875rem; margin: 0 0 1rem; padding: 0.5rem; height: auto; width: 100%; box-sizing: border-box; transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s; }
+input[type="text"], input[type="password"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="month"], input[type="week"], input[type="email"], input[type="number"], input[type="search"], input[type="tel"], input[type="time"], input[type="url"], input[type="color"], textarea { background-color: #FFF; font-family: inherit; border: 1px solid #CCC; border-radius: 0.0625rem; box-shadow: 0 0rem 0.125rem rgba(0, 0, 0, 0.2) inset; color: rgba(0, 0, 0, 0.75); display: block; font-size: 0.875rem; margin: 0 0 1rem; padding: 0.5rem; height: auto; width: 100%; box-sizing: border-box; -webkit-transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s; transition: box-shadow 0.45s ease 0s, border-color 0.45s ease-in-out 0s; }
 
 label { font-size: 0.875rem; color: #4D4D4D; cursor: pointer; display: block; font-weight: 300; line-height: 1.5; margin-bottom: 0px; }
 
@@ -266,10 +266,15 @@ body#wedding-album header { background: #fff url("/img/wedding-album/header/prog
 body#wedding-album header h1 { position: absolute; top: 7.5rem; text-align: center; width: 100%; }
 body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
 @media screen and (max-width: 66.875em) { body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup@1100.jpg") no-repeat center top; } }
+@media only screen and (max-width: 43.75em) { body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup@700.jpg") no-repeat center top; } }
 
 section#memories { padding: 2.625em 0; }
 section#memories h2 { font-size: 1.9375em; padding: 0 0.625rem; }
 @media screen and (max-width: 48.125em) { section#memories h2 { font-size: 1.375em; } }
+
+body#wedding-album section.gallery { margin-bottom: 3.75em; }
+body#wedding-album section.gallery h3 { margin-bottom: 3.75rem; }
+body#wedding-album section.gallery img { border: 0.25em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 3.4375em; }
 
 section#first-dance { background: rgba(68, 68, 68, 0.8); border-top: 0.3125em solid #F6C949; border-bottom: 0.3125em solid #F6C949; margin-bottom: 3.75em; }
 section#first-dance .row { background: url("/img/wedding-album/first-dance/first-dance-swirl@2x.png") no-repeat left; background-size: auto 100%; padding: 1.875em 0 3.125em; }
@@ -281,8 +286,6 @@ section#first-dance .video-wrapper:last-child { margin-right: 0; }
 section#first-dance .video-wrapper .iframe-wrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
 section#first-dance .video-wrapper .iframe-wrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
 
-body#wedding-album section#hair-makeup h3 { margin-bottom: 3.75rem; }
-body#wedding-album section#hair-makeup img { border: 0.25em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 3.4375em; }
 body#wedding-album section#hair-makeup .row.double .portrait { float: left; display: block; margin-right: 1.75788%; width: 42.76119%; }
 body#wedding-album section#hair-makeup .row.double .portrait:last-child { margin-right: 0; }
 body#wedding-album section#hair-makeup .row.double .portrait .photo-wrapper { float: left; display: block; margin-right: 4.11092%; width: 85.12701%; }
@@ -295,6 +298,13 @@ body#wedding-album section#hair-makeup .row.double .landscape.first { text-align
 body#wedding-album section#hair-makeup .row.triple .photo { float: left; display: block; margin-right: 1.75788%; width: 30.04146%; margin-left: 3.17993%; }
 body#wedding-album section#hair-makeup .row.triple .photo:last-child { margin-right: 0; }
 body#wedding-album section#hair-makeup .row.triple .first.photo { margin-left: 0%; }
+
+body#wedding-album section#bridals .row.triple .photo-wrapper { float: left; display: block; margin-right: 2.35765%; width: 31.76157%; }
+body#wedding-album section#bridals .row.triple .photo-wrapper:last-child { margin-right: 0; }
+body#wedding-album section#bridals .row.double .photo-wrapper { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; }
+body#wedding-album section#bridals .row.double .photo-wrapper:last-child { margin-right: 0; }
+body#wedding-album section#bridals .row.single .photo-wrapper { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; }
+body#wedding-album section#bridals .row.single .photo-wrapper:last-child { margin-right: 0; }
 
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; width: 100%; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }

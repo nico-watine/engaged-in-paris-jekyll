@@ -1,0 +1,22 @@
+@import "../../settings/_settings.scss";
+
+body#wedding-album {
+	section#bridals {
+		.row.triple {
+			.photo-wrapper {
+				@include span-columns(4 of 12);
+			}
+		}
+		.row.double {
+			.photo-wrapper {
+				@include span-columns(8 of 16);
+			}
+		}
+		.row.single {
+			.photo-wrapper {
+				@include span-columns(12 of 16);
+				@include shift(2);
+			}
+		}	
+	}
+}

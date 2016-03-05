@@ -2,15 +2,17 @@
 
 body#wedding-album {
 	section#hair-makeup {
-		h3 {
-			margin-bottom: rem(60);
-		}
+		// margin-bottom: em(60);
+		
+		// h3 {
+		// 	margin-bottom: rem(60);
+		// }
 
-		img {
-			border: em(4) solid #fff;
-			box-shadow: $z-3;
-			margin-bottom: em(55);
-		}
+		// img {
+		// 	border: em(4) solid #fff;
+		// 	box-shadow: $z-3;
+		// 	margin-bottom: em(55);
+		// }
 
 		.row.double {
 			.portrait {

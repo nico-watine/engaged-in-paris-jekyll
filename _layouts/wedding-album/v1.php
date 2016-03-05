@@ -42,7 +42,7 @@
 			</div>
 		</div>
 	</section>
-	<section id="hair-makeup">
+	<section class="gallery" id="hair-makeup">
 		<div class="outer-container">
 			<div class="row centered-text">
 				<h2 class="title">Ladies' Hair &amp; Makeup Prep</h2>
@@ -60,7 +60,7 @@
 			</div>
 			<div class="row triple padding">
 				<div class="first photo">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/1@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/1.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3.jpg" alt="Shayne, Gigi &amp; Lola">
@@ -92,12 +92,44 @@
 			</div>
 			<div class="row double padding">
 				<div class="first landscape">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/12@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/12.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="portrait">
 					<div class="photo-wrapper">
-						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
+						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9.jpg" alt="Shayne, Gigi &amp; Lola">
 					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="gallery" id="bridals">
+		<div class="outer-container">
+			<div class="row centered-text padding">
+				<h2 class="title">Corinne's Bridals</h2>
+				<h3>Oh, did I forget to mention that Miriam is Gloria’s mom?</h3>
+			</div>
+			<div class="row triple padding">
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/1@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/1.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/2@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/2.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/3@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/3.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+			</div>
+			<div class="row double padding">
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/4@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/4.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/5@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/5.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+			</div>
+			<div class="row single padding">
+				<div class="photo-wrapper">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/6@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/6.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 			</div>
 		</div>

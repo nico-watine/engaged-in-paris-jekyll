@@ -1,5 +1,7 @@
 @import "../../settings/_settings.scss";
 
+$max-700: "only screen and (max-width : 43.750em)";
+
 body#wedding-album {
 	header {
 		background: #fff url('#{$url}/img/wedding-album/header/program-mockup.jpg') no-repeat center top;
@@ -29,6 +31,12 @@ body#wedding-album {
 	@include media($max-1070) {
 		header {
 			background: #fff url('#{$url}/img/wedding-album/header/program-mockup@1100.jpg') no-repeat center top;
+		}
+	}
+
+	@media #{$max-700} {
+		header {
+			background: #fff url('#{$url}/img/wedding-album/header/program-mockup@700.jpg') no-repeat center top;
 		}
 	}
 }
