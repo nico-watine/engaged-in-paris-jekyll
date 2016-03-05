@@ -106,7 +106,7 @@
 		<div class="outer-container">
 			<div class="row centered-text padding">
 				<h2 class="title">Corinne's Bridals</h2>
-				<h3>Oh, did I forget to mention that Miriam is Gloria’s mom?</h3>
+				<h3>Corinne is wearing a custom wedding gown from 'Miriam Rodriguez Couture.' <br>Oh, I forgot to mention that Miriam is Gloria's mom!</h3>
 			</div>
 			<div class="row triple padding">
 				<div class="photo-wrapper">
@@ -121,7 +121,7 @@
 			</div>
 			<div class="row double padding">
 				<div class="photo-wrapper">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/4@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/4.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/4@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/4.jpg" alt="Betty helping Corinne with her dress">
 				</div>
 				<div class="photo-wrapper">
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/bridals/5@2x.jpg" src="{{ site.cdn_url }}/img/wedding-album/bridals/5.jpg" alt="Corinne's Bridal Portrait">
