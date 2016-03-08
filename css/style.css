@@ -260,6 +260,8 @@ body#index ul a:hover { font-weight: 700; }
 body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
 @media only screen and (max-width: 25em) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
 
+body#wedding-album { background: #fff url("/img/wedding-album/assets/bg/hex-bg.png") repeat; }
+
 body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup.jpg") no-repeat center top; height: 21.875em; background-size: cover; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); position: relative; }
 body#wedding-album header h1 { position: absolute; top: 7.5rem; text-align: center; width: 100%; }
 body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
@@ -481,12 +483,5 @@ h3#coming-soon { text-align: center; margin-bottom: 3.75rem; padding: 0 0.625rem
 .mobile-only { display: none; }
 
 .show { display: block !important; }
-
-@media screen and (max-width: 66.875em) { body { background: red !important; } }
-@media screen and (max-width: 60.625em) { body { background: purple !important; } }
-@media screen and (max-width: 48.125em) { body { background: blue !important; } }
-@media screen and (max-width: 38.125em) { body { background: yellow !important; } }
-@media screen and (max-width: 30em) { body { background: green !important; } }
-@media screen and (max-width: 20em) { body { background: purple !important; } }
 
 .shadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }
