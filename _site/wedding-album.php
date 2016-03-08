@@ -45,7 +45,7 @@
 		<h2 class="header centered-text">The wedding may be over, <br>
 		but the memories will last forever</h2>
 	</section>
-	<section id="first-dance">
+	<section class="video-banner" id="first-dance">
 		<div class="outer-container">
 			<div class="row">
 				<h2 class="title white text-shadow centered-text">First Dance Video</h2>
@@ -105,7 +105,7 @@
 					<img srcset="/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
-			<div class="row double padding">
+			<div class="row double padding" id="last-row">
 				<div class="first landscape">
 					<img srcset="/img/wedding-album/hair-makeup/12@2x.jpg 2x" src="/img/wedding-album/hair-makeup/12.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
@@ -145,6 +145,33 @@
 			<div class="row single padding">
 				<div class="photo-wrapper">
 					<img srcset="/img/wedding-album/bridals/6@2x.jpg" src="/img/wedding-album/bridals/6.jpg" alt="Corinne's Bridal Portrait">
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="first-look">
+		<div class="video-banner">
+			<div class="outer-container">
+				<div class="row centered-text">
+					<h2 class="title white text-shadow padding">Nico &amp; Corinne’s First Look</h2>
+					<h3 class="white text-shadow padding">Their First Look was in the garden behind the Fine Arts Museum</h3>
+					<div class="video-wrapper">
+						<div class="iframe-wrapper">
+							<iframe src="https://www.youtube.com/embed/mcVAlWjEg8g" frameborder="0" allowfullscreen></iframe>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="gallery">
+			<div class="outer-container">
+				<div class="row padding">
+					<div class="photo-wrapper" id="landscape">
+						<img srcset="/img/wedding-album/first-look/1@2x.jpg 2x" src="/img/wedding-album/first-look/1.jpg" alt="">
+					</div>
+					<div class="photo-wrapper" id="portrait">
+						<img srcset="/img/wedding-album/first-look/2@2x.jpg 2x" src="/img/wedding-album/first-look/2.jpg" alt="">
+					</div>
 				</div>
 			</div>
 		</div>

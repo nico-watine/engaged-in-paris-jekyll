@@ -2351,15 +2351,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/_site\/css\/style.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/_site\/css\/style.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/_site\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -3021,6 +3012,61 @@
 		"initialSize": 11563,
 		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
 		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-dance\/first-dance-swirl@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-look\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95443,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/1.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-look\/1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170823,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/1@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-look\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35358,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/2.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-look\/2@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115094,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/2@2x.jpg",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/2@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/_site\/img\/wedding-album\/first-look\/swirl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13069,
+		"inputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/swirl.png",
+		"outputAbbreviatedPath": "\/_site\/img\/wedding-album\/first-look\/swirl.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -8305,6 +8351,83 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/wedding-album\/first-look\/1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 95443,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/1.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/1@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 170823,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/1@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/1@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/2.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35358,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/2.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/2.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/2@2x.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 115094,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/2@2x.jpg",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/2@2x.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/_originals\/IMG_7231.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 525107,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/_originals\/IMG_7231.JPG",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/_originals\/IMG_7231.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/_originals\/IMG_7248.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 754488,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/_originals\/IMG_7248.JPG",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/_originals\/IMG_7248.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/wedding-album\/first-look\/swirl.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13069,
+		"inputAbbreviatedPath": "\/img\/wedding-album\/first-look\/swirl.png",
+		"outputAbbreviatedPath": "\/img\/wedding-album\/first-look\/swirl.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/wedding-album\/hair-makeup\/1.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -9475,6 +9598,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/scss\/pages\/wedding-album\/_first-dance.scss",
 		"outputAbbreviatedPath": "\/css\/_first-dance.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
+	"\/scss\/pages\/wedding-album\/_first-look.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scss\/pages\/wedding-album\/_first-look.scss",
+		"outputAbbreviatedPath": "\/css\/_first-look.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0,

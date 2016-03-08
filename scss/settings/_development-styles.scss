@@ -6,27 +6,27 @@
 body {
 	
 	@include media($max-1070) {
-		background: red; 
+		background: red !important; 
 	}
 
 	@include media($max-970) {
-		background: purple;
+		background: purple !important;
 	}
 
 	@include media($max-770) {
-		background: blue; 
+		background: blue !important; 
 	}
 
 	@include media($max-610) {
-		background: yellow; 
+		background: yellow !important; 
 	}
 
 	@include media($max-480) {
-		background: green; 
+		background: green !important; 
 	}
 
 	@include media($max-320) {
-		background: purple;
+		background: purple !important;
 	}
 }
 

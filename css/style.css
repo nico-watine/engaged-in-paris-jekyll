@@ -260,8 +260,6 @@ body#index ul a:hover { font-weight: 700; }
 body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
 @media only screen and (max-width: 25em) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
 
-body#wedding-album { background: #fff url("/img/wedding-album/assets/bg/hex-bg.png") repeat; }
-
 body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup.jpg") no-repeat center top; height: 21.875em; background-size: cover; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); position: relative; }
 body#wedding-album header h1 { position: absolute; top: 7.5rem; text-align: center; width: 100%; }
 body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
@@ -272,19 +270,19 @@ section#memories { padding: 2.625em 0; }
 section#memories h2 { font-size: 1.9375em; padding: 0 0.625rem; }
 @media screen and (max-width: 48.125em) { section#memories h2 { font-size: 1.375em; } }
 
-body#wedding-album section.gallery { margin-bottom: 3.75em; }
-body#wedding-album section.gallery h3 { margin-bottom: 3.75rem; }
-body#wedding-album section.gallery img { border: 0.25em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 3.4375em; }
+body#wedding-album .gallery { margin-bottom: 3.75em; }
+body#wedding-album .gallery h3 { margin-bottom: 3.75rem; }
+body#wedding-album .gallery img { border: 0.25em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); margin-bottom: 3.4375em; }
+body#wedding-album .gallery .row#last-row { border-bottom: 0.25em solid #F6C949; }
+body#wedding-album .video-banner { background: rgba(68, 68, 68, 0.8); border-top: 0.3125em solid #F6C949; border-bottom: 0.3125em solid #F6C949; margin-bottom: 3.75em; }
+body#wedding-album .video-banner .video-wrapper { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; margin-top: 1.5rem; }
+body#wedding-album .video-banner .video-wrapper:last-child { margin-right: 0; }
+@media screen and (max-width: 48.125em) { body#wedding-album .video-banner .video-wrapper { float: left; display: block; margin-right: 2.84259%; width: 89.71574%; margin-left: 5.14213%; }
+  body#wedding-album .video-banner .video-wrapper:last-child { margin-right: 0; } }
+body#wedding-album .video-banner .video-wrapper .iframe-wrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
+body#wedding-album .video-banner .video-wrapper .iframe-wrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
 
-section#first-dance { background: rgba(68, 68, 68, 0.8); border-top: 0.3125em solid #F6C949; border-bottom: 0.3125em solid #F6C949; margin-bottom: 3.75em; }
-section#first-dance .row { background: url("/img/wedding-album/first-dance/first-dance-swirl@2x.png") no-repeat left; background-size: auto 100%; padding: 1.875em 0 3.125em; }
-section#first-dance h2 { margin-bottom: 1.5rem; }
-section#first-dance .video-wrapper { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; }
-section#first-dance .video-wrapper:last-child { margin-right: 0; }
-@media screen and (max-width: 48.125em) { section#first-dance .video-wrapper { float: left; display: block; margin-right: 2.84259%; width: 89.71574%; margin-left: 5.14213%; }
-  section#first-dance .video-wrapper:last-child { margin-right: 0; } }
-section#first-dance .video-wrapper .iframe-wrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
-section#first-dance .video-wrapper .iframe-wrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
+body#wedding-album section.video-banner#first-dance .row { background: url("/img/wedding-album/first-dance/first-dance-swirl@2x.png") no-repeat left; background-size: auto 100%; padding: 1.875em 0 3.125em; }
 
 body#wedding-album section#hair-makeup .row.double .portrait { float: left; display: block; margin-right: 1.75788%; width: 42.76119%; }
 body#wedding-album section#hair-makeup .row.double .portrait:last-child { margin-right: 0; }
@@ -305,6 +303,21 @@ body#wedding-album section#bridals .row.double .photo-wrapper { float: left; dis
 body#wedding-album section#bridals .row.double .photo-wrapper:last-child { margin-right: 0; }
 body#wedding-album section#bridals .row.single .photo-wrapper { float: left; display: block; margin-right: 1.75788%; width: 74.56053%; margin-left: 12.71973%; }
 body#wedding-album section#bridals .row.single .photo-wrapper:last-child { margin-right: 0; }
+
+body#wedding-album section#first-look .video-banner { background-image: url("/img/wedding-album/first-look/swirl.png"); background-position: center bottom; background-repeat: no-repeat; background-size: 120% auto; }
+body#wedding-album section#first-look .video-banner .row { padding: 1.875em 0 3.125em; }
+body#wedding-album section#first-look .gallery #landscape img, body#wedding-album section#first-look .gallery #portrait img { height: 25em; width: auto; }
+body#wedding-album section#first-look .gallery #landscape { float: left; }
+body#wedding-album section#first-look .gallery #portrait { float: right; text-align: center; }
+@media screen and (max-width: 60.625em) { body#wedding-album section#first-look .gallery #portrait { text-align: right; } }
+@media only screen and (max-width: 900px) { body#wedding-album section#first-look .gallery #landscape img, body#wedding-album section#first-look .gallery #portrait img { max-width: 100%; height: auto; }
+  body#wedding-album section#first-look .gallery #landscape { float: left; display: block; margin-right: 2.84259%; width: 58.86297%; }
+  body#wedding-album section#first-look .gallery #landscape:last-child { margin-right: 0; }
+  body#wedding-album section#first-look .gallery #portrait { float: left; display: block; margin-right: 2.84259%; width: 38.29445%; }
+  body#wedding-album section#first-look .gallery #portrait:last-child { margin-right: 0; } }
+@media only screen and (max-width: 720px) { body#wedding-album section#first-look .gallery #landscape, body#wedding-album section#first-look .gallery #portrait { float: left; display: block; margin-right: 3.57866%; width: 100%; }
+  body#wedding-album section#first-look .gallery #landscape:last-child, body#wedding-album section#first-look .gallery #portrait:last-child { margin-right: 0; }
+  body#wedding-album section#first-look .gallery #portrait { text-align: center; } }
 
 .bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; width: 100%; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
@@ -468,5 +481,12 @@ h3#coming-soon { text-align: center; margin-bottom: 3.75rem; padding: 0 0.625rem
 .mobile-only { display: none; }
 
 .show { display: block !important; }
+
+@media screen and (max-width: 66.875em) { body { background: red !important; } }
+@media screen and (max-width: 60.625em) { body { background: purple !important; } }
+@media screen and (max-width: 48.125em) { body { background: blue !important; } }
+@media screen and (max-width: 38.125em) { body { background: yellow !important; } }
+@media screen and (max-width: 30em) { body { background: green !important; } }
+@media screen and (max-width: 20em) { body { background: purple !important; } }
 
 .shadow-1 { box-shadow: 0 0.0625rem 0.25rem 0 rgba(0, 0, 0, 0.37); }

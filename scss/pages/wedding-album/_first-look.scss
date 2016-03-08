@@ -1,0 +1,63 @@
+@import "../../settings/_settings.scss";
+
+$max-900: "only screen and (max-width : 900px)";
+$max-720: "only screen and (max-width : 720px)";
+
+body#wedding-album {
+	section#first-look {
+		.video-banner {
+			background-image: url('#{$url}/img/wedding-album/first-look/swirl.png');
+			background-position: center bottom;
+			background-repeat: no-repeat;
+			background-size: 120% auto;
+
+			.row {
+				padding: em(30) 0 em(50);
+			}
+		}
+		.gallery {
+			#landscape img,
+			#portrait img {
+				height: em(400);
+				width: auto;
+			}
+			#landscape {
+				float: left;
+			}
+			#portrait {
+				float: right;
+				text-align: center;
+
+				@include media($max-970) {
+					text-align: right;
+				}
+			}
+
+			@media #{$max-900} {
+				#landscape,
+				#portrait {
+					img {
+						max-width: 100%;
+						height: auto;
+					}
+				}
+				#landscape {
+					@include span-columns(6 of 10);
+				}
+				#portrait {
+					@include span-columns(4 of 10);
+				}
+			}
+
+			@media #{$max-720} {
+				#landscape,
+				#portrait {
+					@include span-columns(8 of 8);
+				}
+				#portrait {
+					text-align: center;
+				}
+			}
+		}
+	}	
+}
