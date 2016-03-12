@@ -1,5 +1,7 @@
 @import "../../settings/_settings.scss";
 
+$max-600: "only screen and (max-width : 37.500em)";
+
 body#wedding-album {
 	section#bridals {
 		.row.triple {
@@ -18,5 +20,16 @@ body#wedding-album {
 				@include shift(2);
 			}
 		}	
+
+		@media #{$max-600} {
+			.row.triple,
+			.row.double,
+			.row.single {
+				.photo-wrapper {
+					@include span-columns(8 of 8);
+					@include shift(0);
+				}
+			}
+		}
 	}
 }

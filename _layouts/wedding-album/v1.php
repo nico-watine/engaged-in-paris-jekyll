@@ -49,10 +49,8 @@
 				<h3>Getting ready at Hotel Zaza</h3>
 			</div>
 			<div class="row double padding">
-				<div class="portrait">
-					<div class="photo-wrapper">
-						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/2.jpg" alt="Shayne, Gigi &amp; Lola">
-					</div>
+				<div class="landscape">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="landscape">
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/10@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/10.jpg" alt="Shayne, Gigi &amp; Lola">
@@ -63,7 +61,7 @@
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/1@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/1.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/3.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/4@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/4.jpg" alt="Shayne, Gigi &amp; Lola">
@@ -80,24 +78,9 @@
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/7@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/7.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
-			<div class="row double padding">
-				<div class="portrait">
-					<div class="photo-wrapper">
-						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/8.jpg" alt="Shayne, Gigi &amp; Lola">
-					</div>
-				</div>
+			<div class="row single padding">
 				<div class="landscape">
-					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
-				</div>
-			</div>
-			<div class="row double padding" id="last-row">
-				<div class="first landscape">
 					<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/12@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/12.jpg" alt="Shayne, Gigi &amp; Lola">
-				</div>
-				<div class="portrait">
-					<div class="photo-wrapper">
-						<img srcset="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9@2x.jpg 2x" src="{{ site.cdn_url }}/img/wedding-album/hair-makeup/9.jpg" alt="Shayne, Gigi &amp; Lola">
-					</div>
 				</div>
 			</div>
 		</div>

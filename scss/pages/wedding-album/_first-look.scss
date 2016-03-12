@@ -1,7 +1,8 @@
 @import "../../settings/_settings.scss";
 
-$max-900: "only screen and (max-width : 900px)";
-$max-720: "only screen and (max-width : 720px)";
+$max-900: "only screen and (max-width : 56.250em)";
+$max-720: "only screen and (max-width : 45.000em)";
+$max-600: "only screen and (max-width : 37.500em)";
 
 body#wedding-album {
 	section#first-look {
@@ -56,6 +57,15 @@ body#wedding-album {
 				}
 				#portrait {
 					text-align: center;
+				}
+			}
+
+			@media #{$max-600} {
+				#portrait {
+					img {
+						width: 100%;
+						height: auto;
+					}
 				}
 			}
 		}

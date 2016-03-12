@@ -1,44 +1,20 @@
 @import "../../settings/_settings.scss";
 
+$max-600: "only screen and (max-width : 37.500em)";
+
+
 body#wedding-album {
 	section#hair-makeup {
-		// margin-bottom: em(60);
-		
-		// h3 {
-		// 	margin-bottom: rem(60);
-		// }
-
-		// img {
-		// 	border: em(4) solid #fff;
-		// 	box-shadow: $z-3;
-		// 	margin-bottom: em(55);
-		// }
 
 		.row.double {
-			.portrait {
-				@include span-columns(7 of 16);
-
-				.photo-wrapper {
-					@include span-columns(6 of 7);
-
-					img {
-						height: em(400);
-						width: em(300);
-					}
-				}
-			}
-
 			.landscape {
-				@include span-columns(9 of 16);
+				@include span-columns(8 of 16);
+				text-align: center;
 
 				img {
-					height: em(400);
-					width: em(534) !important;
-					max-width: em(534) !important;
+					max-height: em(400);
+					width: auto;
 				}
-			}
-			.landscape.first {
-				text-align: right;
 			}
 		}
 
@@ -49,6 +25,42 @@ body#wedding-album {
 			}
 			.first.photo {
 				@include shift(0);
+			}
+		}
+
+		.row.single {
+			.landscape {
+				@include span-columns(10 of 16);
+				@include shift(3);
+				img {
+					width: 100%;
+					height: auto;
+				}
+			}
+		}
+
+		@media #{$max-600} {
+			.row.triple {
+				.photo {
+					@include span-columns(8 of 8);
+					@include shift(0);
+
+					img {
+						width: 100%;
+						height: auto;
+					}
+				}
+			}
+			.row.double {
+				.landscape {
+					@include span-columns(8 of 8);
+				}
+			}
+			.row.single {
+				.landscape {
+					@include span-columns(8 of 8);
+					@include shift(0);
+				}
 			}
 		}
 	}
