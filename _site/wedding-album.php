@@ -5,13 +5,13 @@
 <html class="no-js" lang="en">
 <head>
 	<meta charset="utf-8">
-	<!--<link rel="preconnect" href="http://cdn.wegotengagedin.paris/wegotengagedinparis">-->
+	<link rel="preconnect" href="http://cdn.wegotengagedin.paris/wegotengagedinparis">
 	<title>Wedding Album | Nico &amp; Corinne Are Engaged!</title>
 	<meta name="description" content="The wedding album, with everyone's photos &amp; videos" />
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link type="text/plain" rel="author" href="/humans.txt">
 	
-	<link rel="stylesheet" href="<?php autoVer('/css/style.css'); ?>" />
+	<link rel="stylesheet" href="http://cdn.wegotengagedin.paris/wegotengagedinparis<?php autoVer('/css/style.css'); ?>" />
 
 </head>
 
@@ -23,7 +23,7 @@
 			<div class="row">
 				<div id="crest-wrapper">
 					<a href="/">
-						<img src="/img/badge/nav-badge.png" alt="Mini Crest">
+						<img src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/badge/nav-badge.png" alt="Mini Crest">
 					</a>
 				</div>
 				<ul>
@@ -51,7 +51,7 @@
 				<h2 class="title white text-shadow centered-text">First Dance Video</h2>
 				<div class="video-wrapper">
 					<div class="iframe-wrapper">
-						<iframe src="https://www.youtube.com/embed/EnB86TDmzvY" frameborder="0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube.com/embed/EnB86TDmzvY?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
@@ -65,37 +65,37 @@
 			</div>
 			<div class="row double padding">
 				<div class="landscape">
-					<img srcset="/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/11@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/11.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="landscape">
-					<img srcset="/img/wedding-album/hair-makeup/10@2x.jpg 2x" src="/img/wedding-album/hair-makeup/10.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/10@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/10.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row triple padding">
 				<div class="first photo">
-					<img srcset="/img/wedding-album/hair-makeup/1@2x.jpg 2x" src="/img/wedding-album/hair-makeup/1.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/1@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/1.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/9@2x.jpg 2x" src="/img/wedding-album/hair-makeup/9.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/9@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/9.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/4@2x.jpg 2x" src="/img/wedding-album/hair-makeup/4.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/4@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/4.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row triple padding">
 				<div class="first photo">
-					<img srcset="/img/wedding-album/hair-makeup/5@2x.jpg 2x" src="/img/wedding-album/hair-makeup/5.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/5@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/5.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/6@2x.jpg 2x" src="/img/wedding-album/hair-makeup/6.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/6@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/6.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 				<div class="photo">
-					<img srcset="/img/wedding-album/hair-makeup/7@2x.jpg 2x" src="/img/wedding-album/hair-makeup/7.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/7@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/7.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 			<div class="row single padding">
 				<div class="landscape">
-					<img srcset="/img/wedding-album/hair-makeup/12@2x.jpg 2x" src="/img/wedding-album/hair-makeup/12.jpg" alt="Shayne, Gigi &amp; Lola">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/12@2x.jpg 2x" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/hair-makeup/12.jpg" alt="Shayne, Gigi &amp; Lola">
 				</div>
 			</div>
 		</div>
@@ -108,26 +108,26 @@
 			</div>
 			<div class="row triple padding">
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/1@2x.jpg" src="/img/wedding-album/bridals/1.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/1@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/1.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/2@2x.jpg" src="/img/wedding-album/bridals/2.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/2@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/2.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/3@2x.jpg" src="/img/wedding-album/bridals/3.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/3@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/3.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 			</div>
 			<div class="row double padding">
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/4@2x.jpg" src="/img/wedding-album/bridals/4.jpg" alt="Betty helping Corinne with her dress">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/4@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/4.jpg" alt="Betty helping Corinne with her dress">
 				</div>
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/5@2x.jpg" src="/img/wedding-album/bridals/5.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/5@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/5.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 			</div>
 			<div class="row single padding">
 				<div class="photo-wrapper">
-					<img srcset="/img/wedding-album/bridals/6@2x.jpg" src="/img/wedding-album/bridals/6.jpg" alt="Corinne's Bridal Portrait">
+					<img srcset="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/6@2x.jpg" src="http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/bridals/6.jpg" alt="Corinne's Bridal Portrait">
 				</div>
 			</div>
 		</div>
@@ -140,7 +140,7 @@
 					<h3 class="white text-shadow padding">Their First Look was in the garden behind the Fine Arts Museum</h3>
 					<div class="video-wrapper">
 						<div class="iframe-wrapper">
-							<iframe src="https://www.youtube.com/embed/mcVAlWjEg8g" frameborder="0" allowfullscreen></iframe>
+							<iframe src="https://www.youtube.com/embed/mcVAlWjEg8g?rel=0" frameborder="0" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
@@ -164,13 +164,13 @@
 
 <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
 <script>window.jQuery || document.write('<script src="/js/vendor/jquery/1-11-3/jquery-min.js"><\/script>')</script> -->
-<!--<script>
+<script>
 (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=
 function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;
 e=o.createElement(i);r=o.getElementsByTagName(i)[0];
 e.src='https://www.google-analytics.com/analytics.js';
 r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));
 ga('create','UA-55459011-7','auto');ga('send','pageview');
-</script>-->
+</script>
 </body>
 

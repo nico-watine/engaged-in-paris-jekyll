@@ -130,9 +130,9 @@ html { box-sizing: border-box; }
 
 *, *::after, *::before { box-sizing: inherit; }
 
-@font-face { font-family: 'AvenirNext Regular'; src: url("/fonts/avenir-next/avenir-next-regular.eot");
+@font-face { font-family: 'AvenirNext Regular'; src: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/fonts/avenir-next/avenir-next-regular.eot");
   /* IE9 Compat Modes */
-src: url("/fonts/avenir-next/avenir-next-regular.eot?iefix") format("embedded-opentype"), url("/fonts/avenir-next/avenir-next-regular.woff") format("woff"), url("/fonts/avenir-next/avenir-next-regular.ttf") format("truetype"), url("/fonts/avenir-next/avenir-next-regular.svg#fa20c367c6a148cda65f50238befb5f2") format("svg");
+src: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/fonts/avenir-next/avenir-next-regular.eot?iefix") format("embedded-opentype"), url("http://cdn.wegotengagedin.paris/wegotengagedinparis/fonts/avenir-next/avenir-next-regular.woff") format("woff"), url("http://cdn.wegotengagedin.paris/wegotengagedinparis/fonts/avenir-next/avenir-next-regular.ttf") format("truetype"), url("http://cdn.wegotengagedin.paris/wegotengagedinparis/fonts/avenir-next/avenir-next-regular.svg#fa20c367c6a148cda65f50238befb5f2") format("svg");
   /* Legacy iOS */
 font-style: normal; font-weight: 400; }
 html { font-size: 1em; }
@@ -252,7 +252,7 @@ nav ul li#wedding-details, nav ul li#proposal-story { width: 11.25em; }
 
 @media only screen and (max-width: 33.125em) { nav #crest-wrapper { position: initial; }
   nav ul { padding: 0 0 0.3125em; } }
-body#index { background: url("/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
+body#index { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/index/bg@default.jpg") no-repeat; background-size: cover; background-position: center top; text-align: center; padding-top: 5em; }
 body#index ul { margin: 0; padding: 0; list-style-type: none; }
 body#index ul li { display: inline-block; width: 13.75rem; }
 body#index ul a { color: #fff; text-decoration: none; font-size: 1.375rem; text-shadow: 0 0.0625rem 0.1875rem #000; font-family: "Playfair Display SC", serif; }
@@ -260,13 +260,13 @@ body#index ul a:hover { font-weight: 700; }
 body#index img.wedding-crest { max-width: 33.75em; width: 100%; padding: 0 1.5em; margin-bottom: 0.9375em; }
 @media only screen and (max-width: 25em) { body#index ul li { width: 100%; margin-bottom: 0.875rem; } }
 
-body#wedding-album { background: #fff url("/img/wedding-album/assets/bg/hex-bg.png") repeat; }
+body#wedding-album { background: #fff url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/assets/bg/hex-bg.png") repeat; }
 
-body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup.jpg") no-repeat center top; height: 21.875em; background-size: cover; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); position: relative; }
+body#wedding-album header { background: #fff url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/header/program-mockup.jpg") no-repeat center top; height: 21.875em; background-size: cover; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); position: relative; }
 body#wedding-album header h1 { position: absolute; top: 7.5rem; text-align: center; width: 100%; }
 body#wedding-album header nav { background: rgba(68, 68, 68, 0.55); box-shadow: 0 0.0625em 0.25em 0 rgba(0, 0, 0, 0.37); width: 100%; height: auto; position: fixed; top: 0; z-index: 55; }
-@media screen and (max-width: 66.875em) { body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup@1100.jpg") no-repeat center top; } }
-@media only screen and (max-width: 43.75em) { body#wedding-album header { background: #fff url("/img/wedding-album/header/program-mockup@700.jpg") no-repeat center top; } }
+@media screen and (max-width: 66.875em) { body#wedding-album header { background: #fff url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/header/program-mockup@1100.jpg") no-repeat center top; } }
+@media only screen and (max-width: 43.75em) { body#wedding-album header { background: #fff url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/header/program-mockup@700.jpg") no-repeat center top; } }
 
 section#memories { padding: 2.625em 0; }
 section#memories h2 { font-size: 1.9375em; padding: 0 0.625rem; }
@@ -284,7 +284,7 @@ body#wedding-album .video-banner .video-wrapper:last-child { margin-right: 0; }
 body#wedding-album .video-banner .video-wrapper .iframe-wrapper { width: 100%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; border: 0.3125em solid #fff; box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
 body#wedding-album .video-banner .video-wrapper .iframe-wrapper iframe { width: 100%; height: 100%; top: 0; left: 0; position: absolute; }
 
-body#wedding-album section.video-banner#first-dance .row { background: url("/img/wedding-album/first-dance/first-dance-swirl@2x.png") no-repeat left; background-size: auto 100%; padding: 1.875em 0 3.125em; }
+body#wedding-album section.video-banner#first-dance .row { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/first-dance/first-dance-swirl@2x.png") no-repeat left; background-size: auto 100%; padding: 1.875em 0 3.125em; }
 
 body#wedding-album section#hair-makeup .row.double .landscape { float: left; display: block; margin-right: 1.75788%; width: 49.12106%; text-align: center; }
 body#wedding-album section#hair-makeup .row.double .landscape:last-child { margin-right: 0; }
@@ -312,7 +312,7 @@ body#wedding-album section#bridals .row.single .photo-wrapper:last-child { margi
 @media only screen and (max-width: 37.5em) { body#wedding-album section#bridals .row.triple .photo-wrapper, body#wedding-album section#bridals .row.double .photo-wrapper, body#wedding-album section#bridals .row.single .photo-wrapper { float: left; display: block; margin-right: 3.57866%; width: 100%; margin-left: 0%; }
   body#wedding-album section#bridals .row.triple .photo-wrapper:last-child, body#wedding-album section#bridals .row.double .photo-wrapper:last-child, body#wedding-album section#bridals .row.single .photo-wrapper:last-child { margin-right: 0; } }
 
-body#wedding-album section#first-look .video-banner { background-image: url("/img/wedding-album/first-look/swirl.png"); background-position: center bottom; background-repeat: no-repeat; background-size: 120% auto; }
+body#wedding-album section#first-look .video-banner { background-image: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/wedding-album/first-look/swirl.png"); background-position: center bottom; background-repeat: no-repeat; background-size: 120% auto; }
 body#wedding-album section#first-look .video-banner .row { padding: 1.875em 0 3.125em; }
 body#wedding-album section#first-look .gallery #landscape img, body#wedding-album section#first-look .gallery #portrait img { height: 25em; width: auto; }
 body#wedding-album section#first-look .gallery #landscape { float: left; }
@@ -328,7 +328,7 @@ body#wedding-album section#first-look .gallery #portrait { float: right; text-al
   body#wedding-album section#first-look .gallery #portrait { text-align: center; } }
 @media only screen and (max-width: 37.5em) { body#wedding-album section#first-look .gallery #portrait img { width: 100%; height: auto; } }
 
-.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
+.bgvid-container { position: relative; top: 0; left: 0; text-align: center; min-height: 100%; overflow: hidden; background: #000 url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/video/splash/mobile/landscape.gif") no-repeat center top; background-size: cover; }
 .bgvid-container #intro { position: absolute; width: 100%; z-index: 2; top: 6.25em; text-align: center; padding: 0 2.5em; }
 .bgvid-container #intro .verbiage h1 { margin-bottom: 3.75rem; }
 .bgvid-container #intro .verbiage h3 { margin-bottom: 6.25rem; }
@@ -347,11 +347,11 @@ body#wedding-album section#first-look .gallery #portrait { float: right; text-al
 @media only screen and (max-height: 21.875em) { .bgvid-container #intro { top: 2.5em; } }
 @media only screen and (max-width: 33.125em) and (max-height: 25em) { .bgvid-container { min-height: 25em; }
   .bgvid-container #intro { top: 5em; } }
-#parallax-ring { background: url("/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
+#parallax-ring { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/ring/ring.jpg"); height: 140%; width: 100%; }
 #parallax-ring .fade-out { height: 100%; width: 100%; }
 @media only screen and (max-width: 64em) { #parallax-ring { height: 100%; } }
-@media screen and (max-width: 60.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@970.jpg"); } }
-@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("/img/proposal-story/ring/ring@650.jpg"); } }
+@media screen and (max-width: 60.625em) { #parallax-ring { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/ring/ring@970.jpg"); } }
+@media only screen and (max-width: 40.625em) { #parallax-ring { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/ring/ring@650.jpg"); } }
 
 .mobile-only#static-ring { display: none; }
 
@@ -393,7 +393,7 @@ body#wedding-album section#first-look .gallery #portrait { float: right; text-al
 
 .full-photo { text-align: center; }
 
-#lock-bridge .map-header { background: url("/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
+#lock-bridge .map-header { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/lock-bridge/lock-bridge-map.jpg") no-repeat right; background-size: auto 100%; }
 @media only screen and (min-width: 106.25em) { #lock-bridge .map-header { background-size: cover; } }
 @media only screen and (max-width: 68.75em) { #lock-bridge .map-header { background-position: inherit; } }
 @media only screen and (max-width: 64em) { #lock-bridge .map-header { background-position: 50% top; height: 31.25em; } }
@@ -408,7 +408,7 @@ body#wedding-album section#first-look .gallery #portrait { float: right; text-al
 @media only screen and (max-width: 53.75em) { #lock-bridge h3#selfie { font-size: 1.375em; max-width: 41.875rem; margin-bottom: 2.5rem; } }
 @media screen and (max-width: 30em) { #lock-bridge h3#selfie { font-size: 1.25rem; } }
 
-#notre-dame .map-header { background: url("/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
+#notre-dame .map-header { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/notre-dame/notre-dame-map.jpg") no-repeat left; background-size: auto 100%; }
 @media only screen and (min-width: 93.813em) { #notre-dame .map-header { background-size: cover; background-position: 50%; } }
 @media only screen and (max-width: 93.75em) { #notre-dame .map-header { background-position: left; } }
 @media only screen and (max-width: 83.75em) { #notre-dame .map-header { background-position: -100px; } }
@@ -433,9 +433,9 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
   figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-container h4 { color: #333; text-shadow: none; } }
 
 #louvre.proposal-opportunity { text-align: center; margin-bottom: 4em; }
-#louvre.proposal-opportunity #panorama-banner { height: 31.25em; background: url("/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
+#louvre.proposal-opportunity #panorama-banner { height: 31.25em; background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/louvre/louvre-parallax.jpg") no-repeat center top; background-size: cover; padding-top: 3.125em; margin-bottom: 3.75em; }
 #louvre.proposal-opportunity #panorama-banner h2 { font-size: 3.9375em; }
-@media only screen and (max-width: 60em) { #louvre.proposal-opportunity #panorama-banner { background: url("/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
+@media only screen and (max-width: 60em) { #louvre.proposal-opportunity #panorama-banner { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/louvre/louvre-parallax@960.jpg") no-repeat center top; background-size: cover; padding-top: 1.25em; height: 25em; } }
 
 #louvre-pyramid { margin-bottom: 3.75em; position: relative; }
 #louvre-pyramid img { box-shadow: 0 0.6875rem 0.4375rem 0 rgba(0, 0, 0, 0.19), 0 0.8125rem 1.5625rem 0 rgba(0, 0, 0, 0.3); }
@@ -451,7 +451,7 @@ figure#notre-dame-back .verbiage-container h3, figure#notre-dame-back .verbiage-
 #louvre-gardens h4 { text-align: center; padding: 0 0.625rem; margin-bottom: 3.125rem; max-width: 37.5rem; }
 
 #sacre-coeur.proposal-opportunity h1 { margin-bottom: 2.8125rem; }
-#sacre-coeur.proposal-opportunity .map-header { background: url("/img/proposal-story/sacre-coeur/sacre-coeur.jpg") no-repeat left top; width: 90.3125em; margin: 0 auto; background-size: 56.25em; height: 37.5em; }
+#sacre-coeur.proposal-opportunity .map-header { background: url("http://cdn.wegotengagedin.paris/wegotengagedinparis/img/proposal-story/sacre-coeur/sacre-coeur.jpg") no-repeat left top; width: 90.3125em; margin: 0 auto; background-size: 56.25em; height: 37.5em; }
 #sacre-coeur.proposal-opportunity .map-header h2 { position: absolute; right: 37.5rem; top: 3.75rem; padding-left: 1.875rem; min-width: 20.625rem; }
 #sacre-coeur.proposal-opportunity .map-header h2 span { display: inline-block; }
 @media only screen and (max-width: 1445px) { #sacre-coeur.proposal-opportunity .map-header { background-size: 56.25em auto; width: 100%; } }

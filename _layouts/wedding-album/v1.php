@@ -36,7 +36,7 @@
 				<h2 class="title white text-shadow centered-text">First Dance Video</h2>
 				<div class="video-wrapper">
 					<div class="iframe-wrapper">
-						<iframe src="https://www.youtube.com/embed/EnB86TDmzvY" frameborder="0" allowfullscreen></iframe>
+						<iframe src="https://www.youtube.com/embed/EnB86TDmzvY?rel=0" frameborder="0" allowfullscreen></iframe>
 					</div>
 				</div>
 			</div>
@@ -125,7 +125,7 @@
 					<h3 class="white text-shadow padding">Their First Look was in the garden behind the Fine Arts Museum</h3>
 					<div class="video-wrapper">
 						<div class="iframe-wrapper">
-							<iframe src="https://www.youtube.com/embed/mcVAlWjEg8g" frameborder="0" allowfullscreen></iframe>
+							<iframe src="https://www.youtube.com/embed/mcVAlWjEg8g?rel=0" frameborder="0" allowfullscreen></iframe>
 						</div>
 					</div>
 				</div>
