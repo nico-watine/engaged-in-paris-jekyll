@@ -1,6 +1,5 @@
-
-
-
-_ignores/engaged.sublime-workspace
-
+config.codekit
+*.sublime-project
 *.sublime-workspace
+.jekyll-metadata
+_site
